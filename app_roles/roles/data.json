@@ -1,0 +1,27 @@
+{
+  "INTERNAL_ARTICLE_REVIEWER": {
+    "display_name": "Article Reviewer",
+    "status": "ACTIVE",
+    "technical_id": "INTERNAL_ARTICLE_REVIEWER"
+  },
+  "INTERNAL_ORDER_SUPPORT": {
+    "display_name": "Order Support",
+    "status": "ACTIVE",
+    "technical_id": "INTERNAL_ORDER_SUPPORT"
+  },
+  "INTERNAL_SUPER_ADMIN": {
+    "display_name": "Internal Super Admin",
+    "status": "ACTIVE",
+    "technical_id": "INTERNAL_SUPER_ADMIN"
+  },
+  "INTERNAL_SUPPORT": {
+    "display_name": "Support Manager",
+    "status": "ACTIVE",
+    "technical_id": "INTERNAL_SUPPORT"
+  },
+  "INTERNAL_ARTICLE_SUPPORT": {
+    "display_name": "Article Support",
+    "status": "ACTIVE",
+    "technical_id": "INTERNAL_ARTICLE_SUPPORT"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "display-name": "Developer Account",
+  "request-attributes": [
+    {
+      "display-name": "Role",
+      "name": "role",
+      "value-type": "single-select",
+      "values": [
+        {
+          "name": "DEVELOPER_ADMIN"
+        },
+        {
+          "name": "DEVELOPER_USER"
+        }
+      ]
+    }
+  ]
+}

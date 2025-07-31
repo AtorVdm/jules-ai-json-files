@@ -1,0 +1,23 @@
+{
+  "05190c9c-5ff8-4ec2-8d84-aef9ab9b390f": {
+    "humans": {
+      "5ba2cdf4-9fb1-11ee-a951-02f259015d0a": {
+        "role": [
+          "DEVELOPER_ADMIN"
+        ]
+      }
+    }
+  },
+  "0bbbae7e-76c2-4bb2-ae59-aec804b2f40b": {
+    "humans": {
+      "2b098164-2777-11ee-9d3a-02f259015d0a": {
+        "role": [
+          "DEVELOPER_USER"
+        ]
+      }
+    }
+  },
+  "1a95451b-0fff-40eb-a274-73af3fb3d188": {
+    "humans": {}
+  }
+}

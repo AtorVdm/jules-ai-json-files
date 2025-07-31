@@ -1,0 +1,264 @@
+{
+  "092d6051-2642-4bd6-bed8-3e9be1bcd671": {
+    "humans": {
+      "09a778fe-029c-4668-9f44-0afea4247240": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "13d15cc2-7727-4820-bb14-657d08659dc4": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "16315dd4-c39a-4602-8f93-b730769f5b8f": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "196fd390-a901-11eb-82c0-0604a04de14e": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "197285aa-a901-11eb-82c0-0604a04de14e": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "19799d95-a901-11eb-82c0-0604a04de14e": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "19877b51-a901-11eb-82c0-0604a04de14e": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "29d3fee2-5bc1-4007-884c-3b054d4fab15": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "2b098164-2777-11ee-9d3a-02f259015d0a": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "2ba84f15-bb40-40bc-b56e-da87cd4ea050": {
+        "role": [
+          "MERCHANT_MANAGER"
+        ]
+      },
+      "3576ca26-d120-4a7c-bd17-dc70288df47d": {
+        "role": [
+          "MERCHANT_SUPERVISOR"
+        ]
+      },
+      "3b44045a-89f0-4b5f-9a7e-33ef8564abdb": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "470a1fcc-d2e8-11ef-91fe-024aaa9b6cd7": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "4966181a-3969-44e8-84f3-eefea2a65a21": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "49a79f1d-73ba-49a9-9b0e-1785479e8340": {
+        "role": [
+          "MERCHANT_MANAGER"
+        ]
+      },
+      "4c571f9d-2181-4b9c-a74f-c400b317c267": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "4d294515-2781-4b6c-9172-58e97ad842d1": {
+        "role": [
+          "MERCHANT_SUPERVISOR"
+        ]
+      },
+      "54d6547a-d4f4-11ed-9d3a-02f259015d0a": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "555a3720-f2b0-4718-8282-66fbcad0e7bc": {
+        "role": [
+          "MERCHANT_SUPERVISOR"
+        ]
+      },
+      "55bf35db-d620-4dec-97f7-7170d326cd1d": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "5704ccfa-c788-4d7a-bb10-e3bf3e6b2391": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "585abc5f-3af5-11ef-a07c-02f1149dc89d": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "931de1f7-5068-4022-b309-2d97627d3f6c": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "941fb32c-664e-45ae-8f62-9b6b8ff793cf": {
+        "role": [
+          "MERCHANT_MANAGER"
+        ]
+      },
+      "9830efeb-e48c-4480-907d-2c53518fb0ad": {
+        "role": [
+          "MERCHANT_SUPERVISOR"
+        ]
+      },
+      "9ff96f77-13ab-4bc0-85c6-dc73d7236887": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "b7bbb26f-acc2-45b0-a5be-0b0f89f213ed": {
+        "role": [
+          "MERCHANT_MANAGER"
+        ]
+      },
+      "d6770af5-538e-4bff-bb7e-61dece77103b": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "e151b0c4-4a82-42f8-9498-501ede378602": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "eacf1bfc-ba10-4e67-9907-ee2f9a732336": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "f533140d-18f4-4e8e-a1b2-25383affcb1b": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "f6d4a2ca-d49a-4e20-b9bf-563ebcbed3cf": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "fd1bc0a0-97a4-455e-bd7f-f9e3b28e56b3": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "fd7a4ea2-db31-4c2b-ba3d-c190e4ad59db": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "ffd6ca5b-fdea-4233-8431-77b0c9fbbea7": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      }
+    }
+  },
+  "0c167087-f9c7-471a-b559-728c41e7f5b7": {
+    "humans": {
+      "074a0064-770c-4416-9379-078ef31ae976": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "1836cbcc-1d43-11ed-8eae-0604a04de14e": {
+        "role": [
+          "MERCHANT_MANAGER"
+        ]
+      },
+      "2b098164-2777-11ee-9d3a-02f259015d0a": {
+        "role": [
+          "MERCHANT_MANAGER"
+        ]
+      },
+      "4966181a-3969-44e8-84f3-eefea2a65a21": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "49a79f1d-73ba-49a9-9b0e-1785479e8340": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "55c9c531-cf0d-4c7f-b3f3-c4bfca2e5c7c": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "692af1a8-cd48-44aa-b677-ed15e5239772": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "71466fee-992e-4691-a39f-93ec85ba57a7": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "941fb32c-664e-45ae-8f62-9b6b8ff793cf": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      }
+    }
+  },
+  "66f4aaaa-864a-439f-be8c-c7fb092345fc": {
+    "humans": {
+      "4afe1958-0cba-4f69-86fa-2e17d033f3f8": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "55bf35db-d620-4dec-97f7-7170d326cd1d": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "61800816-d198-4b25-906b-03f5fe00bc80": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "61b3fc19-2081-4234-a782-cedab403cbe9": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "d2358b1e-966e-4a64-9db6-e8ea245c17b0": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      },
+      "f6d4a2ca-d49a-4e20-b9bf-563ebcbed3cf": {
+        "role": [
+          "MERCHANT_ADMIN"
+        ]
+      }
+    }
+  }
+}

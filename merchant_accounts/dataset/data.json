@@ -1,0 +1,46 @@
+{
+  "092d6051-2642-4bd6-bed8-3e9be1bcd671": {
+    "account_id": "092d6051-2642-4bd6-bed8-3e9be1bcd671",
+    "created_at": "2001-12-11T07:53:46.068938Z",
+    "iam_account_id": "092d6051-2642-4bd6-bed8-3e9be1bcd671",
+    "merchants": [
+      {
+        "id": "0355a6ad-6fa1-4894-b825-61ec315966c8",
+        "name": "Whimsical Wares"
+      }
+    ],
+    "name": "Treasure Trove Traders",
+    "status": "ENABLED",
+    "type": "TEST",
+    "updated_at": "2002-12-11T07:53:46.068938Z"
+  },
+  "0c167087-f9c7-471a-b559-728c41e7f5b7": {
+    "account_id": "0c167087-f9c7-471a-b559-728c41e7f5b7",
+    "created_at": "1999-12-11T07:54:23.219904Z",
+    "iam_account_id": "0c167087-f9c7-471a-b559-728c41e7f5b7",
+    "merchants": [
+      {
+        "id": "0641a98a-20c3-4f0a-a6a8-14fc5341c504",
+        "name": "Rustic Roots Emporium"
+      },
+      {
+        "id": "069a43a0-d03a-421c-b44a-666ea012b7d2",
+        "name": "Urban Oasis Boutique"
+      }
+    ],
+    "name": "Crafted Curiosities",
+    "status": "ENABLED",
+    "type": "TEST",
+    "updated_at": "2004-12-11T07:54:23.219904Z"
+  },
+  "66f4aaaa-864a-439f-be8c-c7fb092345fc": {
+    "account_id": "66f4aaaa-864a-439f-be8c-c7fb092345fc",
+    "created_at": "2005-06-11T12:02:48.845237Z",
+    "iam_account_id": "66f4aaaa-864a-439f-be8c-c7fb092345fc",
+    "merchants": [],
+    "name": "Savvy Shoppe",
+    "status": "ENABLED",
+    "type": "TEST",
+    "updated_at": "2006-06-11T12:02:48.845237Z"
+  }
+}

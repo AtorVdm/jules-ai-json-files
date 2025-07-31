@@ -1,0 +1,21 @@
+{
+  "display-name": "Merchant Account",
+  "request-attributes": [
+    {
+      "display-name": "Role",
+      "name": "role",
+      "value-type": "single-select",
+      "values": [
+        {
+          "name": "MERCHANT_ADMIN"
+        },
+        {
+          "name": "MERCHANT_SUPERVISOR"
+        },
+        {
+          "name": "MERCHANT_MANAGER"
+        }
+      ]
+    }
+  ]
+}
