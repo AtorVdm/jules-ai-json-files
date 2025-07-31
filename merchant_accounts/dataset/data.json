@@ -11,7 +11,7 @@
     ],
     "name": "Treasure Trove Traders",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-12-11T07:53:46.068938Z"
   },
   "0c167087-f9c7-471a-b559-728c41e7f5b7": {
@@ -30,7 +30,7 @@
     ],
     "name": "Crafted Curiosities",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-12-11T07:54:23.219904Z"
   },
   "66f4aaaa-864a-439f-be8c-c7fb092345fc": {
@@ -40,7 +40,7 @@
     "merchants": [],
     "name": "Savvy Shoppe",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-06-11T12:02:48.845237Z"
   },
   "67a5a801-cfae-4e17-a9d3-5c9ad817924d": {
@@ -55,7 +55,7 @@
     ],
     "name": "Mystic Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-08-30T10:04:45Z"
   },
   "394d8690-6201-4357-8d9b-8122fe6f2331": {
@@ -70,7 +70,7 @@
     ],
     "name": "Midnight Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-12-22T10:36:43Z"
   },
   "2fc47544-ea1c-4049-8d53-28f1668cdcb0": {
@@ -89,7 +89,7 @@
     ],
     "name": "Golden Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-12-17T20:21:27Z"
   },
   "c016fba3-735d-4b03-aaf5-16dc7d0dd3d7": {
@@ -108,7 +108,7 @@
     ],
     "name": "Midnight Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-01-30T01:58:41Z"
   },
   "cd9156f2-443f-42b8-950f-cc4fdbc51274": {
@@ -123,7 +123,7 @@
     ],
     "name": "Crystal Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-09-28T05:00:52Z"
   },
   "95817533-998e-4d95-a70f-cd06da8e9695": {
@@ -138,7 +138,7 @@
     ],
     "name": "Azure Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-04-23T13:57:40Z"
   },
   "5742d01e-52df-4dd4-9ba6-25a17e3231f3": {
@@ -153,7 +153,7 @@
     ],
     "name": "Azure Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-04-21T14:29:24Z"
   },
   "4832384a-afbb-4a67-8155-976c124acf78": {
@@ -168,7 +168,7 @@
     ],
     "name": "Sunrise Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-06-16T18:25:16Z"
   },
   "9a42f737-f1ab-4344-b1bc-20119502a5c4": {
@@ -183,7 +183,7 @@
     ],
     "name": "Whispering Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-07-19T23:08:02Z"
   },
   "30c7be80-e47b-4165-938e-4032b88372e7": {
@@ -198,7 +198,7 @@
     ],
     "name": "Golden Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-08-31T20:42:01Z"
   },
   "6e0f5ecc-687c-4137-be16-c3ca23aa4b7b": {
@@ -213,7 +213,7 @@
     ],
     "name": "Crimson Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-01-16T20:14:18Z"
   },
   "fbe15027-2ed5-4b6f-a2df-9d0e8d6cf7f7": {
@@ -228,7 +228,7 @@
     ],
     "name": "Enchanted Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-06-12T12:07:26Z"
   },
   "e1bc56aa-de9d-416e-b699-668d589aee3b": {
@@ -243,7 +243,7 @@
     ],
     "name": "Enchanted Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-04-10T15:11:52Z"
   },
   "424c5de3-6ced-4249-b1e6-f46d6961a9cf": {
@@ -294,7 +294,7 @@
     ],
     "name": "Mystic Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2000-09-29T12:02:17Z"
   },
   "e8cb1e01-5fca-4242-8724-ef08a901c22b": {
@@ -309,7 +309,7 @@
     ],
     "name": "Enchanted Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2000-11-13T00:20:20Z"
   },
   "7056ca74-bcbd-4a27-b4c6-bb753438abc9": {
@@ -324,7 +324,7 @@
     ],
     "name": "Cosmic Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-02-12T00:34:06Z"
   },
   "cdba3a93-2b7b-4f93-b66b-404842965e47": {
@@ -339,7 +339,7 @@
     ],
     "name": "Crimson Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-02-09T11:50:29Z"
   },
   "280bbaec-a057-4505-bd10-96073dae56a2": {
@@ -358,7 +358,7 @@
     ],
     "name": "Crimson Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-12-04T01:22:31Z"
   },
   "77da0c20-b18c-4e73-9dbf-4df55d6bc788": {
@@ -373,7 +373,7 @@
     ],
     "name": "Crystal Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-06-30T10:13:05Z"
   },
   "fe8e54ab-d674-45b0-b466-4767342be1a0": {
@@ -388,7 +388,7 @@
     ],
     "name": "Azure Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-04-21T08:45:02Z"
   },
   "b9dbb114-69ab-406d-b198-885a4a3a6f2d": {
@@ -403,7 +403,7 @@
     ],
     "name": "Azure Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2000-06-04T22:52:33Z"
   },
   "5c98970c-9079-4001-bf1f-bac2968984a9": {
@@ -418,7 +418,7 @@
     ],
     "name": "Azure Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-04-20T19:42:29Z"
   },
   "2a0b8f92-1c49-4ded-8034-c1f67e0740d6": {
@@ -433,7 +433,7 @@
     ],
     "name": "Whispering Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-05-15T23:32:22Z"
   },
   "506e1c63-318c-4af8-a905-ca1609dc0057": {
@@ -448,7 +448,7 @@
     ],
     "name": "Whispering Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-09-08T00:03:40Z"
   },
   "437665bb-85f6-4f48-8ea0-7025ad3275d7": {
@@ -499,7 +499,7 @@
     ],
     "name": "Cosmic Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-03-01T15:04:14Z"
   },
   "602020f9-9d44-41c6-95e8-73034c83e7cb": {
@@ -514,7 +514,7 @@
     ],
     "name": "Sunrise Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-06-25T09:56:48Z"
   },
   "962a1463-dbdd-4083-8bd8-8db2b2b20f5e": {
@@ -529,7 +529,7 @@
     ],
     "name": "Enchanted Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-04-08T12:10:17Z"
   },
   "64133dfa-8e78-4c72-99e4-57c4341cf68a": {
@@ -548,7 +548,7 @@
     ],
     "name": "Midnight Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-10-22T09:52:28Z"
   },
   "5724d4cd-fd3b-416b-84fd-7e02783bf7af": {
@@ -563,7 +563,7 @@
     ],
     "name": "Golden Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2000-12-06T21:48:36Z"
   },
   "f1264941-0d73-4c05-b453-68fc90043665": {
@@ -578,7 +578,7 @@
     ],
     "name": "Cosmic Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-02-15T19:53:45Z"
   },
   "99960e2a-c35a-4254-862e-cdde1e437ef7": {
@@ -593,7 +593,7 @@
     ],
     "name": "Mystic Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-08-18T11:05:47Z"
   },
   "7bbf486b-f03a-40c2-b064-6a42d22d3a82": {
@@ -608,7 +608,7 @@
     ],
     "name": "Cosmic Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-12-12T17:36:04Z"
   },
   "0b74cc7f-fbc9-4280-823a-cd8e1a525767": {
@@ -623,7 +623,7 @@
     ],
     "name": "Midnight Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-07-28T11:00:23Z"
   },
   "f00b3fe5-73f3-4591-a33e-bb24c13b7487": {
@@ -638,7 +638,7 @@
     ],
     "name": "Crystal Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-07-12T21:24:37Z"
   },
   "2b1964f2-81ee-460a-80f3-fe2162212aee": {
@@ -669,7 +669,7 @@
     ],
     "name": "Crimson Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-06-08T19:52:11Z"
   },
   "2d110447-6852-40b9-8b46-4ed076bb9fc3": {
@@ -684,7 +684,7 @@
     ],
     "name": "Sunrise Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-11-13T21:16:24Z"
   },
   "02016b62-b1cb-43fd-bc48-d4e4b55df0f6": {
@@ -699,7 +699,7 @@
     ],
     "name": "Golden Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-02-02T19:10:56Z"
   },
   "7eae3f3e-0def-4869-b2ba-569af6859365": {
@@ -714,7 +714,7 @@
     ],
     "name": "Crystal Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-03-31T15:15:25Z"
   },
   "de17292e-afe7-4870-9442-de2a4e4c4490": {
@@ -765,7 +765,7 @@
     ],
     "name": "Whispering Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-11-06T21:15:10Z"
   },
   "e43cd8e1-0199-4e8c-867d-aa0f1107749a": {
@@ -780,7 +780,7 @@
     ],
     "name": "Midnight Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-12-22T01:13:18Z"
   },
   "ea7c0f66-7857-406c-be15-2b3318bf99d4": {
@@ -795,7 +795,7 @@
     ],
     "name": "Crystal Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-02-20T04:20:53Z"
   },
   "506ce6f2-3f31-4541-a3b6-0f7c9df379a7": {
@@ -810,7 +810,7 @@
     ],
     "name": "Crystal Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-09-24T13:34:01Z"
   },
   "0e95ede8-674f-4dd6-bab4-13a4243355b1": {
@@ -825,7 +825,7 @@
     ],
     "name": "Midnight Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-01-02T12:35:06Z"
   },
   "16f3552e-db9c-43fc-9de8-f67a4ad6347e": {
@@ -840,7 +840,7 @@
     ],
     "name": "Mystic Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-10-21T09:53:30Z"
   },
   "0aaa2058-09d9-4fcd-9c7d-d5d1f77a0ac0": {
@@ -855,7 +855,7 @@
     ],
     "name": "Azure Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-09-07T15:23:16Z"
   },
   "fe15ddf2-f044-4fae-bc69-bdfe1ff6cb41": {
@@ -906,7 +906,7 @@
     ],
     "name": "Cosmic Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-01-09T16:34:52Z"
   },
   "16b662ab-56dc-485e-8f61-aad774e0796f": {
@@ -921,7 +921,7 @@
     ],
     "name": "Golden Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-08-30T07:26:03Z"
   },
   "c3c65f34-8309-4838-8b09-b1f7ad944854": {
@@ -936,7 +936,7 @@
     ],
     "name": "Crystal Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-02-20T06:56:23Z"
   },
   "aa9ab4ef-5a54-437d-8a00-5b59d7a336aa": {
@@ -951,7 +951,7 @@
     ],
     "name": "Sunrise Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-06-28T19:08:57Z"
   },
   "d5be5e45-79ea-4cf1-ace3-66f8a46b9a97": {
@@ -966,7 +966,7 @@
     ],
     "name": "Cosmic Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-08-25T03:34:34Z"
   },
   "1816752f-82ca-4aaf-b16c-b11dd07b9761": {
@@ -981,7 +981,7 @@
     ],
     "name": "Midnight Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-04-25T10:00:01Z"
   },
   "ec62a8c9-ff17-427f-93b4-1c56b5aab8f8": {
@@ -996,7 +996,7 @@
     ],
     "name": "Golden Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-01-30T01:22:04Z"
   },
   "cfc1a882-42e0-4fca-b06f-bebfebdee001": {
@@ -1019,7 +1019,7 @@
     ],
     "name": "Enchanted Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-01-24T04:26:44Z"
   },
   "a9bede52-c1b3-4eaa-9500-d3ccee152764": {
@@ -1034,7 +1034,7 @@
     ],
     "name": "Crystal Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-06-26T13:32:21Z"
   },
   "6b405a92-ce0d-4b45-b05a-c8cb23f51eff": {
@@ -1049,7 +1049,7 @@
     ],
     "name": "Crimson Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-06-12T04:45:20Z"
   },
   "7107aec2-e5dc-4d69-af66-07ad8453e554": {
@@ -1064,7 +1064,7 @@
     ],
     "name": "Crimson Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-01-09T16:01:09Z"
   },
   "8ec925db-56f3-4550-b20f-bb8f50629ab5": {
@@ -1079,7 +1079,7 @@
     ],
     "name": "Azure Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-06-21T07:28:43Z"
   },
   "7aed338e-908a-4327-80b8-9d8eeb12f03c": {
@@ -1094,7 +1094,7 @@
     ],
     "name": "Sunrise Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-06-06T04:14:50Z"
   },
   "f3b7129c-1148-422f-b3be-cab6abbfb85e": {
@@ -1109,7 +1109,7 @@
     ],
     "name": "Azure Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-06-16T03:46:42Z"
   },
   "4b947824-b642-4a07-8517-0c8cc42d8a2a": {
@@ -1124,7 +1124,7 @@
     ],
     "name": "Azure Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-08-07T16:44:15Z"
   },
   "9a5658e0-78a3-4331-ae94-dac7261d0612": {
@@ -1139,7 +1139,7 @@
     ],
     "name": "Sunrise Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-05-14T01:28:29Z"
   },
   "2cd4082a-00bd-4c5a-a2cf-6a8434e3a3b6": {
@@ -1154,7 +1154,7 @@
     ],
     "name": "Sunrise Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-11-08T03:27:11Z"
   },
   "de5fa057-9f79-44cc-8bd4-3b19064d5838": {
@@ -1169,7 +1169,7 @@
     ],
     "name": "Crimson Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-06-16T23:16:43Z"
   },
   "125ccd50-db3d-4a6a-a8b1-0dc7b2943ebb": {
@@ -1184,7 +1184,7 @@
     ],
     "name": "Sunrise Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-03-27T19:42:41Z"
   },
   "23bb8b08-54ee-4000-898c-23138ce04a93": {
@@ -1235,7 +1235,7 @@
     ],
     "name": "Golden Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-11-23T10:31:14Z"
   },
   "0fae7a52-db46-4137-8e12-828d1c860c22": {
@@ -1250,7 +1250,7 @@
     ],
     "name": "Midnight Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2000-08-10T06:16:14Z"
   },
   "34024551-9725-452f-a954-2e910c9d7d0b": {
@@ -1265,7 +1265,7 @@
     ],
     "name": "Whispering Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-08-07T23:41:36Z"
   },
   "e07133b6-5369-4c07-ae62-6cddfd37d1e7": {
@@ -1284,7 +1284,7 @@
     ],
     "name": "Crimson Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-02-03T02:03:53Z"
   },
   "4897f7c0-13be-4509-a5f3-2c3d6910aaa5": {
@@ -1299,7 +1299,7 @@
     ],
     "name": "Enchanted Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-11-30T08:05:06Z"
   },
   "d76622db-9c75-49ca-a7b2-da0065d74e70": {
@@ -1314,7 +1314,7 @@
     ],
     "name": "Crimson Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-07-25T05:35:46Z"
   },
   "00e080b5-c60d-4bb4-b4b6-50774d28aa52": {
@@ -1329,7 +1329,7 @@
     ],
     "name": "Crimson Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-06-17T17:13:03Z"
   },
   "9e31fa38-a990-448b-8ef1-4070451ebec8": {
@@ -1344,7 +1344,7 @@
     ],
     "name": "Crystal Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-01-18T23:03:28Z"
   },
   "14b537e6-0154-498b-9eb3-3ece03898831": {
@@ -1359,7 +1359,7 @@
     ],
     "name": "Golden Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-07-09T15:25:20Z"
   },
   "c0724507-4fcc-474a-9169-f64e971ef307": {
@@ -1374,7 +1374,7 @@
     ],
     "name": "Golden Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-08-19T13:56:31Z"
   },
   "252e439d-50b4-44c5-b746-646d82d7a353": {
@@ -1389,7 +1389,7 @@
     ],
     "name": "Crystal Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-10-13T12:55:40Z"
   },
   "97900aa6-891f-4f1a-85c9-c233a5fc46ab": {
@@ -1404,7 +1404,7 @@
     ],
     "name": "Sunrise Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-11-24T10:23:44Z"
   },
   "4f709694-ab07-4ff5-b998-2df9250b081c": {
@@ -1419,7 +1419,7 @@
     ],
     "name": "Midnight Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-07-18T05:28:19Z"
   },
   "4aa6475b-70ce-4049-9452-5a003271be44": {
@@ -1442,7 +1442,7 @@
     ],
     "name": "Cosmic Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-03-19T21:53:21Z"
   },
   "e9a629a1-ada9-4313-8b64-98cc5bae152d": {
@@ -1457,7 +1457,7 @@
     ],
     "name": "Golden Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-04-09T19:03:19Z"
   },
   "e9eb73a8-687d-4489-b671-ca63fc533e94": {
@@ -1472,7 +1472,7 @@
     ],
     "name": "Sunrise Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-12-30T16:04:18Z"
   },
   "238b85b3-b378-4a11-9015-afe162d91cdf": {
@@ -1487,7 +1487,7 @@
     ],
     "name": "Enchanted Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-09-07T16:24:29Z"
   },
   "4bad43f5-b02f-45be-8a07-4edb56434b91": {
@@ -1510,7 +1510,7 @@
     ],
     "name": "Crystal Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-08-17T14:56:17Z"
   },
   "4fc699be-9c9b-4184-8001-3da0a13b4217": {
@@ -1529,7 +1529,7 @@
     ],
     "name": "Crystal Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-09-30T03:37:57Z"
   },
   "2abe2de4-14ea-4a68-b700-54c3b95e64de": {
@@ -1544,7 +1544,7 @@
     ],
     "name": "Cosmic Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-03-16T21:15:24Z"
   },
   "9e1aac3c-6eb5-47f7-a9aa-f10689a22674": {
@@ -1559,7 +1559,7 @@
     ],
     "name": "Cosmic Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-07-17T13:31:00Z"
   },
   "8c78ccbf-0340-4a7d-b1c9-76975b6525d4": {
@@ -1574,7 +1574,7 @@
     ],
     "name": "Crystal Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2000-05-13T02:43:59Z"
   },
   "52743985-8564-4058-b132-6d6f323d78cf": {
@@ -1589,7 +1589,7 @@
     ],
     "name": "Whispering Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-07-01T15:33:34Z"
   },
   "c638a359-0b87-499f-9add-9d4260a53fe8": {
@@ -1604,7 +1604,7 @@
     ],
     "name": "Cosmic Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-11-10T11:37:08Z"
   },
   "34de491f-2bed-4ac0-acef-464793052e9d": {
@@ -1619,7 +1619,7 @@
     ],
     "name": "Sunrise Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-08-29T08:35:26Z"
   },
   "4c1325e1-b52f-4557-99a6-894ea2f31b79": {
@@ -1634,7 +1634,7 @@
     ],
     "name": "Enchanted Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-06-20T05:05:32Z"
   },
   "93a4af59-8c85-463b-8343-cfe81d2927df": {
@@ -1649,7 +1649,7 @@
     ],
     "name": "Azure Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-12-10T17:04:00Z"
   },
   "490d18d7-da9c-4201-9e2f-5483cde9d648": {
@@ -1664,7 +1664,7 @@
     ],
     "name": "Enchanted Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-01-18T18:52:43Z"
   },
   "932933d5-8942-4a23-879e-b20af448b22a": {
@@ -1679,7 +1679,7 @@
     ],
     "name": "Golden Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-05-12T21:39:44Z"
   },
   "0bc30258-aef5-43f5-b9b5-a520fcdcab8e": {
@@ -1710,7 +1710,7 @@
     ],
     "name": "Cosmic Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-02-05T23:07:40Z"
   },
   "19ae99e7-1f3e-440b-b355-12944cb33f32": {
@@ -1725,7 +1725,7 @@
     ],
     "name": "Sunrise Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-12-10T18:25:43Z"
   },
   "846a826c-d05d-43e7-b12b-968116b1b203": {
@@ -1740,7 +1740,7 @@
     ],
     "name": "Midnight Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-07-30T15:23:38Z"
   },
   "4579a49f-130e-481c-a719-a4ace926b6ed": {
@@ -1755,7 +1755,7 @@
     ],
     "name": "Azure Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-08-29T11:40:58Z"
   },
   "2a9239d3-7f5f-4b8c-890f-d1746f8407a6": {
@@ -1770,7 +1770,7 @@
     ],
     "name": "Sunrise Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-05-30T02:27:28Z"
   },
   "e4abd1d3-93df-46bb-afc8-0a9d59deb6b2": {
@@ -1785,7 +1785,7 @@
     ],
     "name": "Cosmic Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-05-18T02:47:53Z"
   },
   "4f5897ce-e7ed-4468-86a7-36822f41adc4": {
@@ -1800,7 +1800,7 @@
     ],
     "name": "Mystic Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-10-29T07:09:34Z"
   },
   "24ee1e37-788b-4839-bfd8-9ea20f06a893": {
@@ -1815,7 +1815,7 @@
     ],
     "name": "Mystic Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-09-25T12:49:06Z"
   },
   "a990673d-bb49-4b67-a284-df6c88330160": {
@@ -1834,7 +1834,7 @@
     ],
     "name": "Azure Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-03-20T13:53:00Z"
   },
   "02168845-9ef1-4cec-b6dd-774230360d60": {
@@ -1849,7 +1849,7 @@
     ],
     "name": "Sunrise Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-04-09T21:39:36Z"
   },
   "c30a5922-2fd9-41d0-9589-40353c4c4af9": {
@@ -1864,7 +1864,7 @@
     ],
     "name": "Crystal Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-04-02T02:10:44Z"
   },
   "f9db9460-9011-42e1-9a6d-c0e751a34e87": {
@@ -1879,7 +1879,7 @@
     ],
     "name": "Whispering Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-03-02T20:34:26Z"
   },
   "4847b2e6-2a19-4c17-be01-8aadde7b6317": {
@@ -1894,7 +1894,7 @@
     ],
     "name": "Golden Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-05-09T01:21:38Z"
   },
   "bc8bfeea-cab4-4ec7-b6e2-39fab8b1dcb5": {
@@ -1909,7 +1909,7 @@
     ],
     "name": "Cosmic Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-10-30T02:55:28Z"
   },
   "565ebc1f-ea18-47ea-bd89-b3f3db22a1af": {
@@ -1924,7 +1924,7 @@
     ],
     "name": "Sunrise Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-02-04T07:30:09Z"
   },
   "8e0ada68-321a-41d4-b85c-70702a20a77f": {
@@ -1939,7 +1939,7 @@
     ],
     "name": "Sunrise Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-01-02T11:11:23Z"
   },
   "420608c3-dfca-41ef-af46-24d07fba9f7c": {
@@ -1958,7 +1958,7 @@
     ],
     "name": "Crystal Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-01-29T16:47:54Z"
   },
   "99f3caf7-8aad-4425-ba91-79128520bd42": {
@@ -1973,7 +1973,7 @@
     ],
     "name": "Cosmic Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-01-27T09:34:28Z"
   },
   "125c4c5f-c528-452f-9a51-742ccdea33ef": {
@@ -1988,7 +1988,7 @@
     ],
     "name": "Sunrise Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-09-30T21:11:59Z"
   },
   "58c807da-8df0-4c11-b85c-c4261f704020": {
@@ -2003,7 +2003,7 @@
     ],
     "name": "Sunrise Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-11-22T01:26:52Z"
   },
   "9549a035-ea5f-4538-9394-3da3bd5f0293": {
@@ -2018,7 +2018,7 @@
     ],
     "name": "Cosmic Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-04-15T03:04:16Z"
   },
   "824db727-2908-4cca-b9d5-7900419f9dd3": {
@@ -2037,7 +2037,7 @@
     ],
     "name": "Cosmic Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-04-28T17:43:33Z"
   },
   "1795156f-048c-43da-b03c-78bcc2f3f800": {
@@ -2052,7 +2052,7 @@
     ],
     "name": "Enchanted Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-12-13T02:59:07Z"
   },
   "06d6d279-6c57-45ab-aa1d-a814c0d8eb94": {
@@ -2067,7 +2067,7 @@
     ],
     "name": "Mystic Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-09-09T14:10:50Z"
   },
   "8a689217-3d9f-454d-a7e9-603bc5e8cb2c": {
@@ -2082,7 +2082,7 @@
     ],
     "name": "Mystic Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-09-08T12:22:49Z"
   },
   "ba5d05b2-d419-4f1a-a5dc-3a3b42d04eed": {
@@ -2101,7 +2101,7 @@
     ],
     "name": "Whispering Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-08-03T15:22:07Z"
   },
   "207a9560-6f33-4719-ac7d-3691328992cb": {
@@ -2116,7 +2116,7 @@
     ],
     "name": "Sunrise Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-02-05T08:16:21Z"
   },
   "2baf07b6-d2f6-4e05-b522-06a1a74bb656": {
@@ -2131,7 +2131,7 @@
     ],
     "name": "Azure Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-09-13T13:06:08Z"
   },
   "16b04010-ebc4-439f-be6a-e18d3af9831d": {
@@ -2146,7 +2146,7 @@
     ],
     "name": "Cosmic Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-08-07T19:41:52Z"
   },
   "2f141cfc-33f0-4699-8b09-3aa731ee0572": {
@@ -2161,7 +2161,7 @@
     ],
     "name": "Crystal Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-03-17T09:31:13Z"
   },
   "24112187-205a-4eda-8696-d8d038fea941": {
@@ -2176,7 +2176,7 @@
     ],
     "name": "Enchanted Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-04-09T06:34:48Z"
   },
   "d936757f-9997-4a61-968e-88c2a600a282": {
@@ -2191,7 +2191,7 @@
     ],
     "name": "Crimson Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-11-10T20:03:15Z"
   },
   "ad805e9a-e66a-4888-b8f4-96e76710adc3": {
@@ -2206,7 +2206,7 @@
     ],
     "name": "Midnight Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-02-01T14:16:54Z"
   },
   "1f472644-2f28-45ba-99e2-d8db8c51d525": {
@@ -2221,7 +2221,7 @@
     ],
     "name": "Golden Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-08-13T20:40:50Z"
   },
   "83c7e32a-9f4c-44d3-b1c4-3cd7e6743b5f": {
@@ -2236,7 +2236,7 @@
     ],
     "name": "Crimson Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-08-17T08:40:55Z"
   },
   "9bb5282d-726e-494e-8b03-a33428d639dd": {
@@ -2267,7 +2267,7 @@
     ],
     "name": "Cosmic Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-04-06T05:56:55Z"
   },
   "a4ca1ba2-778e-44a1-b4ed-68ee89941e71": {
@@ -2282,7 +2282,7 @@
     ],
     "name": "Sunrise Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-01-28T19:06:15Z"
   },
   "1a17b0a5-8ba2-487f-940b-040552466f2e": {
@@ -2297,7 +2297,7 @@
     ],
     "name": "Sunrise Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-07-06T07:47:15Z"
   },
   "d3679c69-0ba0-4312-b77f-1b659343687e": {
@@ -2312,7 +2312,7 @@
     ],
     "name": "Whispering Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-12-15T11:35:44Z"
   },
   "d5788c19-d5d5-4c65-aa20-2157cdc2633e": {
@@ -2327,7 +2327,7 @@
     ],
     "name": "Crystal Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-11-09T04:24:56Z"
   },
   "3cab4d50-a396-4b55-a196-9811f2eb7a83": {
@@ -2342,7 +2342,7 @@
     ],
     "name": "Enchanted Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-09-04T10:08:19Z"
   },
   "cf8a040d-cc41-4ef9-a6c7-5c36f3721285": {
@@ -2357,7 +2357,7 @@
     ],
     "name": "Whispering Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-01-18T22:32:03Z"
   },
   "d7509ce6-a9bc-4d7e-82b6-01ec7dc713f8": {
@@ -2372,7 +2372,7 @@
     ],
     "name": "Midnight Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-05-18T10:45:32Z"
   },
   "eb39404e-fa88-4c61-94ac-71fb2d614e0d": {
@@ -2387,7 +2387,7 @@
     ],
     "name": "Crimson Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-05-30T12:04:52Z"
   },
   "c295c861-f6c3-4643-b456-dd8114e364dc": {
@@ -2402,7 +2402,7 @@
     ],
     "name": "Golden Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-12-17T18:52:21Z"
   },
   "c239f37a-3d10-4089-a461-76a50fa1feda": {
@@ -2453,7 +2453,7 @@
     ],
     "name": "Golden Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2000-10-17T04:37:35Z"
   },
   "4f109705-f07d-498d-8de6-1ad67e0c3788": {
@@ -2468,7 +2468,7 @@
     ],
     "name": "Enchanted Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-07-12T02:03:39Z"
   },
   "b9c7f3a4-0a45-4988-8047-60df7ba15282": {
@@ -2483,7 +2483,7 @@
     ],
     "name": "Enchanted Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-11-18T19:55:53Z"
   },
   "5cad8092-6bde-4a13-a7e4-97b04e131ebd": {
@@ -2498,7 +2498,7 @@
     ],
     "name": "Midnight Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-01-11T06:18:49Z"
   },
   "1438bb30-ec6a-48ce-91ef-10bd600b9dd8": {
@@ -2513,7 +2513,7 @@
     ],
     "name": "Midnight Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-05-01T12:01:37Z"
   },
   "40e2b83e-fcda-4edf-9cc4-188e31bea692": {
@@ -2528,7 +2528,7 @@
     ],
     "name": "Cosmic Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-09-21T10:36:29Z"
   },
   "57fe488f-5316-427f-b650-acd6459540e8": {
@@ -2579,7 +2579,7 @@
     ],
     "name": "Crimson Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-08-31T03:20:25Z"
   },
   "4b099150-44a7-4849-9538-b7e50f69ed0a": {
@@ -2630,7 +2630,7 @@
     ],
     "name": "Crimson Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-06-04T10:43:29Z"
   },
   "89eb3d4e-aa74-4f37-86b8-c2147529914c": {
@@ -2645,7 +2645,7 @@
     ],
     "name": "Midnight Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-09-10T09:23:42Z"
   },
   "9d2df918-558e-4970-94f1-c2eb1152d331": {
@@ -2660,7 +2660,7 @@
     ],
     "name": "Azure Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-03-01T05:10:20Z"
   },
   "7791c1ac-ae8f-4d79-9271-a88986c254b6": {
@@ -2675,7 +2675,7 @@
     ],
     "name": "Golden Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-02-01T22:29:09Z"
   },
   "da353d99-dbcc-43c0-a4a8-7a4a6e14a967": {
@@ -2690,7 +2690,7 @@
     ],
     "name": "Midnight Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-12-30T22:55:05Z"
   },
   "1a3b6174-21c0-45b4-a100-a01b11fb0b69": {
@@ -2705,7 +2705,7 @@
     ],
     "name": "Whispering Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-04-20T03:09:12Z"
   },
   "63cb5398-b4bb-4c2c-a029-8a0fe5d15db2": {
@@ -2720,7 +2720,7 @@
     ],
     "name": "Whispering Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-04-23T05:30:25Z"
   },
   "06b34825-b64e-4a25-b966-eb0241ab5cb3": {
@@ -2743,7 +2743,7 @@
     ],
     "name": "Midnight Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-11-14T09:34:49Z"
   },
   "7275523c-15ef-4cd8-9073-dfc76adf53c2": {
@@ -2758,7 +2758,7 @@
     ],
     "name": "Mystic Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-12-10T20:34:28Z"
   },
   "73e29a18-c9ee-4a1b-822a-d7c86979fa2f": {
@@ -2777,7 +2777,7 @@
     ],
     "name": "Crystal Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-06-07T07:47:29Z"
   },
   "c4e92dc5-bec1-4ebb-8e59-6c745ab54b06": {
@@ -2792,7 +2792,7 @@
     ],
     "name": "Enchanted Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-03-02T13:34:13Z"
   },
   "79a5a728-b7e2-4926-935f-27b552e49b5d": {
@@ -2807,7 +2807,7 @@
     ],
     "name": "Mystic Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-04-14T14:05:53Z"
   },
   "1309b85f-0a43-4f23-8a19-534756b88806": {
@@ -2822,7 +2822,7 @@
     ],
     "name": "Azure Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-09-29T05:57:46Z"
   },
   "690be172-7a30-4a92-a867-4a3b7c4f2734": {
@@ -2837,7 +2837,7 @@
     ],
     "name": "Crimson Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-04-03T17:31:15Z"
   },
   "a7ccb707-b393-429a-aac8-bcff409351fb": {
@@ -2852,7 +2852,7 @@
     ],
     "name": "Golden Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-06-08T21:40:57Z"
   },
   "69dd462a-d50f-4893-9d93-72a66bab1489": {
@@ -2867,7 +2867,7 @@
     ],
     "name": "Azure Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-06-28T11:30:25Z"
   },
   "49b97485-f8c8-4d27-9eac-265f16bfab2b": {
@@ -2882,7 +2882,7 @@
     ],
     "name": "Whispering Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-01-07T01:24:15Z"
   },
   "883671be-2f8f-4109-b5ba-5d9f211810f4": {
@@ -2897,7 +2897,7 @@
     ],
     "name": "Golden Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-09-13T05:07:59Z"
   },
   "4cb1bf23-4925-4160-b3aa-81ff48494fa8": {
@@ -2920,7 +2920,7 @@
     ],
     "name": "Azure Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-07-23T09:57:47Z"
   },
   "0c44ace8-7406-487c-b87a-11789d57021f": {
@@ -2935,7 +2935,7 @@
     ],
     "name": "Crystal Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-04-25T23:33:34Z"
   },
   "3772c719-6004-40f4-9e41-192efc240584": {
@@ -2954,7 +2954,7 @@
     ],
     "name": "Enchanted Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-01-24T10:10:03Z"
   },
   "d79cf559-9175-4410-bcd3-746def10d835": {
@@ -2969,7 +2969,7 @@
     ],
     "name": "Azure Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-02-08T16:30:04Z"
   },
   "0a53ef83-e3bc-4784-b6c4-652b50891e14": {
@@ -2984,7 +2984,7 @@
     ],
     "name": "Enchanted Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-11-24T02:48:01Z"
   },
   "567deb89-a26d-418f-a1cb-d9ca4d700dd7": {
@@ -2999,7 +2999,7 @@
     ],
     "name": "Cosmic Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-04-27T22:34:58Z"
   },
   "c40b8049-5ac5-44b6-b249-e3af633bad97": {
@@ -3014,7 +3014,7 @@
     ],
     "name": "Golden Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-05-28T19:12:34Z"
   },
   "562a980c-0b5c-4dc9-a50b-8114c7206bf3": {
@@ -3029,7 +3029,7 @@
     ],
     "name": "Cosmic Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-04-14T12:27:10Z"
   },
   "f787bac1-283b-4ecc-bc9d-d79e0415abb3": {
@@ -3044,7 +3044,7 @@
     ],
     "name": "Whispering Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2000-11-26T20:52:27Z"
   },
   "fbe06c1b-3995-4053-8413-d54bfc25cc38": {
@@ -3067,7 +3067,7 @@
     ],
     "name": "Cosmic Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-11-25T09:49:10Z"
   },
   "12e5b94f-197e-4d09-af68-951e56fb970a": {
@@ -3082,7 +3082,7 @@
     ],
     "name": "Crimson Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-11-23T19:04:04Z"
   },
   "d812bf02-0f99-482d-81e5-589dfe5a546c": {
@@ -3097,7 +3097,7 @@
     ],
     "name": "Whispering Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-10-30T12:05:04Z"
   },
   "6275d5a7-133a-49c1-a96c-322aef75ea1a": {
@@ -3112,7 +3112,7 @@
     ],
     "name": "Mystic Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-09-21T19:38:53Z"
   },
   "2248553c-ff4c-4126-b386-0985e68614d2": {
@@ -3127,7 +3127,7 @@
     ],
     "name": "Sunrise Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-08-21T14:25:03Z"
   },
   "1d7aebce-81f6-4a6d-8372-ecb87aec9425": {
@@ -3142,7 +3142,7 @@
     ],
     "name": "Cosmic Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-10-21T19:17:35Z"
   },
   "8dfcb706-5596-4c18-af3e-0803904e3d72": {
@@ -3157,7 +3157,7 @@
     ],
     "name": "Crimson Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2000-12-05T06:33:00Z"
   },
   "01509948-da10-42d2-9715-4d7a4f93bba9": {
@@ -3180,7 +3180,7 @@
     ],
     "name": "Sunrise Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-09-26T02:18:52Z"
   },
   "0080006c-6723-4c5e-9e0e-43fee2ac6f39": {
@@ -3195,7 +3195,7 @@
     ],
     "name": "Midnight Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-04-07T19:21:10Z"
   },
   "ff2b3af2-d394-4183-b0bc-df9beb9bf0ff": {
@@ -3210,7 +3210,7 @@
     ],
     "name": "Whispering Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-05-21T14:55:12Z"
   },
   "18669339-e8d2-4e2f-ac7c-967a5da46576": {
@@ -3229,7 +3229,7 @@
     ],
     "name": "Golden Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-05-23T17:45:18Z"
   },
   "c082835b-ed20-40a1-bbc8-8cd59d2f701f": {
@@ -3280,7 +3280,7 @@
     ],
     "name": "Sunrise Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-12-25T16:17:00Z"
   },
   "ec0c52f6-fb93-4b33-9dc2-76b9febdb76f": {
@@ -3295,7 +3295,7 @@
     ],
     "name": "Cosmic Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-02-14T20:15:21Z"
   },
   "2087e87e-92c8-434e-81c3-1f0c02c2d9e2": {
@@ -3310,7 +3310,7 @@
     ],
     "name": "Whispering Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-08-25T04:16:38Z"
   },
   "82203a95-7599-4235-b010-3e1a94a8d3f1": {
@@ -3325,7 +3325,7 @@
     ],
     "name": "Golden Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2000-10-18T06:04:51Z"
   },
   "7503093c-b631-4993-b73d-3f7eb75a7573": {
@@ -3340,7 +3340,7 @@
     ],
     "name": "Enchanted Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-03-01T18:44:34Z"
   },
   "f7e6b6ea-3122-439c-8dee-860e68ae9d1c": {
@@ -3355,7 +3355,7 @@
     ],
     "name": "Midnight Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-08-15T06:45:17Z"
   },
   "7c3f1c43-c91b-4ff2-afc4-637d4b23ea0f": {
@@ -3374,7 +3374,7 @@
     ],
     "name": "Golden Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-02-23T12:32:55Z"
   },
   "a33df9a4-1e46-4a95-9d82-0261b80c5f7b": {
@@ -3389,7 +3389,7 @@
     ],
     "name": "Mystic Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-05-23T15:59:35Z"
   },
   "70a96b51-a866-49f1-900c-c7721dba7372": {
@@ -3404,7 +3404,7 @@
     ],
     "name": "Whispering Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-02-22T18:37:13Z"
   },
   "a346fc27-17b3-4d5e-9a27-155936bf31fd": {
@@ -3435,7 +3435,7 @@
     ],
     "name": "Azure Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-03-29T01:33:29Z"
   },
   "9ede2519-728f-425d-be9d-bce0f9408a91": {
@@ -3458,7 +3458,7 @@
     ],
     "name": "Crystal Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-12-08T19:29:34Z"
   },
   "e8740c9b-b6b0-4f6e-aed6-493e542e1387": {
@@ -3489,7 +3489,7 @@
     ],
     "name": "Enchanted Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-11-16T15:24:06Z"
   },
   "9d56986b-39b8-4fb1-a8c2-65a3d9d01f5d": {
@@ -3504,7 +3504,7 @@
     ],
     "name": "Midnight Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-09-03T12:03:07Z"
   },
   "efc2a285-726d-403a-a97a-2f0a50dfccbf": {
@@ -3535,7 +3535,7 @@
     ],
     "name": "Crystal Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-06-09T11:48:44Z"
   },
   "1f1b6936-cd98-46a3-9971-7cfc2843e9cc": {
@@ -3550,7 +3550,7 @@
     ],
     "name": "Midnight Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-10-21T02:16:50Z"
   },
   "12e59014-2f73-48e3-9dbf-5e050ad1aec7": {
@@ -3565,7 +3565,7 @@
     ],
     "name": "Whispering Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-02-02T17:19:57Z"
   },
   "0147c4f5-0d62-4cd0-b230-d860073a1978": {
@@ -3580,7 +3580,7 @@
     ],
     "name": "Sunrise Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-04-03T23:12:28Z"
   },
   "b727e396-88e5-4d6d-b0d0-a94d137f8bc7": {
@@ -3599,7 +3599,7 @@
     ],
     "name": "Mystic Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-08-28T06:11:07Z"
   },
   "c90b3e5b-f6d6-4e55-bebd-9d935d5143fc": {
@@ -3614,7 +3614,7 @@
     ],
     "name": "Sunrise Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-03-17T13:08:07Z"
   },
   "be94de15-c239-442b-95ad-8ca5281c1299": {
@@ -3629,7 +3629,7 @@
     ],
     "name": "Midnight Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-05-29T03:20:47Z"
   },
   "dd797f22-c34b-4eba-adf7-5335abf85c81": {
@@ -3644,7 +3644,7 @@
     ],
     "name": "Crimson Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-01-30T06:59:10Z"
   },
   "172906de-1fe0-4e0d-9e10-d48d02cb9d95": {
@@ -3659,7 +3659,7 @@
     ],
     "name": "Mystic Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-08-25T18:10:43Z"
   },
   "b90ecb27-fbd4-4c44-b193-8d636f359ee8": {
@@ -3674,7 +3674,7 @@
     ],
     "name": "Crystal Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-07-20T04:07:23Z"
   },
   "d9f74234-f66b-474f-b31c-4023ddc8c3e6": {
@@ -3689,7 +3689,7 @@
     ],
     "name": "Crimson Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2000-10-13T01:56:56Z"
   },
   "7117cf1b-c4db-4a69-8b89-63b568af8b7a": {
@@ -3704,7 +3704,7 @@
     ],
     "name": "Enchanted Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-10-27T11:48:25Z"
   },
   "580199af-1381-4494-9c9a-877bf1f7e124": {
@@ -3719,7 +3719,7 @@
     ],
     "name": "Crystal Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-04-06T21:02:21Z"
   },
   "e7cf5a9b-b441-437a-8aae-e8347f9dac65": {
@@ -3734,7 +3734,7 @@
     ],
     "name": "Mystic Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-11-13T11:46:44Z"
   },
   "bd42680c-d81d-44d1-9b67-aefdd62aeb33": {
@@ -3749,7 +3749,7 @@
     ],
     "name": "Golden Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-11-08T05:28:46Z"
   },
   "19128eb8-a6f3-4b43-bcdb-d034ae966ab3": {
@@ -3800,7 +3800,7 @@
     ],
     "name": "Crystal Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-06-30T18:44:40Z"
   },
   "e0912c5f-834f-4ff2-9a33-63330d2f139b": {
@@ -3815,7 +3815,7 @@
     ],
     "name": "Crystal Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-01-16T20:02:47Z"
   },
   "ce6d22c0-2bde-4381-8ca5-4cf56c0e0db7": {
@@ -3846,7 +3846,7 @@
     ],
     "name": "Enchanted Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-04-20T11:17:34Z"
   },
   "6292df05-ed62-4f9c-b7a1-a9aec0b2342c": {
@@ -3869,7 +3869,7 @@
     ],
     "name": "Crimson Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-10-06T12:54:14Z"
   },
   "5a702f62-207f-4fcd-b240-236d4ff6c9e1": {
@@ -3884,7 +3884,7 @@
     ],
     "name": "Crimson Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-11-19T17:15:03Z"
   },
   "1cdfcab8-5cf1-42bf-9a76-96f767937c49": {
@@ -3903,7 +3903,7 @@
     ],
     "name": "Sunrise Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-08-26T17:41:23Z"
   },
   "49424c46-78bf-4c59-a07a-0cd569c66a30": {
@@ -3918,7 +3918,7 @@
     ],
     "name": "Cosmic Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-04-28T17:53:47Z"
   },
   "cc2a980d-1b90-44b2-aa0f-da2e06f029f9": {
@@ -3933,7 +3933,7 @@
     ],
     "name": "Mystic Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-06-13T10:26:26Z"
   },
   "51c3d323-e59d-4861-9160-52381a09534f": {
@@ -3948,7 +3948,7 @@
     ],
     "name": "Azure Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-10-13T10:57:02Z"
   },
   "d88e5ea1-23d9-431e-9a7e-ec9592049e29": {
@@ -3963,7 +3963,7 @@
     ],
     "name": "Golden Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-04-06T12:03:09Z"
   },
   "876fff9b-6e88-434d-a1b2-d61f4a481096": {
@@ -3978,7 +3978,7 @@
     ],
     "name": "Crimson Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-05-20T18:05:45Z"
   },
   "62818e08-6437-45ee-83cc-dfecd8e8a0f7": {
@@ -4001,7 +4001,7 @@
     ],
     "name": "Midnight Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-07-22T18:53:27Z"
   },
   "d11ce7b9-1987-4367-8120-9aac33c6f747": {
@@ -4016,7 +4016,7 @@
     ],
     "name": "Midnight Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-07-24T02:14:00Z"
   },
   "46839b6e-15b5-436a-ac3f-68feaf214587": {
@@ -4031,7 +4031,7 @@
     ],
     "name": "Golden Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-01-13T12:47:54Z"
   },
   "10406faf-659c-4e66-b8f8-80bd894878f9": {
@@ -4046,7 +4046,7 @@
     ],
     "name": "Mystic Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-01-05T11:59:44Z"
   },
   "8cfc9af1-11df-49b1-9fd9-010368044bf4": {
@@ -4097,7 +4097,7 @@
     ],
     "name": "Cosmic Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-03-10T07:07:14Z"
   },
   "a9a1c364-24d4-4ea9-a93d-8f4aae419356": {
@@ -4112,7 +4112,7 @@
     ],
     "name": "Mystic Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-03-05T14:19:14Z"
   },
   "fdddb97b-161b-4726-8127-4c8733faffab": {
@@ -4127,7 +4127,7 @@
     ],
     "name": "Whispering Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2000-08-22T12:00:43Z"
   },
   "8577bb71-bd74-45a0-adba-0134cb2791f7": {
@@ -4158,7 +4158,7 @@
     ],
     "name": "Cosmic Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-11-23T22:20:54Z"
   },
   "6ed37cb2-1dc2-45de-90a9-59f44b403817": {
@@ -4173,7 +4173,7 @@
     ],
     "name": "Azure Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-07-30T20:30:16Z"
   },
   "b8997c0b-62e4-4332-a393-cf03f66d67ce": {
@@ -4188,7 +4188,7 @@
     ],
     "name": "Cosmic Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-12-13T07:17:28Z"
   },
   "5c11bcc5-22e5-493e-acf8-94693f8fe8b1": {
@@ -4203,7 +4203,7 @@
     ],
     "name": "Golden Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-05-08T15:38:44Z"
   },
   "c38a824a-d0e6-4fa1-aadc-e389809b3068": {
@@ -4218,7 +4218,7 @@
     ],
     "name": "Whispering Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-03-03T21:35:45Z"
   },
   "07c9cda0-172b-4057-80c9-9d09aafc6ee4": {
@@ -4233,7 +4233,7 @@
     ],
     "name": "Whispering Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-10-30T13:20:04Z"
   },
   "6a0f20b6-0e49-4626-b64d-2b1c7512d927": {
@@ -4248,7 +4248,7 @@
     ],
     "name": "Mystic Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-02-03T18:47:50Z"
   },
   "24192668-1d3a-4d58-9ab2-4a849e34e47a": {
@@ -4263,7 +4263,7 @@
     ],
     "name": "Mystic Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-04-07T06:30:51Z"
   },
   "bc4d6f5c-edee-4d6d-8c2b-a50396df068d": {
@@ -4286,7 +4286,7 @@
     ],
     "name": "Whispering Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2000-07-23T03:04:41Z"
   },
   "15db9a5f-93b3-4d4c-a8ca-70d7cc3adc9c": {
@@ -4301,7 +4301,7 @@
     ],
     "name": "Azure Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-10-30T13:22:35Z"
   },
   "0a37cc68-173b-42db-a9ca-54f2b7d87e93": {
@@ -4316,7 +4316,7 @@
     ],
     "name": "Crystal Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-03-08T20:32:28Z"
   },
   "1f53efdb-7a49-4334-b199-bb0f5fdc3617": {
@@ -4331,7 +4331,7 @@
     ],
     "name": "Enchanted Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-10-20T04:59:05Z"
   },
   "273eea04-7c1b-4ef4-8d6f-890a28e06d5c": {
@@ -4354,7 +4354,7 @@
     ],
     "name": "Golden Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-02-08T03:42:12Z"
   },
   "ebc397ec-ec2b-4714-bb96-a85b209889f5": {
@@ -4369,7 +4369,7 @@
     ],
     "name": "Mystic Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-02-02T19:08:10Z"
   },
   "c74d2495-5c78-4215-abba-64aeb36fccd4": {
@@ -4384,7 +4384,7 @@
     ],
     "name": "Azure Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-12-27T00:36:39Z"
   },
   "8f32711f-947a-4da6-82dd-c5f8a937198e": {
@@ -4399,7 +4399,7 @@
     ],
     "name": "Cosmic Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-09-02T08:19:59Z"
   },
   "644bf46b-716f-4965-ac81-453bad919f69": {
@@ -4414,7 +4414,7 @@
     ],
     "name": "Cosmic Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-05-22T14:21:11Z"
   },
   "b8b98bba-d1b2-4848-a4af-5fc49e3e5acc": {
@@ -4429,7 +4429,7 @@
     ],
     "name": "Mystic Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-12-19T03:07:24Z"
   },
   "6fca9013-9a50-4531-90b5-57b86dfe9f8f": {
@@ -4444,7 +4444,7 @@
     ],
     "name": "Mystic Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-08-08T04:06:08Z"
   },
   "1c2ccd03-25c1-4c29-a7d6-5eda50e3e1c1": {
@@ -4459,7 +4459,7 @@
     ],
     "name": "Whispering Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-06-28T13:40:19Z"
   },
   "3cb048ee-bcf9-42fa-b819-c1fbe0af1f69": {
@@ -4474,7 +4474,7 @@
     ],
     "name": "Sunrise Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-09-25T23:26:05Z"
   },
   "c2d5ac42-4c9f-42fa-9d9f-89ba08b4d6e9": {
@@ -4505,7 +4505,7 @@
     ],
     "name": "Midnight Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-05-18T01:40:50Z"
   },
   "a6a8e2ba-704a-42cc-87c0-017135c81385": {
@@ -4520,7 +4520,7 @@
     ],
     "name": "Enchanted Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-05-31T22:03:55Z"
   },
   "fdd65414-bb88-46fa-902a-29e44edbf04a": {
@@ -4535,7 +4535,7 @@
     ],
     "name": "Sunrise Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2000-02-02T14:39:46Z"
   },
   "44cf4619-8e74-4b95-b027-57825273027a": {
@@ -4586,7 +4586,7 @@
     ],
     "name": "Sunrise Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-01-22T14:05:53Z"
   },
   "a9fd7f36-5728-44fe-b999-e470794387a7": {
@@ -4601,7 +4601,7 @@
     ],
     "name": "Mystic Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-08-23T13:08:22Z"
   },
   "75e86b6f-52a2-427f-93d7-490b12ef6aaf": {
@@ -4616,7 +4616,7 @@
     ],
     "name": "Cosmic Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-09-01T11:25:41Z"
   },
   "b002fd2a-0a51-48da-a1e2-12d2e93f6fc6": {
@@ -4631,7 +4631,7 @@
     ],
     "name": "Azure Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-06-18T10:26:14Z"
   },
   "6cf70964-3bb6-44a5-b314-10476aea18d0": {
@@ -4646,7 +4646,7 @@
     ],
     "name": "Crystal Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-01-01T18:49:38Z"
   },
   "01375d74-d304-4647-8aed-59dfc2efe9fe": {
@@ -4661,7 +4661,7 @@
     ],
     "name": "Mystic Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-10-13T22:22:13Z"
   },
   "547b5365-7ef8-4c44-b3b6-4b41332c4929": {
@@ -4680,7 +4680,7 @@
     ],
     "name": "Golden Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-09-09T18:14:19Z"
   },
   "db3cfa25-fc18-4d83-ac48-4b10473de1cf": {
@@ -4703,7 +4703,7 @@
     ],
     "name": "Mystic Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-01-06T00:07:20Z"
   },
   "281a2803-3329-4d6d-b11a-0f44dce405fc": {
@@ -4718,7 +4718,7 @@
     ],
     "name": "Crimson Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-11-07T01:56:41Z"
   },
   "d56fd4cf-6a8b-4fe1-90e7-eb14180c0f4a": {
@@ -4733,7 +4733,7 @@
     ],
     "name": "Sunrise Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-11-13T11:25:11Z"
   },
   "254a78d4-d96a-4244-9ad8-d797b5263e8b": {
@@ -4784,7 +4784,7 @@
     ],
     "name": "Golden Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-09-01T10:14:38Z"
   },
   "292c5b3b-7a82-461e-9fa3-558a89472f50": {
@@ -4799,7 +4799,7 @@
     ],
     "name": "Mystic Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-11-24T22:03:02Z"
   },
   "4ac4ff7f-4f10-4b50-b1a3-88379deeabdc": {
@@ -4814,7 +4814,7 @@
     ],
     "name": "Azure Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-01-14T20:50:10Z"
   },
   "760d408c-8c4e-45cb-b387-8e93adcd6900": {
@@ -4837,7 +4837,7 @@
     ],
     "name": "Crimson Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-06-18T16:02:58Z"
   },
   "a92c3921-783c-4a71-8e97-6cdb3ee09572": {
@@ -4868,7 +4868,7 @@
     ],
     "name": "Crimson Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-01-29T22:57:15Z"
   },
   "f63977ed-8122-4433-bbad-fc5ca112112c": {
@@ -4883,7 +4883,7 @@
     ],
     "name": "Golden Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-09-29T23:56:09Z"
   },
   "d1e4af52-418d-4491-8260-c9e71fd2cdfe": {
@@ -4898,7 +4898,7 @@
     ],
     "name": "Mystic Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-04-27T17:53:52Z"
   },
   "331c8aff-0916-4387-9cd0-cafdbc91709f": {
@@ -4913,7 +4913,7 @@
     ],
     "name": "Enchanted Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-05-10T17:10:51Z"
   },
   "ccc94dc7-3567-49cc-bae9-a9636d427f4a": {
@@ -4928,7 +4928,7 @@
     ],
     "name": "Midnight Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-06-04T21:30:20Z"
   },
   "b29483dc-92a1-4ccc-96d8-ef87d8fec992": {
@@ -4943,7 +4943,7 @@
     ],
     "name": "Golden Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-12-11T13:22:00Z"
   },
   "f038a6e7-ea09-4ca0-b56c-525f3712d663": {
@@ -4958,7 +4958,7 @@
     ],
     "name": "Sunrise Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2000-08-29T07:09:47Z"
   },
   "b4f874b5-5734-4f5a-8e98-b70b7411f178": {
@@ -5009,7 +5009,7 @@
     ],
     "name": "Golden Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2000-10-13T10:37:31Z"
   },
   "21252019-c704-4ac0-9951-a5ef744464a4": {
@@ -5024,7 +5024,7 @@
     ],
     "name": "Cosmic Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-03-07T07:24:51Z"
   },
   "249b5ee3-95ab-4199-905d-ef8a2e78b8b1": {
@@ -5075,7 +5075,7 @@
     ],
     "name": "Crimson Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-09-28T17:13:34Z"
   },
   "fd2d8ac1-68e9-45c0-95e8-9fc6b104855c": {
@@ -5106,7 +5106,7 @@
     ],
     "name": "Whispering Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2000-09-09T13:46:58Z"
   },
   "d2744af7-35a4-4fe6-86d5-01f355afc9b5": {
@@ -5121,7 +5121,7 @@
     ],
     "name": "Whispering Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-08-01T18:56:37Z"
   },
   "33889a6c-cc93-4e77-80e7-c41bba1e2fda": {
@@ -5140,7 +5140,7 @@
     ],
     "name": "Mystic Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-03-27T18:27:22Z"
   },
   "fea12832-df63-446d-9571-73c34570f4b5": {
@@ -5155,7 +5155,7 @@
     ],
     "name": "Enchanted Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-11-05T04:03:46Z"
   },
   "9891f64c-477d-48ac-b1e0-a01fbea2b55d": {
@@ -5186,7 +5186,7 @@
     ],
     "name": "Cosmic Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2000-08-02T06:22:19Z"
   },
   "9c7c9bcb-dd39-40bc-b65a-dcf14ebc44db": {
@@ -5217,7 +5217,7 @@
     ],
     "name": "Whispering Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-06-17T05:56:10Z"
   },
   "744781ed-bf00-42d4-8868-26c1e04f4c17": {
@@ -5232,7 +5232,7 @@
     ],
     "name": "Crystal Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-07-16T01:16:49Z"
   },
   "d00c669b-6a83-4c07-98fc-34a4805afbee": {
@@ -5247,7 +5247,7 @@
     ],
     "name": "Whispering Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-08-22T21:20:36Z"
   },
   "c923bf38-26cf-4d45-be0a-c7a217981e76": {
@@ -5262,7 +5262,7 @@
     ],
     "name": "Mystic Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-12-24T06:53:00Z"
   },
   "c7ae1a3b-88c3-48b2-8908-f53d5050fc3b": {
@@ -5277,7 +5277,7 @@
     ],
     "name": "Cosmic Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-10-01T09:27:48Z"
   },
   "eb4c17de-6d66-4083-a2de-c18bd6353833": {
@@ -5292,7 +5292,7 @@
     ],
     "name": "Golden Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-11-16T01:43:14Z"
   },
   "cab9f2da-7858-4d26-9b02-fac26204dd49": {
@@ -5307,7 +5307,7 @@
     ],
     "name": "Whispering Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-10-21T11:51:58Z"
   },
   "beef4a1f-2d63-4e1c-be9a-463ac802c5c8": {
@@ -5326,7 +5326,7 @@
     ],
     "name": "Cosmic Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-01-04T08:37:49Z"
   },
   "c4d3e428-fdd5-402b-b35b-812e91593b18": {
@@ -5341,7 +5341,7 @@
     ],
     "name": "Golden Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-02-15T00:10:10Z"
   },
   "e09f66e0-68df-42b8-a646-3ea012bf2b95": {
@@ -5392,7 +5392,7 @@
     ],
     "name": "Mystic Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-12-29T02:25:32Z"
   },
   "371b4b2a-4ec1-4f9e-a1c4-cb30eefff5ed": {
@@ -5407,7 +5407,7 @@
     ],
     "name": "Sunrise Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-04-11T12:53:05Z"
   },
   "4942ea0e-5f0d-4ee1-8093-346fe6ea9444": {
@@ -5426,7 +5426,7 @@
     ],
     "name": "Midnight Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-01-26T09:34:14Z"
   },
   "e251484e-100b-4364-8497-f117a777ede8": {
@@ -5445,7 +5445,7 @@
     ],
     "name": "Crystal Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-05-13T10:02:25Z"
   },
   "9b19663b-222f-4944-81fc-6b4e62a59bb6": {
@@ -5460,7 +5460,7 @@
     ],
     "name": "Sunrise Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2000-08-02T11:33:31Z"
   },
   "e77ac003-7a2b-4277-b697-03083c923a3a": {
@@ -5475,7 +5475,7 @@
     ],
     "name": "Azure Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-09-10T20:00:53Z"
   },
   "27332aa7-826e-4f86-8874-f01f6ce72197": {
@@ -5490,7 +5490,7 @@
     ],
     "name": "Cosmic Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-05-02T08:00:07Z"
   },
   "6c6fac24-e5a6-45c9-8093-335b3c57878c": {
@@ -5513,7 +5513,7 @@
     ],
     "name": "Enchanted Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-11-24T17:54:54Z"
   },
   "973d485e-8c4b-4a96-b166-1478e3fb57cd": {
@@ -5528,7 +5528,7 @@
     ],
     "name": "Whispering Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-11-20T05:23:32Z"
   },
   "4494678b-2f6e-4754-85b5-e9cd9e189b60": {
@@ -5543,7 +5543,7 @@
     ],
     "name": "Cosmic Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-10-31T18:03:12Z"
   },
   "141034fc-aae1-43f6-a2fd-f7c555031d1a": {
@@ -5558,7 +5558,7 @@
     ],
     "name": "Midnight Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-04-27T22:08:20Z"
   },
   "8d3726dd-c63a-4a8f-9ced-447263d8a40f": {
@@ -5573,7 +5573,7 @@
     ],
     "name": "Enchanted Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-08-05T05:38:16Z"
   },
   "85086cec-e2e5-4811-9052-ebd172708e08": {
@@ -5588,7 +5588,7 @@
     ],
     "name": "Crystal Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-07-22T06:24:11Z"
   },
   "f64e3a04-837c-436e-abe9-20606322c4e3": {
@@ -5603,7 +5603,7 @@
     ],
     "name": "Crimson Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-06-08T23:19:01Z"
   },
   "ac22a854-cd0e-48d0-8b42-cb8edc5090d8": {
@@ -5618,7 +5618,7 @@
     ],
     "name": "Golden Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-02-25T10:45:02Z"
   },
   "492e17b0-74f0-4367-8591-fd7334665b6b": {
@@ -5633,7 +5633,7 @@
     ],
     "name": "Sunrise Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-07-26T08:40:50Z"
   },
   "0b1533bd-1b73-42e3-94ca-1b5550a29527": {
@@ -5648,7 +5648,7 @@
     ],
     "name": "Cosmic Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-12-29T01:48:10Z"
   },
   "da8f0e57-8975-4627-ae33-df142772f41a": {
@@ -5663,7 +5663,7 @@
     ],
     "name": "Golden Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-02-18T11:09:03Z"
   },
   "f7108230-72de-47f4-a9fe-0a29b3fa29f4": {
@@ -5678,7 +5678,7 @@
     ],
     "name": "Crimson Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-09-09T18:45:36Z"
   },
   "835c7c56-1b3e-4a03-bbee-48340757ba36": {
@@ -5701,7 +5701,7 @@
     ],
     "name": "Midnight Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-04-12T14:13:22Z"
   },
   "059684be-3b4f-4aed-9779-57bcd48604e0": {
@@ -5716,7 +5716,7 @@
     ],
     "name": "Cosmic Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-07-28T23:49:18Z"
   },
   "16ef1000-f81a-435c-8480-a582829738ea": {
@@ -5731,7 +5731,7 @@
     ],
     "name": "Whispering Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-11-15T18:23:34Z"
   },
   "3e3fecc9-ebcc-4623-97f1-61fb5003c2bb": {
@@ -5746,7 +5746,7 @@
     ],
     "name": "Mystic Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-12-10T10:42:59Z"
   },
   "d837087b-af28-4eb0-b950-1032bc7a1b32": {
@@ -5761,7 +5761,7 @@
     ],
     "name": "Crystal Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-06-03T10:06:41Z"
   },
   "402c3e4d-26ce-4d6f-9b4d-27095e806a79": {
@@ -5776,7 +5776,7 @@
     ],
     "name": "Mystic Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-08-08T09:08:21Z"
   },
   "8b2ef16a-03d6-455e-a90b-5c1e2923dd42": {
@@ -5791,7 +5791,7 @@
     ],
     "name": "Midnight Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-05-24T17:22:31Z"
   },
   "a77d3565-3909-41f1-bab1-5276b202861d": {
@@ -5806,7 +5806,7 @@
     ],
     "name": "Mystic Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-05-21T02:02:10Z"
   },
   "73bfac18-1841-4964-8423-f672fa887fc4": {
@@ -5821,7 +5821,7 @@
     ],
     "name": "Whispering Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-05-05T12:24:24Z"
   },
   "600ed4c8-a5b3-4692-992f-3bdf5f9a5b1a": {
@@ -5836,7 +5836,7 @@
     ],
     "name": "Sunrise Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-02-21T05:40:07Z"
   },
   "1e1b9a59-c456-4f18-9b74-d3832150c5fb": {
@@ -5851,7 +5851,7 @@
     ],
     "name": "Midnight Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-11-28T01:20:16Z"
   },
   "c4e22861-0754-4f18-b5b6-eda9427ba350": {
@@ -5866,7 +5866,7 @@
     ],
     "name": "Crystal Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-09-18T04:41:11Z"
   },
   "12553a6a-22ca-4f10-8b3c-fe9fa9670c8e": {
@@ -5881,7 +5881,7 @@
     ],
     "name": "Whispering Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-11-04T04:38:39Z"
   },
   "46d0d346-9cfe-4fb6-bfe6-3a81bf02cdfc": {
@@ -5896,7 +5896,7 @@
     ],
     "name": "Mystic Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-06-12T18:34:15Z"
   },
   "0dacf81d-22de-4809-b208-8d48e134b744": {
@@ -5911,7 +5911,7 @@
     ],
     "name": "Crimson Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-07-23T22:09:47Z"
   },
   "588704bb-2239-49b5-b57f-246e88740536": {
@@ -5926,7 +5926,7 @@
     ],
     "name": "Enchanted Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-05-31T00:47:32Z"
   },
   "e9dfd073-5be1-44f9-b04f-c510d3ff3de7": {
@@ -5941,7 +5941,7 @@
     ],
     "name": "Crystal Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-03-21T02:01:05Z"
   },
   "23f9c11d-baa3-481c-bfe8-b50fefb93d33": {
@@ -5956,7 +5956,7 @@
     ],
     "name": "Mystic Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-01-21T05:13:15Z"
   },
   "c00f7eba-3665-4c94-b8a5-fbc45aaf503c": {
@@ -5987,7 +5987,7 @@
     ],
     "name": "Mystic Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-12-22T15:53:03Z"
   },
   "baa83c7b-fdb5-443c-910b-9c647bff7c89": {
@@ -6002,7 +6002,7 @@
     ],
     "name": "Whispering Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-03-06T03:51:40Z"
   },
   "ad35f63d-aa5f-4c49-9622-c7b8de503409": {
@@ -6017,7 +6017,7 @@
     ],
     "name": "Sunrise Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-08-23T18:24:04Z"
   },
   "3843f5ae-be65-42e8-adb7-93d8d40e24d9": {
@@ -6032,7 +6032,7 @@
     ],
     "name": "Crystal Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-07-13T08:24:19Z"
   },
   "19c2c552-94fe-4e67-b10a-7dff4966ea2f": {
@@ -6047,7 +6047,7 @@
     ],
     "name": "Azure Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-07-08T18:16:04Z"
   },
   "2bd6c881-32cf-4720-813c-072267e82452": {
@@ -6062,7 +6062,7 @@
     ],
     "name": "Midnight Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-06-15T17:05:36Z"
   },
   "e517a33b-3c22-424f-8070-9613e5a8ed50": {
@@ -6093,7 +6093,7 @@
     ],
     "name": "Whispering Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-01-22T14:20:49Z"
   },
   "123f102d-f967-407c-993d-49f60e1acc4e": {
@@ -6108,7 +6108,7 @@
     ],
     "name": "Mystic Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-09-03T13:36:14Z"
   },
   "bbb893e0-6b22-4df2-8185-c47bb85d89eb": {
@@ -6159,7 +6159,7 @@
     ],
     "name": "Azure Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-05-01T14:01:35Z"
   },
   "168bfde6-664b-42b9-859f-6233ce1eb30e": {
@@ -6178,7 +6178,7 @@
     ],
     "name": "Mystic Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-03-27T01:10:18Z"
   },
   "facb2af1-32f8-4021-b3c4-0e387d007373": {
@@ -6229,7 +6229,7 @@
     ],
     "name": "Azure Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-05-07T13:36:35Z"
   },
   "050caa5a-f141-4585-b5fb-e3ba26cb15ec": {
@@ -6244,7 +6244,7 @@
     ],
     "name": "Cosmic Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-02-03T15:27:07Z"
   },
   "7fa34ec9-621f-4baf-8098-ba8b4da03ba4": {
@@ -6259,7 +6259,7 @@
     ],
     "name": "Crimson Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-11-10T21:25:24Z"
   },
   "41a18b79-097b-4ac9-b5be-df44e77453cb": {
@@ -6274,7 +6274,7 @@
     ],
     "name": "Crystal Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-10-18T04:01:19Z"
   },
   "0a95c4be-8d0d-4915-9105-1717a97b0ba7": {
@@ -6289,7 +6289,7 @@
     ],
     "name": "Sunrise Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-03-24T06:11:10Z"
   },
   "b7c55bd8-8ae8-4c82-a82d-eecfd6918212": {
@@ -6304,7 +6304,7 @@
     ],
     "name": "Whispering Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-02-18T05:05:25Z"
   },
   "4097fff0-d8c2-4455-8940-ee7e836b575a": {
@@ -6327,7 +6327,7 @@
     ],
     "name": "Sunrise Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-09-18T14:15:07Z"
   },
   "78cc32c8-e4d3-4334-a011-15adb5e3a9b5": {
@@ -6342,7 +6342,7 @@
     ],
     "name": "Crystal Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-03-27T08:45:26Z"
   },
   "906f4c71-2439-4b32-9804-973fc0b70379": {
@@ -6357,7 +6357,7 @@
     ],
     "name": "Sunrise Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-07-19T05:50:59Z"
   },
   "7f08a57c-e4da-45ad-858b-176fb818d26d": {
@@ -6372,7 +6372,7 @@
     ],
     "name": "Sunrise Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-09-04T02:52:21Z"
   },
   "d3e4ff9f-4074-426b-9569-be911e8b9dfd": {
@@ -6387,7 +6387,7 @@
     ],
     "name": "Whispering Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-09-29T12:39:06Z"
   },
   "6a9b2b61-b93d-496f-b6c5-3cb91dcc0e3c": {
@@ -6402,7 +6402,7 @@
     ],
     "name": "Cosmic Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-11-22T21:07:10Z"
   },
   "64eb699f-2d34-4b98-9b3f-f73913374c18": {
@@ -6417,7 +6417,7 @@
     ],
     "name": "Mystic Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-03-10T22:59:27Z"
   },
   "9369fcdc-6760-410f-ba58-ea93ecb07798": {
@@ -6432,7 +6432,7 @@
     ],
     "name": "Midnight Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-04-07T14:29:46Z"
   },
   "bdd3de8b-d98a-4d5d-8059-d17d3cd260fc": {
@@ -6447,7 +6447,7 @@
     ],
     "name": "Enchanted Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-12-26T07:37:30Z"
   },
   "18573432-85d4-4384-a5e5-59015260fcbf": {
@@ -6462,7 +6462,7 @@
     ],
     "name": "Midnight Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-06-13T11:11:32Z"
   },
   "06693db5-5245-4076-af69-6bb2e9f67a66": {
@@ -6485,7 +6485,7 @@
     ],
     "name": "Midnight Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-12-16T06:02:01Z"
   },
   "928efa59-9f60-44d1-8236-e6a0332b27e5": {
@@ -6500,7 +6500,7 @@
     ],
     "name": "Enchanted Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-10-17T19:13:16Z"
   },
   "c524aafc-f5b5-48e7-8813-c883384a30cb": {
@@ -6515,7 +6515,7 @@
     ],
     "name": "Crimson Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-02-08T09:54:17Z"
   },
   "c2c1be65-c374-4856-af56-93faecbd9963": {
@@ -6530,7 +6530,7 @@
     ],
     "name": "Enchanted Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-10-03T12:31:41Z"
   },
   "94facfd2-cda4-4c21-bf3f-b2400fdc4ca8": {
@@ -6561,7 +6561,7 @@
     ],
     "name": "Crimson Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-05-05T20:41:23Z"
   },
   "f654216d-6553-4353-bbc7-b7cd27534561": {
@@ -6576,7 +6576,7 @@
     ],
     "name": "Golden Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-02-14T21:01:17Z"
   },
   "821a7f3c-5796-4d1c-9131-acba5de7c822": {
@@ -6627,7 +6627,7 @@
     ],
     "name": "Cosmic Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-05-11T05:10:42Z"
   },
   "e3998c01-b113-4bca-bf0c-0d708a5aa7b3": {
@@ -6658,7 +6658,7 @@
     ],
     "name": "Azure Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-08-03T10:25:37Z"
   },
   "df359957-d06c-42de-9749-1aef34e455c4": {
@@ -6673,7 +6673,7 @@
     ],
     "name": "Cosmic Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-12-21T20:03:50Z"
   },
   "4fc9bf1c-4739-4f7b-84ce-f67e3511595c": {
@@ -6688,7 +6688,7 @@
     ],
     "name": "Whispering Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-02-26T03:01:58Z"
   },
   "ef0ceccd-5226-4b84-a7f8-8fe856ffdad7": {
@@ -6703,7 +6703,7 @@
     ],
     "name": "Midnight Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-04-02T12:49:22Z"
   },
   "5dff6dfe-7217-4b37-8f89-fdf9dc5f36e9": {
@@ -6718,7 +6718,7 @@
     ],
     "name": "Crystal Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-03-13T22:05:44Z"
   },
   "fc8dd70b-84bd-48bf-87e9-f4d491e52f6d": {
@@ -6733,7 +6733,7 @@
     ],
     "name": "Sunrise Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-07-19T13:28:24Z"
   },
   "d52a57f3-9793-4e14-9c53-cd0e5230ce07": {
@@ -6748,7 +6748,7 @@
     ],
     "name": "Crimson Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-07-15T18:45:33Z"
   },
   "62abc76c-afa0-4e76-a521-ebfe8168e651": {
@@ -6763,7 +6763,7 @@
     ],
     "name": "Azure Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-03-24T18:38:50Z"
   },
   "756bb72d-e529-488c-a1bc-63dd4b1212b4": {
@@ -6794,7 +6794,7 @@
     ],
     "name": "Crimson Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-10-25T13:15:55Z"
   },
   "b6ef31b1-f2b7-42cb-8f1a-63b209105097": {
@@ -6809,7 +6809,7 @@
     ],
     "name": "Mystic Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-07-02T17:52:58Z"
   },
   "d0b7ba5d-fdd0-4cd1-8c1e-6bfaca60c9f2": {
@@ -6824,7 +6824,7 @@
     ],
     "name": "Golden Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-02-26T05:34:34Z"
   },
   "2e62b92d-b6eb-4c5e-81b6-f4c9b5946e32": {
@@ -6839,7 +6839,7 @@
     ],
     "name": "Enchanted Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-06-08T04:58:45Z"
   },
   "1f9c8c00-079a-4f6a-a6cd-c9c0c05bc4a7": {
@@ -6854,7 +6854,7 @@
     ],
     "name": "Midnight Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-06-19T04:57:31Z"
   },
   "d0b1d41d-6ed4-4b1f-a272-8277154a893a": {
@@ -6869,7 +6869,7 @@
     ],
     "name": "Crimson Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-12-28T07:20:02Z"
   },
   "4bab7196-1859-49f7-a743-a4e38d7e8924": {
@@ -6884,7 +6884,7 @@
     ],
     "name": "Cosmic Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-02-08T02:05:19Z"
   },
   "375d7472-604a-4ecd-82d6-a59a27cd2f42": {
@@ -6899,7 +6899,7 @@
     ],
     "name": "Crystal Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-09-26T06:55:52Z"
   },
   "c9788af6-7697-4d5b-9596-3335e768311c": {
@@ -6950,7 +6950,7 @@
     ],
     "name": "Azure Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-11-02T06:26:34Z"
   },
   "e86a8aa3-cb98-4abd-93a1-d7385b2dacfe": {
@@ -6981,7 +6981,7 @@
     ],
     "name": "Midnight Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-01-25T07:45:55Z"
   },
   "932245c1-c0ee-49c2-93e6-b3edb2ce3647": {
@@ -6996,7 +6996,7 @@
     ],
     "name": "Mystic Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-03-17T23:17:15Z"
   },
   "6e7e4ff9-d6e7-45b5-b5f7-7a84f0d5d280": {
@@ -7011,7 +7011,7 @@
     ],
     "name": "Whispering Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-03-11T19:30:44Z"
   },
   "cbfc4d1a-d7c6-444c-be99-c4d8301adbbb": {
@@ -7026,7 +7026,7 @@
     ],
     "name": "Mystic Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-01-21T02:48:17Z"
   },
   "f928d15f-9660-450b-b012-3e248de78b43": {
@@ -7049,7 +7049,7 @@
     ],
     "name": "Enchanted Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-05-01T12:09:56Z"
   },
   "72589a0e-3779-4918-8955-8efd91a13adb": {
@@ -7064,7 +7064,7 @@
     ],
     "name": "Enchanted Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-04-26T20:20:17Z"
   },
   "58e2438c-4690-49cd-906d-50b922d03355": {
@@ -7079,7 +7079,7 @@
     ],
     "name": "Enchanted Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-07-11T12:35:43Z"
   },
   "2e12b876-9a49-4e2f-9aa9-54978f5a8dc2": {
@@ -7094,7 +7094,7 @@
     ],
     "name": "Azure Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-12-29T17:36:45Z"
   },
   "b9b41aad-d93b-40a2-8f93-dbe6cc333728": {
@@ -7109,7 +7109,7 @@
     ],
     "name": "Enchanted Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-02-27T22:57:26Z"
   },
   "a6f41e5d-26f4-488c-9aa8-8d0230c16c3f": {
@@ -7160,7 +7160,7 @@
     ],
     "name": "Midnight Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-08-23T03:01:50Z"
   },
   "0a34c299-5fad-47e6-9aea-fb2b1f64cfde": {
@@ -7175,7 +7175,7 @@
     ],
     "name": "Azure Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-03-25T23:37:48Z"
   },
   "b5d1b6cd-3fa4-4c36-a9af-d543cf1ae372": {
@@ -7226,7 +7226,7 @@
     ],
     "name": "Cosmic Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-10-15T06:30:35Z"
   },
   "9c949fb9-b6ce-4cdc-b3b8-5a6f7f8a0185": {
@@ -7245,7 +7245,7 @@
     ],
     "name": "Sunrise Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-01-15T12:59:41Z"
   },
   "7ab30f46-65b2-43db-9806-4f4973836388": {
@@ -7260,7 +7260,7 @@
     ],
     "name": "Golden Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-09-20T12:17:58Z"
   },
   "d157572c-bd84-42a7-a5e5-b855c609c33a": {
@@ -7275,7 +7275,7 @@
     ],
     "name": "Midnight Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-02-19T23:47:17Z"
   },
   "38116c35-89a8-4c49-b433-e692bbaf00b5": {
@@ -7290,7 +7290,7 @@
     ],
     "name": "Mystic Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-03-04T16:28:58Z"
   },
   "4bd03225-d2c2-4838-9e6e-1b2a0a804479": {
@@ -7305,7 +7305,7 @@
     ],
     "name": "Crimson Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-07-20T08:31:54Z"
   },
   "3352ce8f-b28d-4074-8992-b2a437828748": {
@@ -7320,7 +7320,7 @@
     ],
     "name": "Midnight Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-02-03T18:54:00Z"
   },
   "cfe7e860-c75d-4f34-9ead-ac8a0fb21587": {
@@ -7335,7 +7335,7 @@
     ],
     "name": "Whispering Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-07-05T11:25:39Z"
   },
   "9c71b495-a78f-4bf7-9179-db2abb442ec4": {
@@ -7350,7 +7350,7 @@
     ],
     "name": "Midnight Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-10-12T09:15:13Z"
   },
   "20545737-fb25-480c-8982-6c6b49d87d49": {
@@ -7381,7 +7381,7 @@
     ],
     "name": "Midnight Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-01-21T20:26:57Z"
   },
   "8a326da5-e642-4517-90f3-e7320e4e097b": {
@@ -7396,7 +7396,7 @@
     ],
     "name": "Whispering Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-05-18T00:46:30Z"
   },
   "319147a7-2808-45b5-b784-fbd3c8c43c0c": {
@@ -7411,7 +7411,7 @@
     ],
     "name": "Crystal Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-02-25T10:32:14Z"
   },
   "a7992a58-dab1-4ca5-bd99-5d1b7f18b23c": {
@@ -7434,7 +7434,7 @@
     ],
     "name": "Cosmic Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-03-13T12:17:05Z"
   },
   "9419b5df-0e7d-45ec-bf3a-34004b87a64f": {
@@ -7449,7 +7449,7 @@
     ],
     "name": "Mystic Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-02-19T00:38:46Z"
   },
   "095c01f0-c68f-4d22-a15c-1822364a5b76": {
@@ -7472,7 +7472,7 @@
     ],
     "name": "Enchanted Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-12-26T05:38:33Z"
   },
   "e79d2697-4d00-4ea0-b5d6-00a535219dd2": {
@@ -7487,7 +7487,7 @@
     ],
     "name": "Crimson Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-03-02T16:16:32Z"
   },
   "cdd897af-81a9-4fb4-ac33-d1334a7a9d38": {
@@ -7502,7 +7502,7 @@
     ],
     "name": "Mystic Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-04-29T20:43:21Z"
   },
   "ccef452f-3926-460f-b3c1-fac9b1c7d16c": {
@@ -7517,7 +7517,7 @@
     ],
     "name": "Crimson Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-02-06T00:41:11Z"
   },
   "df1116d1-de1d-4ac8-85e5-f551e4017a74": {
@@ -7532,7 +7532,7 @@
     ],
     "name": "Enchanted Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-08-09T11:59:45Z"
   },
   "b291b187-1736-4fac-bd53-0c2d3c262296": {
@@ -7547,7 +7547,7 @@
     ],
     "name": "Golden Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-10-11T17:16:48Z"
   },
   "ea88274d-bd68-4c47-8a52-18ebdac4dacf": {
@@ -7562,7 +7562,7 @@
     ],
     "name": "Cosmic Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-03-02T21:32:05Z"
   },
   "cdf7d81b-0f36-4cbd-896a-4b2578cc463f": {
@@ -7577,7 +7577,7 @@
     ],
     "name": "Golden Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-10-08T21:52:13Z"
   },
   "6a5260a9-8d0c-4040-b69e-252ff6144601": {
@@ -7592,7 +7592,7 @@
     ],
     "name": "Cosmic Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-08-06T21:55:46Z"
   },
   "3238aab8-6a6b-4b9e-996f-ef4cc32c957e": {
@@ -7607,7 +7607,7 @@
     ],
     "name": "Azure Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-08-09T02:12:48Z"
   },
   "343d3e7b-132f-43de-93c8-1f516757a3ec": {
@@ -7622,7 +7622,7 @@
     ],
     "name": "Sunrise Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-10-21T01:57:27Z"
   },
   "571d9d9c-6cb2-4c98-84d0-8fab4ba904ff": {
@@ -7673,7 +7673,7 @@
     ],
     "name": "Sunrise Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-09-23T19:14:22Z"
   },
   "669348aa-f2f5-4c2d-9cba-27855227dd09": {
@@ -7688,7 +7688,7 @@
     ],
     "name": "Mystic Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-08-10T09:33:19Z"
   },
   "48260099-4445-4252-bb12-8eb5bab1c78f": {
@@ -7703,7 +7703,7 @@
     ],
     "name": "Azure Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-09-01T08:43:20Z"
   },
   "9df9f906-2dd4-4634-886f-ec011e464b02": {
@@ -7718,7 +7718,7 @@
     ],
     "name": "Azure Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-06-25T02:36:38Z"
   },
   "78d52cee-5248-40c7-b124-27d548ee6ce8": {
@@ -7733,7 +7733,7 @@
     ],
     "name": "Cosmic Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-09-20T18:39:39Z"
   },
   "8c30d632-8251-4a31-ac5c-784c847c83a5": {
@@ -7748,7 +7748,7 @@
     ],
     "name": "Whispering Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-11-24T15:15:41Z"
   },
   "95b07663-6395-4aec-8da8-718c792c8589": {
@@ -7763,7 +7763,7 @@
     ],
     "name": "Golden Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-08-16T00:31:20Z"
   },
   "a10ed0ed-f0c3-4135-a2db-c304c14281cc": {
@@ -7778,7 +7778,7 @@
     ],
     "name": "Azure Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-11-09T07:18:50Z"
   },
   "24b0f1b7-8824-4fdb-b14e-5c8efcfe8373": {
@@ -7793,7 +7793,7 @@
     ],
     "name": "Sunrise Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-11-10T07:21:23Z"
   },
   "05ede764-6bc8-4063-b43d-ad2a12e9c1cf": {
@@ -7808,7 +7808,7 @@
     ],
     "name": "Midnight Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-04-13T09:23:57Z"
   },
   "522666a8-f93a-4f4b-8e03-6bb31a836e47": {
@@ -7823,7 +7823,7 @@
     ],
     "name": "Whispering Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-12-20T23:09:53Z"
   },
   "d8325e2d-c87c-43c8-9a1e-643b99d5dc09": {
@@ -7838,7 +7838,7 @@
     ],
     "name": "Cosmic Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-08-02T22:38:52Z"
   },
   "95e9f0ba-d5a5-4532-ae37-d4f7aed85937": {
@@ -7853,7 +7853,7 @@
     ],
     "name": "Whispering Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-03-27T04:39:35Z"
   },
   "3cdc57a0-c42e-4332-9c11-3f3ee7eae930": {
@@ -7868,7 +7868,7 @@
     ],
     "name": "Crystal Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-07-27T11:28:56Z"
   },
   "7f813361-69d3-4c1c-abf2-e58b50356a89": {
@@ -7883,7 +7883,7 @@
     ],
     "name": "Azure Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-02-18T17:34:40Z"
   },
   "02985156-21af-45ca-b15c-473fad8e3ea8": {
@@ -7898,7 +7898,7 @@
     ],
     "name": "Crystal Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-03-10T00:23:53Z"
   },
   "4e2240ca-0e50-4f78-a4aa-9d57631540e0": {
@@ -7913,7 +7913,7 @@
     ],
     "name": "Sunrise Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-08-25T01:05:23Z"
   },
   "4f609139-f5a2-4e8c-a2f4-a41f71210291": {
@@ -7928,7 +7928,7 @@
     ],
     "name": "Sunrise Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-11-12T12:52:26Z"
   },
   "0a33e204-4084-430b-8849-a4c963c68ba5": {
@@ -7943,7 +7943,7 @@
     ],
     "name": "Crimson Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-04-29T10:45:48Z"
   },
   "c94697f5-65bb-4d6a-bc9a-4237ac44add1": {
@@ -7958,7 +7958,7 @@
     ],
     "name": "Enchanted Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-01-21T22:56:46Z"
   },
   "bf6a1cfd-c6c9-4c4f-af75-1949a78131b7": {
@@ -7973,7 +7973,7 @@
     ],
     "name": "Sunrise Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-11-05T10:26:50Z"
   },
   "84b1e525-a4db-48a4-aca6-bb0bc7d89f5a": {
@@ -7988,7 +7988,7 @@
     ],
     "name": "Mystic Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-01-08T05:31:44Z"
   },
   "66109658-d85e-4c21-b86e-f3abb9b0b09f": {
@@ -8003,7 +8003,7 @@
     ],
     "name": "Crimson Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-09-24T19:00:13Z"
   },
   "29476e89-e7d2-435b-8280-336e234c3646": {
@@ -8054,7 +8054,7 @@
     ],
     "name": "Enchanted Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-05-26T03:40:13Z"
   },
   "b92f369f-b4ea-43ec-a1b7-342475e7cd6f": {
@@ -8069,7 +8069,7 @@
     ],
     "name": "Mystic Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-11-10T14:39:49Z"
   },
   "19f8d1de-ddc5-4cce-8a00-894ebbb68115": {
@@ -8084,7 +8084,7 @@
     ],
     "name": "Azure Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-07-20T07:46:36Z"
   },
   "7e544d9f-e74a-4489-bdb4-77df55b0cba4": {
@@ -8099,7 +8099,7 @@
     ],
     "name": "Golden Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-04-17T19:28:55Z"
   },
   "20555099-a5e2-4f96-ad98-001dbd2ee193": {
@@ -8130,7 +8130,7 @@
     ],
     "name": "Golden Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-09-08T21:42:07Z"
   },
   "be9a5590-e210-4712-9f6f-3aa1b5d8a333": {
@@ -8145,7 +8145,7 @@
     ],
     "name": "Golden Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-04-27T22:55:17Z"
   },
   "910f4161-b5ad-44ec-866f-a88817a2768a": {
@@ -8160,7 +8160,7 @@
     ],
     "name": "Enchanted Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-09-26T07:00:59Z"
   },
   "4ca21aa3-ae82-4136-8df0-b938240e9528": {
@@ -8175,7 +8175,7 @@
     ],
     "name": "Crystal Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-03-07T03:16:37Z"
   },
   "1123180d-ce08-4323-9e9e-7a6f480a6768": {
@@ -8206,7 +8206,7 @@
     ],
     "name": "Azure Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-12-16T18:00:41Z"
   },
   "99f4b9bc-fe40-4fae-bfc0-bab56c0a594a": {
@@ -8221,7 +8221,7 @@
     ],
     "name": "Whispering Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-11-19T15:09:20Z"
   },
   "1c55c4c4-2393-491c-8c30-472ad390e551": {
@@ -8236,7 +8236,7 @@
     ],
     "name": "Cosmic Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-08-19T03:16:19Z"
   },
   "42c1ac89-2b88-417e-8a3f-cf673abe8cf3": {
@@ -8251,7 +8251,7 @@
     ],
     "name": "Cosmic Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-11-26T00:33:28Z"
   },
   "deb72aa7-ea08-435b-bed7-496c7cf54ae3": {
@@ -8282,7 +8282,7 @@
     ],
     "name": "Midnight Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-10-01T12:59:38Z"
   },
   "d0abefe4-beac-41f4-b160-4590e8bd80b5": {
@@ -8297,7 +8297,7 @@
     ],
     "name": "Golden Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-06-10T23:22:10Z"
   },
   "8b5d2995-76f9-47de-a386-73788400635c": {
@@ -8312,7 +8312,7 @@
     ],
     "name": "Crimson Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-12-01T01:39:31Z"
   },
   "41d53c4f-1be5-4179-adbb-07188252844b": {
@@ -8335,7 +8335,7 @@
     ],
     "name": "Crystal Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-01-27T08:13:59Z"
   },
   "ff6d0b50-9dda-4ff1-add2-039f3d9104c8": {
@@ -8350,7 +8350,7 @@
     ],
     "name": "Azure Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-06-13T14:59:12Z"
   },
   "494feaef-4ae5-49da-8577-c6b56c0835f6": {
@@ -8365,7 +8365,7 @@
     ],
     "name": "Crystal Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-06-05T12:50:38Z"
   },
   "7b9680ff-3f73-4e83-ba4e-8447da7fb4f2": {
@@ -8380,7 +8380,7 @@
     ],
     "name": "Whispering Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-08-04T11:19:02Z"
   },
   "94624689-9137-4b7e-969a-6f73c661141b": {
@@ -8395,7 +8395,7 @@
     ],
     "name": "Mystic Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-04-04T04:49:26Z"
   },
   "87cb8a12-f3df-4202-be8d-71fb0442f691": {
@@ -8410,7 +8410,7 @@
     ],
     "name": "Crimson Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-04-12T09:30:25Z"
   },
   "45d7dfd7-873b-429a-9151-1ab884943083": {
@@ -8425,7 +8425,7 @@
     ],
     "name": "Crystal Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-07-31T11:41:52Z"
   },
   "4d08ec3a-fb78-4ac4-9de5-229ac15b4d85": {
@@ -8440,7 +8440,7 @@
     ],
     "name": "Midnight Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-01-01T17:08:18Z"
   },
   "e5661bee-a950-4a52-bbe2-94974cef3c71": {
@@ -8455,7 +8455,7 @@
     ],
     "name": "Whispering Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-05-05T07:58:25Z"
   },
   "12ef38f2-ca71-4fc0-9917-df6097e4a61e": {
@@ -8470,7 +8470,7 @@
     ],
     "name": "Enchanted Pinnacle",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-07-25T11:01:05Z"
   },
   "55b69894-d96b-423a-9f48-7ce7e30ffa6b": {
@@ -8485,7 +8485,7 @@
     ],
     "name": "Golden Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2006-06-11T07:13:46Z"
   },
   "36315d7d-0881-4742-8eff-1f45de83d290": {
@@ -8500,7 +8500,7 @@
     ],
     "name": "Azure Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-08-16T18:47:38Z"
   },
   "03dbb1e1-c192-4906-b3b6-ad6cadf2d55e": {
@@ -8515,7 +8515,7 @@
     ],
     "name": "Crimson Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-11-09T20:48:20Z"
   },
   "97d83b6a-2e0f-4380-9cf6-bac1016de170": {
@@ -8530,7 +8530,7 @@
     ],
     "name": "Whispering Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-01-31T01:05:52Z"
   },
   "c3be7ac1-4ead-41ff-835f-7cf11f8da22d": {
@@ -8545,7 +8545,7 @@
     ],
     "name": "Mystic Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2000-12-23T08:45:09Z"
   },
   "e0c1b2f6-5c09-4b28-b902-e12d1718e2ca": {
@@ -8560,7 +8560,7 @@
     ],
     "name": "Azure Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-11-21T02:40:09Z"
   },
   "4a4aaf0b-f04d-4651-bf0d-f99005723bf4": {
@@ -8575,7 +8575,7 @@
     ],
     "name": "Crimson Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-01-05T22:36:01Z"
   },
   "be8163bf-66e9-4daf-b5ed-a1e14e0fa795": {
@@ -8590,7 +8590,7 @@
     ],
     "name": "Whispering Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-09-09T17:44:38Z"
   },
   "8b2b6070-ad7f-4ad6-8b32-79098b9fedcd": {
@@ -8605,7 +8605,7 @@
     ],
     "name": "Enchanted Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-05-06T20:09:23Z"
   },
   "4670cf56-e40d-4702-b047-db9173a7d30a": {
@@ -8620,7 +8620,7 @@
     ],
     "name": "Midnight Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-07-06T18:04:00Z"
   },
   "bf63efdd-664d-421c-bc39-a32a61902ce3": {
@@ -8635,7 +8635,7 @@
     ],
     "name": "Mystic Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-01-10T05:08:26Z"
   },
   "b4a2318b-f20d-4a17-9477-77d44c2b0f3c": {
@@ -8650,7 +8650,7 @@
     ],
     "name": "Crimson Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-05-03T05:46:47Z"
   },
   "484d596a-f1db-424a-a007-2222fffda152": {
@@ -8665,7 +8665,7 @@
     ],
     "name": "Azure Innovations",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-04-09T22:23:59Z"
   },
   "249d9278-cb60-427e-88b0-5f572084bfa6": {
@@ -8688,7 +8688,7 @@
     ],
     "name": "Azure Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-07-12T11:41:51Z"
   },
   "f898d52c-9379-40f9-b9c9-af5b8a011836": {
@@ -8703,7 +8703,7 @@
     ],
     "name": "Sunrise Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2000-09-11T13:17:39Z"
   },
   "ec4c8a2b-d3df-4f48-a760-00894c3e5566": {
@@ -8718,7 +8718,7 @@
     ],
     "name": "Crimson Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-12-17T01:55:43Z"
   },
   "145cecb1-b206-4c9d-85db-0f5638ae7933": {
@@ -8733,7 +8733,7 @@
     ],
     "name": "Cosmic Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-03-10T22:35:52Z"
   },
   "24a633f9-a02d-444d-8e44-babffe69bda8": {
@@ -8748,7 +8748,7 @@
     ],
     "name": "Enchanted Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-10-30T01:02:42Z"
   },
   "eac4909d-fb8e-4077-98ed-c13d6a93c22f": {
@@ -8763,7 +8763,7 @@
     ],
     "name": "Azure Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-01-26T20:52:42Z"
   },
   "083bd623-bbd0-4dba-bd1b-1c1172ff3af7": {
@@ -8778,7 +8778,7 @@
     ],
     "name": "Enchanted Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-01-14T21:31:59Z"
   },
   "c74bd9e5-2c36-4a2d-8de1-51c5f757b81e": {
@@ -8801,7 +8801,7 @@
     ],
     "name": "Sunrise Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-03-17T10:46:09Z"
   },
   "9615de36-fe22-462e-8b72-13fe83521463": {
@@ -8816,7 +8816,7 @@
     ],
     "name": "Mystic Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-09-25T12:03:30Z"
   },
   "d2592ef9-d1cd-408b-8221-3042b5884bb8": {
@@ -8831,7 +8831,7 @@
     ],
     "name": "Sunrise Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2004-03-19T11:31:02Z"
   },
   "03d52d5b-ea57-4ccc-906b-2fa0e095a263": {
@@ -8846,7 +8846,7 @@
     ],
     "name": "Mystic Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2010-06-25T15:44:33Z"
   },
   "52df2d2a-eda4-4cea-9eb7-9fa4b153b36a": {
@@ -8861,7 +8861,7 @@
     ],
     "name": "Crystal Horizons",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2007-05-16T08:04:19Z"
   },
   "85ff4877-a083-491e-9d09-f209d07c0ed5": {
@@ -8876,7 +8876,7 @@
     ],
     "name": "Crimson Ventures",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2001-08-07T18:01:30Z"
   },
   "b4d585bb-de91-43ef-9699-43b28105584a": {
@@ -8907,7 +8907,7 @@
     ],
     "name": "Cosmic Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-07-06T06:44:42Z"
   },
   "62e4fdd9-2be7-469a-96d6-074d11efbfd5": {
@@ -8922,7 +8922,7 @@
     ],
     "name": "Whispering Emporium",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2005-05-23T15:19:11Z"
   },
   "0e36e4d9-0795-4faa-a4db-a7b712d7ee2a": {
@@ -8937,7 +8937,7 @@
     ],
     "name": "Mystic Group",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-04-04T18:25:22Z"
   },
   "d7ed88d5-0946-4b60-b581-a3c14d26df4d": {
@@ -8956,7 +8956,7 @@
     ],
     "name": "Crystal Solutions",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2002-06-07T15:47:08Z"
   },
   "6c76a618-58ee-49b6-ac15-620a57daca5a": {
@@ -8971,7 +8971,7 @@
     ],
     "name": "Sunrise Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-04-14T20:25:19Z"
   },
   "63a7abab-d073-4e08-97e8-96f929d125c6": {
@@ -8986,7 +8986,7 @@
     ],
     "name": "Azure Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2008-09-30T01:52:50Z"
   },
   "12bcec3d-d849-4632-808c-0406cea87643": {
@@ -9001,7 +9001,7 @@
     ],
     "name": "Crystal Collective",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-03-11T08:32:20Z"
   },
   "84f9c74c-7209-4278-aa3f-62e06867fe41": {
@@ -9016,7 +9016,7 @@
     ],
     "name": "Midnight Enterprises",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2009-10-24T18:52:12Z"
   },
   "eb11766f-b154-4a69-8151-1f461b01c60c": {
@@ -9031,7 +9031,7 @@
     ],
     "name": "Cosmic Dynamics",
     "status": "ENABLED",
-    "type": "TEST",
+    "type": "MERCHANT",
     "updated_at": "2003-04-17T17:36:37Z"
   }
 }
