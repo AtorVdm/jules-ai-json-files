@@ -10,5 +10,1993 @@
   "1a95451b-0fff-40eb-a274-73af3fb3d188": {
     "display_name": "Tech Tinkerer",
     "technical_id": "1a95451b-0fff-40eb-a274-73af3fb3d188"
+  },
+  "08d1b2c2-e7d2-4aab-b181-720bb06d36ce": {
+    "display_name": "Epic Hacker",
+    "technical_id": "08d1b2c2-e7d2-4aab-b181-720bb06d36ce"
+  },
+  "3925a370-50d5-4431-b5e4-e769dd137ae6": {
+    "display_name": "Infinite Pioneer",
+    "technical_id": "3925a370-50d5-4431-b5e4-e769dd137ae6"
+  },
+  "5e31cbbc-a8fb-4caa-8bae-83f233557795": {
+    "display_name": "Void Coder",
+    "technical_id": "5e31cbbc-a8fb-4caa-8bae-83f233557795"
+  },
+  "98ccf4c5-f161-46df-99b9-2f4a08f1c881": {
+    "display_name": "Giga Architect",
+    "technical_id": "98ccf4c5-f161-46df-99b9-2f4a08f1c881"
+  },
+  "59c166a1-8cf1-468c-9931-9636a5dc1f9e": {
+    "display_name": "Kernel Operator",
+    "technical_id": "59c166a1-8cf1-468c-9931-9636a5dc1f9e"
+  },
+  "94f704ba-f712-44ff-9d2b-8ca7fdd00589": {
+    "display_name": "Void Tinkerer",
+    "technical_id": "94f704ba-f712-44ff-9d2b-8ca7fdd00589"
+  },
+  "b51ff14e-d727-49bf-a3a8-60fc75e537a5": {
+    "display_name": "Agile Builder",
+    "technical_id": "b51ff14e-d727-49bf-a3a8-60fc75e537a5"
+  },
+  "4244b89e-c6b9-4e96-b1f8-67db332d5469": {
+    "display_name": "Hyper Pioneer",
+    "technical_id": "4244b89e-c6b9-4e96-b1f8-67db332d5469"
+  },
+  "10bc6d62-48e0-450a-9cdf-7c81889e44c3": {
+    "display_name": "Future Rider",
+    "technical_id": "10bc6d62-48e0-450a-9cdf-7c81889e44c3"
+  },
+  "aec49e75-68fc-44fb-ada2-16fbaced2d25": {
+    "display_name": "Ultra Yielder",
+    "technical_id": "aec49e75-68fc-44fb-ada2-16fbaced2d25"
+  },
+  "cd559f5e-d773-4826-9687-9ce437c73b92": {
+    "display_name": "Web Legend",
+    "technical_id": "cd559f5e-d773-4826-9687-9ce437c73b92"
+  },
+  "8eb117b3-3ada-45bd-963d-5d10f4f2e822": {
+    "display_name": "Binary Engineer",
+    "technical_id": "8eb117b3-3ada-45bd-963d-5d10f4f2e822"
+  },
+  "77f3286e-98fe-472b-9faa-a822404a5cf2": {
+    "display_name": "Pixel Builder",
+    "technical_id": "77f3286e-98fe-472b-9faa-a822404a5cf2"
+  },
+  "9835c76e-6483-4b18-96cf-7561994a6d69": {
+    "display_name": "Zetta Innovator",
+    "technical_id": "9835c76e-6483-4b18-96cf-7561994a6d69"
+  },
+  "1c15ddc6-61a1-461f-9514-0b365710783d": {
+    "display_name": "Jiggy Juggler",
+    "technical_id": "1c15ddc6-61a1-461f-9514-0b365710783d"
+  },
+  "ff5f333d-fe0f-4474-ad5f-40583ef1070d": {
+    "display_name": "Binary Scribe",
+    "technical_id": "ff5f333d-fe0f-4474-ad5f-40583ef1070d"
+  },
+  "1f6bc46f-edb3-41eb-8178-eb0a49a88fda": {
+    "display_name": "Super Keeper",
+    "technical_id": "1f6bc46f-edb3-41eb-8178-eb0a49a88fda"
+  },
+  "fc2e9a4f-5433-4efa-9419-40c9274484e3": {
+    "display_name": "Hyper Usurper",
+    "technical_id": "fc2e9a4f-5433-4efa-9419-40c9274484e3"
+  },
+  "0dcd2170-bd28-42dc-808d-64e76ab69f61": {
+    "display_name": "Logic Visionary",
+    "technical_id": "0dcd2170-bd28-42dc-808d-64e76ab69f61"
+  },
+  "81fbe302-50b5-4ca1-941c-18c7d9da51fb": {
+    "display_name": "Jiggy Xplorer",
+    "technical_id": "81fbe302-50b5-4ca1-941c-18c7d9da51fb"
+  },
+  "c95d154c-237d-46ae-a089-6353d2086ae9": {
+    "display_name": "Agile Master",
+    "technical_id": "c95d154c-237d-46ae-a089-6353d2086ae9"
+  },
+  "1cf45a9d-c37f-441d-9f09-f86a6ac68af0": {
+    "display_name": "Quantum Juggler",
+    "technical_id": "1cf45a9d-c37f-441d-9f09-f86a6ac68af0"
+  },
+  "19ad790c-8676-4d00-88f6-a373cfd3e8b3": {
+    "display_name": "Zetta Zealot",
+    "technical_id": "19ad790c-8676-4d00-88f6-a373cfd3e8b3"
+  },
+  "54661fcf-6623-4393-ad94-b7a487ca6d99": {
+    "display_name": "Void Innovator",
+    "technical_id": "54661fcf-6623-4393-ad94-b7a487ca6d99"
+  },
+  "6f1cbfa5-cf34-4754-8618-13b358303bcc": {
+    "display_name": "Binary Innovator",
+    "technical_id": "6f1cbfa5-cf34-4754-8618-13b358303bcc"
+  },
+  "9ac29451-1715-4cec-a33d-376ad5ad3d00": {
+    "display_name": "Web Xplorer",
+    "technical_id": "9ac29451-1715-4cec-a33d-376ad5ad3d00"
+  },
+  "2cdf17c2-1a9c-406b-8fa3-f54116253ae2": {
+    "display_name": "Zetta Visionary",
+    "technical_id": "2cdf17c2-1a9c-406b-8fa3-f54116253ae2"
+  },
+  "6d1abdad-dd28-4e41-a28a-79dabfb057dc": {
+    "display_name": "Xeno Pioneer",
+    "technical_id": "6d1abdad-dd28-4e41-a28a-79dabfb057dc"
+  },
+  "f73a2f39-f856-494a-bcfc-ae944745e0ae": {
+    "display_name": "Super Legend",
+    "technical_id": "f73a2f39-f856-494a-bcfc-ae944745e0ae"
+  },
+  "2711fa12-3ed2-408b-855c-21d95640052c": {
+    "display_name": "Nano Xplorer",
+    "technical_id": "2711fa12-3ed2-408b-855c-21d95640052c"
+  },
+  "e547d6be-e6bc-45fa-81c0-45a3179704e3": {
+    "display_name": "Binary Ninja",
+    "technical_id": "e547d6be-e6bc-45fa-81c0-45a3179704e3"
+  },
+  "fe8f14b0-ae17-48ff-9450-193e5db73ea8": {
+    "display_name": "Giga Engineer",
+    "technical_id": "fe8f14b0-ae17-48ff-9450-193e5db73ea8"
+  },
+  "09db35d9-562d-48fe-923a-92d07bc1a4aa": {
+    "display_name": "Nano Master",
+    "technical_id": "09db35d9-562d-48fe-923a-92d07bc1a4aa"
+  },
+  "f105a2e0-3504-4d4d-ae76-3580545d84a9": {
+    "display_name": "Epic Coder",
+    "technical_id": "f105a2e0-3504-4d4d-ae76-3580545d84a9"
+  },
+  "aa0eb700-416b-44d9-83ea-0c1e90a44072": {
+    "display_name": "Data Architect",
+    "technical_id": "aa0eb700-416b-44d9-83ea-0c1e90a44072"
+  },
+  "8695ea66-3d30-4b77-a087-83f79101191e": {
+    "display_name": "Quantum Innovator",
+    "technical_id": "8695ea66-3d30-4b77-a087-83f79101191e"
+  },
+  "aeb03681-4248-43e9-84f1-7c10642a27b0": {
+    "display_name": "Ultra Coder",
+    "technical_id": "aeb03681-4248-43e9-84f1-7c10642a27b0"
+  },
+  "ab74d7f4-32d7-42d6-aad7-42c5c3ea5824": {
+    "display_name": "Xeno Scribe",
+    "technical_id": "ab74d7f4-32d7-42d6-aad7-42c5c3ea5824"
+  },
+  "e45ed423-d5cc-43ec-b93a-6191e1b145fc": {
+    "display_name": "Zetta Quester",
+    "technical_id": "e45ed423-d5cc-43ec-b93a-6191e1b145fc"
+  },
+  "f4b75091-1556-43e7-ac02-df9bf9a0e90a": {
+    "display_name": "Cloud Developer",
+    "technical_id": "f4b75091-1556-43e7-ac02-df9bf9a0e90a"
+  },
+  "55d7ae3c-7d31-420b-96cf-1e8befa21ff1": {
+    "display_name": "Infinite Legend",
+    "technical_id": "55d7ae3c-7d31-420b-96cf-1e8befa21ff1"
+  },
+  "890b61c3-af98-42bb-bb6c-d9753373907b": {
+    "display_name": "Pixel Hacker",
+    "technical_id": "890b61c3-af98-42bb-bb6c-d9753373907b"
+  },
+  "db2b6df0-7a5c-4cf9-8cfe-67f8e677bd74": {
+    "display_name": "Web Ninja",
+    "technical_id": "db2b6df0-7a5c-4cf9-8cfe-67f8e677bd74"
+  },
+  "45ea48b8-4b3d-4a27-bddb-778389245721": {
+    "display_name": "Zetta Guru",
+    "technical_id": "45ea48b8-4b3d-4a27-bddb-778389245721"
+  },
+  "1f25999e-bda2-4093-a341-2849640f3f33": {
+    "display_name": "Future Zealot",
+    "technical_id": "1f25999e-bda2-4093-a341-2849640f3f33"
+  },
+  "6c4f77f8-19a8-455a-9596-f1694cfab5c5": {
+    "display_name": "Void Scribe",
+    "technical_id": "6c4f77f8-19a8-455a-9596-f1694cfab5c5"
+  },
+  "26b2300a-ea91-43ed-8d1f-7c5166225b0a": {
+    "display_name": "Rocket Legend",
+    "technical_id": "26b2300a-ea91-43ed-8d1f-7c5166225b0a"
+  },
+  "e798cbd2-615d-4bd7-9eb1-bfcf98765c8c": {
+    "display_name": "Void Builder",
+    "technical_id": "e798cbd2-615d-4bd7-9eb1-bfcf98765c8c"
+  },
+  "d265bedb-962c-4d75-b880-5bae1dae5949": {
+    "display_name": "Logic Pioneer",
+    "technical_id": "d265bedb-962c-4d75-b880-5bae1dae5949"
+  },
+  "6ce630ff-d4d1-49d4-b8b9-cab5fa233736": {
+    "display_name": "Logic Operator",
+    "technical_id": "6ce630ff-d4d1-49d4-b8b9-cab5fa233736"
+  },
+  "e86be6ab-2041-495a-ac41-c5c9b907a31f": {
+    "display_name": "Cloud Guru",
+    "technical_id": "e86be6ab-2041-495a-ac41-c5c9b907a31f"
+  },
+  "6df68e0f-a39f-4356-be19-91a6514011f2": {
+    "display_name": "Nano Ninja",
+    "technical_id": "6df68e0f-a39f-4356-be19-91a6514011f2"
+  },
+  "6bfe1204-85ec-4f7b-bd19-1f2dd79b3b07": {
+    "display_name": "Logic Scribe",
+    "technical_id": "6bfe1204-85ec-4f7b-bd19-1f2dd79b3b07"
+  },
+  "abc715ec-8db4-4193-a37f-ab735a19573c": {
+    "display_name": "Super Ninja",
+    "technical_id": "abc715ec-8db4-4193-a37f-ab735a19573c"
+  },
+  "9e45a6b3-cbdd-4104-b896-35054f04948f": {
+    "display_name": "Zetta Operator",
+    "technical_id": "9e45a6b3-cbdd-4104-b896-35054f04948f"
+  },
+  "d73b36a7-f50e-4e58-be54-bb2a3d393ac2": {
+    "display_name": "Future Innovator",
+    "technical_id": "d73b36a7-f50e-4e58-be54-bb2a3d393ac2"
+  },
+  "674567de-5be4-48b4-b0d6-e703fffe880a": {
+    "display_name": "Nano Builder",
+    "technical_id": "674567de-5be4-48b4-b0d6-e703fffe880a"
+  },
+  "d70fdf21-823e-49eb-9095-280e1aafa484": {
+    "display_name": "Giga Ninja",
+    "technical_id": "d70fdf21-823e-49eb-9095-280e1aafa484"
+  },
+  "8e6a265f-0e34-4505-bdae-33238d5972d9": {
+    "display_name": "Hyper Yielder",
+    "technical_id": "8e6a265f-0e34-4505-bdae-33238d5972d9"
+  },
+  "969db978-883f-4d3a-b6fb-90de90ff6ab9": {
+    "display_name": "Ultra Operator",
+    "technical_id": "969db978-883f-4d3a-b6fb-90de90ff6ab9"
+  },
+  "c59fc9a9-276f-4a7f-8b52-598c7460de1d": {
+    "display_name": "Quantum Master",
+    "technical_id": "c59fc9a9-276f-4a7f-8b52-598c7460de1d"
+  },
+  "0613912e-e79f-4348-aa9f-f628523f7fa2": {
+    "display_name": "Logic Guru",
+    "technical_id": "0613912e-e79f-4348-aa9f-f628523f7fa2"
+  },
+  "a3f90bba-bffb-44ae-8732-9ec4b6b01448": {
+    "display_name": "Kernel Tinkerer",
+    "technical_id": "a3f90bba-bffb-44ae-8732-9ec4b6b01448"
+  },
+  "a676c4ce-b2f2-4e65-8648-76471455d7c4": {
+    "display_name": "Cloud Visionary",
+    "technical_id": "a676c4ce-b2f2-4e65-8648-76471455d7c4"
+  },
+  "81440319-ca30-4836-b8e5-fc34ecb53f01": {
+    "display_name": "Xeno Rider",
+    "technical_id": "81440319-ca30-4836-b8e5-fc34ecb53f01"
+  },
+  "896558dd-b07c-4ea4-8149-af44997ac8d1": {
+    "display_name": "Future Scribe",
+    "technical_id": "896558dd-b07c-4ea4-8149-af44997ac8d1"
+  },
+  "76f09e15-815b-4520-a267-d0f6c73e1e77": {
+    "display_name": "Binary Xplorer",
+    "technical_id": "76f09e15-815b-4520-a267-d0f6c73e1e77"
+  },
+  "d5078ac4-366f-4f7f-a3d1-fa10a27f85cf": {
+    "display_name": "Infinite Operator",
+    "technical_id": "d5078ac4-366f-4f7f-a3d1-fa10a27f85cf"
+  },
+  "9a1ccde3-4367-4a9d-a624-a4d55c87c4d2": {
+    "display_name": "Zetta Pioneer",
+    "technical_id": "9a1ccde3-4367-4a9d-a624-a4d55c87c4d2"
+  },
+  "2411f76f-e298-4fc6-9519-1a576b3dc05e": {
+    "display_name": "Yotta Ninja",
+    "technical_id": "2411f76f-e298-4fc6-9519-1a576b3dc05e"
+  },
+  "2432d8ba-024c-4f26-a60d-303e708c4d6c": {
+    "display_name": "Giga Coder",
+    "technical_id": "2432d8ba-024c-4f26-a60d-303e708c4d6c"
+  },
+  "aef8ad69-290a-4869-8178-eec0403df75d": {
+    "display_name": "Epic Developer",
+    "technical_id": "aef8ad69-290a-4869-8178-eec0403df75d"
+  },
+  "38433d58-3a28-4a7e-8787-4d2ec5ff5f77": {
+    "display_name": "Agile Engineer",
+    "technical_id": "38433d58-3a28-4a7e-8787-4d2ec5ff5f77"
+  },
+  "7473ddd1-3f9d-4a87-abec-856750a38cc0": {
+    "display_name": "Omega Pioneer",
+    "technical_id": "7473ddd1-3f9d-4a87-abec-856750a38cc0"
+  },
+  "ece820b4-9c9e-4015-b234-f7c9120ac36e": {
+    "display_name": "Hyper Visionary",
+    "technical_id": "ece820b4-9c9e-4015-b234-f7c9120ac36e"
+  },
+  "e036a115-53fd-4330-a688-0fc59a44558b": {
+    "display_name": "Meta Rider",
+    "technical_id": "e036a115-53fd-4330-a688-0fc59a44558b"
+  },
+  "37b9ab4b-e2a7-4023-ba32-2a3a7a98b8d0": {
+    "display_name": "Agile Rider",
+    "technical_id": "37b9ab4b-e2a7-4023-ba32-2a3a7a98b8d0"
+  },
+  "bdcd0277-5d3d-4c16-90dc-72edddccf539": {
+    "display_name": "Data Ninja",
+    "technical_id": "bdcd0277-5d3d-4c16-90dc-72edddccf539"
+  },
+  "88f18502-e367-418e-bea8-70b7610ce016": {
+    "display_name": "Web Visionary",
+    "technical_id": "88f18502-e367-418e-bea8-70b7610ce016"
+  },
+  "b2de1c62-31ad-4779-8506-a93b8acaed8d": {
+    "display_name": "Xeno Keeper",
+    "technical_id": "b2de1c62-31ad-4779-8506-a93b8acaed8d"
+  },
+  "07656abd-7d56-47b4-ab05-11e27d46d900": {
+    "display_name": "Epic Legend",
+    "technical_id": "07656abd-7d56-47b4-ab05-11e27d46d900"
+  },
+  "cd1feff9-faad-4d05-b91f-888c69aa02b0": {
+    "display_name": "Yotta Xplorer",
+    "technical_id": "cd1feff9-faad-4d05-b91f-888c69aa02b0"
+  },
+  "c9671cfa-c2f6-4393-b6a8-d7f0e3918b39": {
+    "display_name": "Future Yielder",
+    "technical_id": "c9671cfa-c2f6-4393-b6a8-d7f0e3918b39"
+  },
+  "8abf102d-3033-4ac8-8f84-564fbc2b6955": {
+    "display_name": "Ultra Zealot",
+    "technical_id": "8abf102d-3033-4ac8-8f84-564fbc2b6955"
+  },
+  "17129040-69f4-47e4-8161-48ea2cbf52e1": {
+    "display_name": "Zetta Juggler",
+    "technical_id": "17129040-69f4-47e4-8161-48ea2cbf52e1"
+  },
+  "ba4dedbd-58f6-4b1c-97a8-a8b482ca3a20": {
+    "display_name": "Zetta Master",
+    "technical_id": "ba4dedbd-58f6-4b1c-97a8-a8b482ca3a20"
+  },
+  "c678c3a8-621f-4d2a-99ff-975d197e27d1": {
+    "display_name": "Rocket Architect",
+    "technical_id": "c678c3a8-621f-4d2a-99ff-975d197e27d1"
+  },
+  "c131db4b-0520-4eb2-ab35-d0b32dd8db88": {
+    "display_name": "Future Developer",
+    "technical_id": "c131db4b-0520-4eb2-ab35-d0b32dd8db88"
+  },
+  "20489211-03b0-47b0-a020-bffbe89db3cd": {
+    "display_name": "Nano Scribe",
+    "technical_id": "20489211-03b0-47b0-a020-bffbe89db3cd"
+  },
+  "4e4f3afb-dfd4-4fa7-9a79-bb9b55e73023": {
+    "display_name": "Data Visionary",
+    "technical_id": "4e4f3afb-dfd4-4fa7-9a79-bb9b55e73023"
+  },
+  "c4f8dd72-d5fa-48a0-bb20-bc5baebd6f38": {
+    "display_name": "Xeno Futurist",
+    "technical_id": "c4f8dd72-d5fa-48a0-bb20-bc5baebd6f38"
+  },
+  "f6ab7e43-e97e-4581-8aba-a276d363923c": {
+    "display_name": "Terra Ninja",
+    "technical_id": "f6ab7e43-e97e-4581-8aba-a276d363923c"
+  },
+  "f96c0557-61d2-420f-94ac-9880d168e41a": {
+    "display_name": "Quantum Keeper",
+    "technical_id": "f96c0557-61d2-420f-94ac-9880d168e41a"
+  },
+  "a540c266-7df3-4eeb-9363-c31a4a0ccbdf": {
+    "display_name": "Super Master",
+    "technical_id": "a540c266-7df3-4eeb-9363-c31a4a0ccbdf"
+  },
+  "0460942e-3fdd-4f7e-952a-91b3bf95a561": {
+    "display_name": "Cloud Wizard",
+    "technical_id": "0460942e-3fdd-4f7e-952a-91b3bf95a561"
+  },
+  "377c0760-9e15-4550-a863-b6d9cab59e76": {
+    "display_name": "Agile Keeper",
+    "technical_id": "377c0760-9e15-4550-a863-b6d9cab59e76"
+  },
+  "6026ac4f-d5b3-45f0-9209-cec41a6022f1": {
+    "display_name": "Binary Guru",
+    "technical_id": "6026ac4f-d5b3-45f0-9209-cec41a6022f1"
+  },
+  "447c49bf-a920-426f-8513-b0547a4b4f6c": {
+    "display_name": "Hyper Wizard",
+    "technical_id": "447c49bf-a920-426f-8513-b0547a4b4f6c"
+  },
+  "2eeb7452-8894-4bf5-8a76-90a4cee60a15": {
+    "display_name": "Cloud Ninja",
+    "technical_id": "2eeb7452-8894-4bf5-8a76-90a4cee60a15"
+  },
+  "ba232568-465d-4e71-ba09-74355b4e7abb": {
+    "display_name": "Super Coder",
+    "technical_id": "ba232568-465d-4e71-ba09-74355b4e7abb"
+  },
+  "10064f00-b735-460f-9daa-34c4c4e640ee": {
+    "display_name": "Cloud Innovator",
+    "technical_id": "10064f00-b735-460f-9daa-34c4c4e640ee"
+  },
+  "b25c93ae-92c5-4b69-ae15-7345d41c2cda": {
+    "display_name": "Rocket Innovator",
+    "technical_id": "b25c93ae-92c5-4b69-ae15-7345d41c2cda"
+  },
+  "50c283ba-6a1d-45cc-ab42-7c9a48d665a0": {
+    "display_name": "Xeno Hacker",
+    "technical_id": "50c283ba-6a1d-45cc-ab42-7c9a48d665a0"
+  },
+  "70358b7e-1f00-4b5a-846c-066a738c5ff5": {
+    "display_name": "Ultra Legend",
+    "technical_id": "70358b7e-1f00-4b5a-846c-066a738c5ff5"
+  },
+  "c561a928-711a-4ea1-88e7-a1cab72f03ee": {
+    "display_name": "Meta Ninja",
+    "technical_id": "c561a928-711a-4ea1-88e7-a1cab72f03ee"
+  },
+  "8eaf15fe-806d-47da-aacd-986e215db08f": {
+    "display_name": "Jiggy Rider",
+    "technical_id": "8eaf15fe-806d-47da-aacd-986e215db08f"
+  },
+  "4fd6b74f-b46c-4b1f-b41f-34ebd7ab33bc": {
+    "display_name": "Meta Innovator",
+    "technical_id": "4fd6b74f-b46c-4b1f-b41f-34ebd7ab33bc"
+  },
+  "4eed3516-cbd1-4104-87c7-4e1434b8b099": {
+    "display_name": "Kernel Legend",
+    "technical_id": "4eed3516-cbd1-4104-87c7-4e1434b8b099"
+  },
+  "edc05978-1fd6-42a9-b355-1a6ba14e9faa": {
+    "display_name": "Jiggy Keeper",
+    "technical_id": "edc05978-1fd6-42a9-b355-1a6ba14e9faa"
+  },
+  "c62791dc-26ec-4fea-aced-b2f3dfe7d263": {
+    "display_name": "Nano Visionary",
+    "technical_id": "c62791dc-26ec-4fea-aced-b2f3dfe7d263"
+  },
+  "d01dff13-da24-4505-804d-57f702cab8b2": {
+    "display_name": "Pixel Zealot",
+    "technical_id": "d01dff13-da24-4505-804d-57f702cab8b2"
+  },
+  "97480f76-8c88-432c-8a75-0e943a4059ee": {
+    "display_name": "Binary Visionary",
+    "technical_id": "97480f76-8c88-432c-8a75-0e943a4059ee"
+  },
+  "e7a46389-363a-47b3-9e5b-20ecac807a7b": {
+    "display_name": "Data Zealot",
+    "technical_id": "e7a46389-363a-47b3-9e5b-20ecac807a7b"
+  },
+  "c142021d-7417-4541-8a68-ce3eb8a55052": {
+    "display_name": "Rocket Visionary",
+    "technical_id": "c142021d-7417-4541-8a68-ce3eb8a55052"
+  },
+  "c3001dfe-9fb0-47c9-9b23-6ce6a717c8ef": {
+    "display_name": "Logic Hacker",
+    "technical_id": "c3001dfe-9fb0-47c9-9b23-6ce6a717c8ef"
+  },
+  "3283c10f-e4b4-437e-a450-01640a03f15b": {
+    "display_name": "Omega Coder",
+    "technical_id": "3283c10f-e4b4-437e-a450-01640a03f15b"
+  },
+  "74f4bac2-901b-4fff-85bf-40c04b0b90f2": {
+    "display_name": "Pixel Yielder",
+    "technical_id": "74f4bac2-901b-4fff-85bf-40c04b0b90f2"
+  },
+  "0cfeaa5e-be38-41f3-85b9-18d20c41e061": {
+    "display_name": "Data Guru",
+    "technical_id": "0cfeaa5e-be38-41f3-85b9-18d20c41e061"
+  },
+  "8c199d6d-bf5a-4d6a-9dbc-13ab0ca8efa8": {
+    "display_name": "Xeno Ninja",
+    "technical_id": "8c199d6d-bf5a-4d6a-9dbc-13ab0ca8efa8"
+  },
+  "2dee72ea-dcf5-4a94-9319-c783577200aa": {
+    "display_name": "Omega Xplorer",
+    "technical_id": "2dee72ea-dcf5-4a94-9319-c783577200aa"
+  },
+  "936e37a9-4e17-45a6-8016-c45f2e904519": {
+    "display_name": "Giga Juggler",
+    "technical_id": "936e37a9-4e17-45a6-8016-c45f2e904519"
+  },
+  "71f3d628-7430-4aac-b712-627743ed1ea1": {
+    "display_name": "Xeno Wizard",
+    "technical_id": "71f3d628-7430-4aac-b712-627743ed1ea1"
+  },
+  "dec89dc8-ea6f-4c49-a4ce-0c0f090e95ff": {
+    "display_name": "Terra Innovator",
+    "technical_id": "dec89dc8-ea6f-4c49-a4ce-0c0f090e95ff"
+  },
+  "aad8be54-3691-48c8-a9a4-9b1d308ff4a1": {
+    "display_name": "Rocket Developer",
+    "technical_id": "aad8be54-3691-48c8-a9a4-9b1d308ff4a1"
+  },
+  "9fba4982-3df3-435f-a58f-ae68523969e3": {
+    "display_name": "Infinite Architect",
+    "technical_id": "9fba4982-3df3-435f-a58f-ae68523969e3"
+  },
+  "b7582c4a-352a-40eb-a86e-5ffc833552cf": {
+    "display_name": "Ultra Pioneer",
+    "technical_id": "b7582c4a-352a-40eb-a86e-5ffc833552cf"
+  },
+  "3ea6dec3-0805-49d0-8fc9-3685d0131343": {
+    "display_name": "Agile Coder",
+    "technical_id": "3ea6dec3-0805-49d0-8fc9-3685d0131343"
+  },
+  "21afa7db-7836-4b47-bfe7-30fc98c4cca2": {
+    "display_name": "Omega Rider",
+    "technical_id": "21afa7db-7836-4b47-bfe7-30fc98c4cca2"
+  },
+  "3eba1d11-101a-4f30-ade9-724f6932ef13": {
+    "display_name": "Future Xplorer",
+    "technical_id": "3eba1d11-101a-4f30-ade9-724f6932ef13"
+  },
+  "3d0ee7da-10c5-4dab-9c02-775a35a400ca": {
+    "display_name": "Meta Zealot",
+    "technical_id": "3d0ee7da-10c5-4dab-9c02-775a35a400ca"
+  },
+  "b5c267b1-de08-4508-b48a-c43655e76219": {
+    "display_name": "Kernel Architect",
+    "technical_id": "b5c267b1-de08-4508-b48a-c43655e76219"
+  },
+  "5f841a97-457d-4251-86ab-67f312721aeb": {
+    "display_name": "Hyper Coder",
+    "technical_id": "5f841a97-457d-4251-86ab-67f312721aeb"
+  },
+  "7380ba42-883f-4dca-aa48-017ed090cb66": {
+    "display_name": "Hyper Innovator",
+    "technical_id": "7380ba42-883f-4dca-aa48-017ed090cb66"
+  },
+  "00ac7da4-8355-437a-a99a-a90e81923e5a": {
+    "display_name": "Jiggy Wizard",
+    "technical_id": "00ac7da4-8355-437a-a99a-a90e81923e5a"
+  },
+  "21e0668e-81a6-474e-bcac-c5ccbec5d055": {
+    "display_name": "Binary Usurper",
+    "technical_id": "21e0668e-81a6-474e-bcac-c5ccbec5d055"
+  },
+  "7170bebd-afb8-40bd-a277-0868d61d0135": {
+    "display_name": "Infinite Wizard",
+    "technical_id": "7170bebd-afb8-40bd-a277-0868d61d0135"
+  },
+  "4d6aaa16-47d7-4051-9c4c-014e2c5dc8e3": {
+    "display_name": "Infinite Rider",
+    "technical_id": "4d6aaa16-47d7-4051-9c4c-014e2c5dc8e3"
+  },
+  "d783d92f-5c3e-4443-88b6-bd0a0817cadb": {
+    "display_name": "Zetta Yielder",
+    "technical_id": "d783d92f-5c3e-4443-88b6-bd0a0817cadb"
+  },
+  "2cd509cd-1116-4ef0-993c-43b8e0139c7f": {
+    "display_name": "Binary Yielder",
+    "technical_id": "2cd509cd-1116-4ef0-993c-43b8e0139c7f"
+  },
+  "eecc74c4-8dcc-45b7-8d11-5d2eadc17050": {
+    "display_name": "Zetta Hacker",
+    "technical_id": "eecc74c4-8dcc-45b7-8d11-5d2eadc17050"
+  },
+  "47dc50cc-3a7d-49f4-86d2-5772af4bee39": {
+    "display_name": "Zetta Keeper",
+    "technical_id": "47dc50cc-3a7d-49f4-86d2-5772af4bee39"
+  },
+  "b06bfe4f-5abc-42b0-a5d9-3b9e9330d1c0": {
+    "display_name": "Meta Wizard",
+    "technical_id": "b06bfe4f-5abc-42b0-a5d9-3b9e9330d1c0"
+  },
+  "f3495657-141e-4288-9015-c2b7ad6764b8": {
+    "display_name": "Quantum Engineer",
+    "technical_id": "f3495657-141e-4288-9015-c2b7ad6764b8"
+  },
+  "5d4dd939-bd7f-462a-b737-d398e83f77cb": {
+    "display_name": "Nano Coder",
+    "technical_id": "5d4dd939-bd7f-462a-b737-d398e83f77cb"
+  },
+  "c47e12ab-b3de-415e-a355-354ff28d97cb": {
+    "display_name": "Agile Yielder",
+    "technical_id": "c47e12ab-b3de-415e-a355-354ff28d97cb"
+  },
+  "15e627ff-b82d-4cb2-8959-e4150ecb2ca5": {
+    "display_name": "Epic Innovator",
+    "technical_id": "15e627ff-b82d-4cb2-8959-e4150ecb2ca5"
+  },
+  "a0be4e19-8866-4a8c-aa77-722fafad51c0": {
+    "display_name": "Terra Quester",
+    "technical_id": "a0be4e19-8866-4a8c-aa77-722fafad51c0"
+  },
+  "3db4484e-441f-4295-8c4a-218265e77fb0": {
+    "display_name": "Cloud Tinkerer",
+    "technical_id": "3db4484e-441f-4295-8c4a-218265e77fb0"
+  },
+  "fc2fba46-a80a-4662-83d8-1e8600005961": {
+    "display_name": "Yotta Innovator",
+    "technical_id": "fc2fba46-a80a-4662-83d8-1e8600005961"
+  },
+  "3d4fd646-87f3-49a6-8df1-50fa054f8a1d": {
+    "display_name": "Yotta Tinkerer",
+    "technical_id": "3d4fd646-87f3-49a6-8df1-50fa054f8a1d"
+  },
+  "b62974a8-5507-43ac-bc6a-5b7cf3a72547": {
+    "display_name": "Kernel Futurist",
+    "technical_id": "b62974a8-5507-43ac-bc6a-5b7cf3a72547"
+  },
+  "4cb98b52-72a8-47fd-ab03-1dd016de3612": {
+    "display_name": "Omega Tinkerer",
+    "technical_id": "4cb98b52-72a8-47fd-ab03-1dd016de3612"
+  },
+  "f5e842e1-f5a4-4069-92d7-e3ef95552d2c": {
+    "display_name": "Quantum Developer",
+    "technical_id": "f5e842e1-f5a4-4069-92d7-e3ef95552d2c"
+  },
+  "ed8f276f-7d15-4bcf-abfd-e1b487cac1e1": {
+    "display_name": "Xeno Coder",
+    "technical_id": "ed8f276f-7d15-4bcf-abfd-e1b487cac1e1"
+  },
+  "9bb184c4-2a14-4c20-b5c8-20144fdf8ee6": {
+    "display_name": "Data Scribe",
+    "technical_id": "9bb184c4-2a14-4c20-b5c8-20144fdf8ee6"
+  },
+  "1b475668-e3c2-4e85-8ed7-364cc44a765f": {
+    "display_name": "Agile Wizard",
+    "technical_id": "1b475668-e3c2-4e85-8ed7-364cc44a765f"
+  },
+  "d852b5ca-abe0-4e70-b2c5-44661f87d9cb": {
+    "display_name": "Hyper Master",
+    "technical_id": "d852b5ca-abe0-4e70-b2c5-44661f87d9cb"
+  },
+  "daf032a8-89a6-4ea5-b9e8-2b9f1abcdd2f": {
+    "display_name": "Quantum Ninja",
+    "technical_id": "daf032a8-89a6-4ea5-b9e8-2b9f1abcdd2f"
+  },
+  "b8fefe6b-1c27-4643-92f1-1c854fe2f17d": {
+    "display_name": "Rocket Zealot",
+    "technical_id": "b8fefe6b-1c27-4643-92f1-1c854fe2f17d"
+  },
+  "04ceab60-39db-4476-bfae-c704fc60b44b": {
+    "display_name": "Giga Scribe",
+    "technical_id": "04ceab60-39db-4476-bfae-c704fc60b44b"
+  },
+  "a59c652c-2d62-4dfe-8dc4-5a01c1b0bdda": {
+    "display_name": "Omega Visionary",
+    "technical_id": "a59c652c-2d62-4dfe-8dc4-5a01c1b0bdda"
+  },
+  "7eb46f73-812d-4ac2-8c4d-be53621dd2c6": {
+    "display_name": "Logic Tinkerer",
+    "technical_id": "7eb46f73-812d-4ac2-8c4d-be53621dd2c6"
+  },
+  "3b8bc2b1-56c8-4c4e-ac8b-2f994cf88f51": {
+    "display_name": "Ultra Architect",
+    "technical_id": "3b8bc2b1-56c8-4c4e-ac8b-2f994cf88f51"
+  },
+  "b63c9476-ea9a-47b0-a015-51d89f0fa0f7": {
+    "display_name": "Giga Xplorer",
+    "technical_id": "b63c9476-ea9a-47b0-a015-51d89f0fa0f7"
+  },
+  "8d98c25d-db2f-465a-8096-51af54e22826": {
+    "display_name": "Future Visionary",
+    "technical_id": "8d98c25d-db2f-465a-8096-51af54e22826"
+  },
+  "ed6ccbc4-cec4-46f1-9f22-b2d0b2f29ffe": {
+    "display_name": "Web Scribe",
+    "technical_id": "ed6ccbc4-cec4-46f1-9f22-b2d0b2f29ffe"
+  },
+  "c9626ec3-f71f-4bb0-9aa1-57c1ce692ff0": {
+    "display_name": "Cloud Futurist",
+    "technical_id": "c9626ec3-f71f-4bb0-9aa1-57c1ce692ff0"
+  },
+  "f7bac14e-1165-4c71-a914-4bcdb51924d6": {
+    "display_name": "Data Pioneer",
+    "technical_id": "f7bac14e-1165-4c71-a914-4bcdb51924d6"
+  },
+  "2ae4a9a7-56fb-4511-9840-e72941f5f2a4": {
+    "display_name": "Hyper Architect",
+    "technical_id": "2ae4a9a7-56fb-4511-9840-e72941f5f2a4"
+  },
+  "a72bda8e-ebd3-488f-83e1-fe341e8d656d": {
+    "display_name": "Terra Engineer",
+    "technical_id": "a72bda8e-ebd3-488f-83e1-fe341e8d656d"
+  },
+  "60c4a8ae-a70b-4f2e-b148-049a95f23fc5": {
+    "display_name": "Jiggy Architect",
+    "technical_id": "60c4a8ae-a70b-4f2e-b148-049a95f23fc5"
+  },
+  "cfd3c050-9ea8-4d65-9622-da6b664b7bc9": {
+    "display_name": "Void Ninja",
+    "technical_id": "cfd3c050-9ea8-4d65-9622-da6b664b7bc9"
+  },
+  "e4cc11d1-f003-4860-a36e-79f90ecae9eb": {
+    "display_name": "Cloud Scribe",
+    "technical_id": "e4cc11d1-f003-4860-a36e-79f90ecae9eb"
+  },
+  "9f093141-0b19-4735-a652-6e5e8894cc4c": {
+    "display_name": "Future Builder",
+    "technical_id": "9f093141-0b19-4735-a652-6e5e8894cc4c"
+  },
+  "59a1e62b-9254-4a35-a317-c0168cbc8b8a": {
+    "display_name": "Xeno Innovator",
+    "technical_id": "59a1e62b-9254-4a35-a317-c0168cbc8b8a"
+  },
+  "01b1e621-1169-4d8a-bcf5-6dbcfa2da32c": {
+    "display_name": "Cloud Builder",
+    "technical_id": "01b1e621-1169-4d8a-bcf5-6dbcfa2da32c"
+  },
+  "f1547025-035e-453d-bde0-adcc1084931a": {
+    "display_name": "Hyper Developer",
+    "technical_id": "f1547025-035e-453d-bde0-adcc1084931a"
+  },
+  "66a39f3d-b8b5-423d-a989-d87731281b62": {
+    "display_name": "Pixel Xplorer",
+    "technical_id": "66a39f3d-b8b5-423d-a989-d87731281b62"
+  },
+  "06a29d88-0eb3-41cf-b7eb-86e7b172f18c": {
+    "display_name": "Agile Legend",
+    "technical_id": "06a29d88-0eb3-41cf-b7eb-86e7b172f18c"
+  },
+  "6e11efb7-0f39-49ca-bf39-61277cf00ea4": {
+    "display_name": "Data Rider",
+    "technical_id": "6e11efb7-0f39-49ca-bf39-61277cf00ea4"
+  },
+  "ccefe0d4-5bb7-45c0-b17a-5318724febee": {
+    "display_name": "Ultra Keeper",
+    "technical_id": "ccefe0d4-5bb7-45c0-b17a-5318724febee"
+  },
+  "767d5610-0492-483d-bf86-bf8491dda0d0": {
+    "display_name": "Data Wizard",
+    "technical_id": "767d5610-0492-483d-bf86-bf8491dda0d0"
+  },
+  "572ee2b5-a8c0-485c-b03a-1817a41083ba": {
+    "display_name": "Zetta Ninja",
+    "technical_id": "572ee2b5-a8c0-485c-b03a-1817a41083ba"
+  },
+  "5fa0cb15-862a-4277-8da6-bf92a34a70df": {
+    "display_name": "Void Zealot",
+    "technical_id": "5fa0cb15-862a-4277-8da6-bf92a34a70df"
+  },
+  "f0cebf3c-36a3-4fc0-88d0-ae8c05e2f085": {
+    "display_name": "Omega Usurper",
+    "technical_id": "f0cebf3c-36a3-4fc0-88d0-ae8c05e2f085"
+  },
+  "005a43ee-4e8b-4dba-9ca6-6787108290ed": {
+    "display_name": "Meta Yielder",
+    "technical_id": "005a43ee-4e8b-4dba-9ca6-6787108290ed"
+  },
+  "d473c2b4-d35d-4fdc-9ee8-6786803ce9e4": {
+    "display_name": "Super Pioneer",
+    "technical_id": "d473c2b4-d35d-4fdc-9ee8-6786803ce9e4"
+  },
+  "f9db9c19-9f46-4659-9963-5408c9f08570": {
+    "display_name": "Logic Wizard",
+    "technical_id": "f9db9c19-9f46-4659-9963-5408c9f08570"
+  },
+  "a5736d8e-11dc-4f1e-990f-2df61176f1da": {
+    "display_name": "Web Juggler",
+    "technical_id": "a5736d8e-11dc-4f1e-990f-2df61176f1da"
+  },
+  "a9a4a7e4-fa73-454e-b029-c6bbe1698f85": {
+    "display_name": "Pixel Wizard",
+    "technical_id": "a9a4a7e4-fa73-454e-b029-c6bbe1698f85"
+  },
+  "f8c935b4-4586-437a-a233-d84b56ecad45": {
+    "display_name": "Terra Builder",
+    "technical_id": "f8c935b4-4586-437a-a233-d84b56ecad45"
+  },
+  "4dc1ca61-7113-417d-a49d-25462179190c": {
+    "display_name": "Omega Operator",
+    "technical_id": "4dc1ca61-7113-417d-a49d-25462179190c"
+  },
+  "7e98956f-dab9-4581-97fb-677e69daef5d": {
+    "display_name": "Terra Yielder",
+    "technical_id": "7e98956f-dab9-4581-97fb-677e69daef5d"
+  },
+  "03ee0834-b4dc-4aaf-8e27-e7a3644f04ee": {
+    "display_name": "Agile Scribe",
+    "technical_id": "03ee0834-b4dc-4aaf-8e27-e7a3644f04ee"
+  },
+  "c61613f5-5f54-4c5f-9667-d4c4ff2abdc7": {
+    "display_name": "Future Master",
+    "technical_id": "c61613f5-5f54-4c5f-9667-d4c4ff2abdc7"
+  },
+  "2db0f7f3-98db-4c01-b851-51ffb7109c0e": {
+    "display_name": "Kernel Quester",
+    "technical_id": "2db0f7f3-98db-4c01-b851-51ffb7109c0e"
+  },
+  "cab87e26-4bc7-4ad0-93cb-5abe4e7d2d37": {
+    "display_name": "Omega Guru",
+    "technical_id": "cab87e26-4bc7-4ad0-93cb-5abe4e7d2d37"
+  },
+  "503ec4cf-3e9a-4b22-8f29-61cd3db56949": {
+    "display_name": "Cloud Juggler",
+    "technical_id": "503ec4cf-3e9a-4b22-8f29-61cd3db56949"
+  },
+  "69af8d6e-bfdc-4247-bea1-7586974e1cf9": {
+    "display_name": "Ultra Rider",
+    "technical_id": "69af8d6e-bfdc-4247-bea1-7586974e1cf9"
+  },
+  "43e21f96-3ee5-4e94-8d64-23a76f531f46": {
+    "display_name": "Future Wizard",
+    "technical_id": "43e21f96-3ee5-4e94-8d64-23a76f531f46"
+  },
+  "a0bb0554-762a-4dbb-871c-03dd34f9f844": {
+    "display_name": "Ultra Innovator",
+    "technical_id": "a0bb0554-762a-4dbb-871c-03dd34f9f844"
+  },
+  "048b03b1-9743-4100-9ed6-2cf0f0c8d4c4": {
+    "display_name": "Yotta Legend",
+    "technical_id": "048b03b1-9743-4100-9ed6-2cf0f0c8d4c4"
+  },
+  "651243f2-a8f1-4505-a79e-2dbc50455362": {
+    "display_name": "Data Hacker",
+    "technical_id": "651243f2-a8f1-4505-a79e-2dbc50455362"
+  },
+  "050bbda9-1fed-4802-bc37-cd0376526b5d": {
+    "display_name": "Xeno Developer",
+    "technical_id": "050bbda9-1fed-4802-bc37-cd0376526b5d"
+  },
+  "fc60ebdc-394b-47b7-b668-10960c4e5ecd": {
+    "display_name": "Omega Master",
+    "technical_id": "fc60ebdc-394b-47b7-b668-10960c4e5ecd"
+  },
+  "b77791c1-38f7-4954-a811-ce760f9d78f3": {
+    "display_name": "Web Yielder",
+    "technical_id": "b77791c1-38f7-4954-a811-ce760f9d78f3"
+  },
+  "9fa199f2-fe19-4b58-b34d-3eb4d3a43359": {
+    "display_name": "Pixel Visionary",
+    "technical_id": "9fa199f2-fe19-4b58-b34d-3eb4d3a43359"
+  },
+  "0e4fb66d-cbf0-4bd1-97fd-d2ec3c56cba6": {
+    "display_name": "Zetta Builder",
+    "technical_id": "0e4fb66d-cbf0-4bd1-97fd-d2ec3c56cba6"
+  },
+  "9f74a764-4ce2-40b9-9fe4-44214737ed1d": {
+    "display_name": "Infinite Xplorer",
+    "technical_id": "9f74a764-4ce2-40b9-9fe4-44214737ed1d"
+  },
+  "bc1ed020-2ad4-47b2-86e7-e3b9c6999245": {
+    "display_name": "Jiggy Innovator",
+    "technical_id": "bc1ed020-2ad4-47b2-86e7-e3b9c6999245"
+  },
+  "11b6fcd5-4c86-4d0d-9e19-b269726442d3": {
+    "display_name": "Void Yielder",
+    "technical_id": "11b6fcd5-4c86-4d0d-9e19-b269726442d3"
+  },
+  "c84ea5a4-dc32-4b80-9580-ad5389da4430": {
+    "display_name": "Agile Ninja",
+    "technical_id": "c84ea5a4-dc32-4b80-9580-ad5389da4430"
+  },
+  "16cfd10c-35d2-4c1b-acd7-b8b80a439f7f": {
+    "display_name": "Hyper Guru",
+    "technical_id": "16cfd10c-35d2-4c1b-acd7-b8b80a439f7f"
+  },
+  "78e4cafb-d3f5-4a39-9e9f-cecd3ce4876c": {
+    "display_name": "Yotta Usurper",
+    "technical_id": "78e4cafb-d3f5-4a39-9e9f-cecd3ce4876c"
+  },
+  "4979ff8a-0046-4528-97d3-80e3e64df552": {
+    "display_name": "Terra Futurist",
+    "technical_id": "4979ff8a-0046-4528-97d3-80e3e64df552"
+  },
+  "251ada16-b45b-423e-a528-3ebbd5b7fafa": {
+    "display_name": "Ultra Juggler",
+    "technical_id": "251ada16-b45b-423e-a528-3ebbd5b7fafa"
+  },
+  "da9ee1e4-0172-4808-ba5a-592f4629126e": {
+    "display_name": "Void Pioneer",
+    "technical_id": "da9ee1e4-0172-4808-ba5a-592f4629126e"
+  },
+  "7c35529f-cd14-4439-a85f-3afed8128724": {
+    "display_name": "Meta Architect",
+    "technical_id": "7c35529f-cd14-4439-a85f-3afed8128724"
+  },
+  "20b20623-0f7d-42ef-8eb6-efdcf332c9e8": {
+    "display_name": "Yotta Yielder",
+    "technical_id": "20b20623-0f7d-42ef-8eb6-efdcf332c9e8"
+  },
+  "a3910f24-7861-435f-a1ad-8b012c3cfca6": {
+    "display_name": "Epic Usurper",
+    "technical_id": "a3910f24-7861-435f-a1ad-8b012c3cfca6"
+  },
+  "2a1e2b64-80b5-4675-b336-31a0c59e8593": {
+    "display_name": "Binary Builder",
+    "technical_id": "2a1e2b64-80b5-4675-b336-31a0c59e8593"
+  },
+  "eab8ea51-d7ca-4cdd-9c4f-7486f4eff7ee": {
+    "display_name": "Super Xplorer",
+    "technical_id": "eab8ea51-d7ca-4cdd-9c4f-7486f4eff7ee"
+  },
+  "7c6bd759-9b9a-43f2-951b-25a83e03341e": {
+    "display_name": "Super Visionary",
+    "technical_id": "7c6bd759-9b9a-43f2-951b-25a83e03341e"
+  },
+  "95677753-eae3-4a0d-b266-319e4bd1a5e3": {
+    "display_name": "Hyper Quester",
+    "technical_id": "95677753-eae3-4a0d-b266-319e4bd1a5e3"
+  },
+  "5f41001e-44b5-4518-9489-4f67ae5784ea": {
+    "display_name": "Data Operator",
+    "technical_id": "5f41001e-44b5-4518-9489-4f67ae5784ea"
+  },
+  "8b13cca7-10cb-447d-8e4b-62bad0dca95c": {
+    "display_name": "Epic Operator",
+    "technical_id": "8b13cca7-10cb-447d-8e4b-62bad0dca95c"
+  },
+  "e79bcace-d589-40ff-9f3b-a3c2eb2e0c0b": {
+    "display_name": "Zetta Xplorer",
+    "technical_id": "e79bcace-d589-40ff-9f3b-a3c2eb2e0c0b"
+  },
+  "c36ef279-cbf5-4cec-8b37-8df5ab7646c0": {
+    "display_name": "Giga Wizard",
+    "technical_id": "c36ef279-cbf5-4cec-8b37-8df5ab7646c0"
+  },
+  "ffa27248-368f-4dc0-983e-c1efe2486829": {
+    "display_name": "Quantum Legend",
+    "technical_id": "ffa27248-368f-4dc0-983e-c1efe2486829"
+  },
+  "cdf50a2c-112e-4a45-a0de-caca7f4f319f": {
+    "display_name": "Super Operator",
+    "technical_id": "cdf50a2c-112e-4a45-a0de-caca7f4f319f"
+  },
+  "84eeeefb-b242-4a11-98af-6bd8864ffa70": {
+    "display_name": "Meta Legend",
+    "technical_id": "84eeeefb-b242-4a11-98af-6bd8864ffa70"
+  },
+  "3fb1a54c-2550-4e7b-a034-0ee0f799fe83": {
+    "display_name": "Zetta Tinkerer",
+    "technical_id": "3fb1a54c-2550-4e7b-a034-0ee0f799fe83"
+  },
+  "48ed15bc-01dc-4830-9b05-6adffb0b7b8d": {
+    "display_name": "Giga Futurist",
+    "technical_id": "48ed15bc-01dc-4830-9b05-6adffb0b7b8d"
+  },
+  "ba1df498-3b3f-42b2-8055-fcf41484b3bb": {
+    "display_name": "Infinite Master",
+    "technical_id": "ba1df498-3b3f-42b2-8055-fcf41484b3bb"
+  },
+  "c2919051-2f6c-49c6-b480-f716723bf85b": {
+    "display_name": "Future Futurist",
+    "technical_id": "c2919051-2f6c-49c6-b480-f716723bf85b"
+  },
+  "969b15df-f406-4f9d-99e2-15bbc9b1f228": {
+    "display_name": "Void Futurist",
+    "technical_id": "969b15df-f406-4f9d-99e2-15bbc9b1f228"
+  },
+  "282616db-5e91-44b9-9c32-0dc88d5be7db": {
+    "display_name": "Quantum Visionary",
+    "technical_id": "282616db-5e91-44b9-9c32-0dc88d5be7db"
+  },
+  "48144275-2dd2-47f3-b89c-d873d791d913": {
+    "display_name": "Hyper Rider",
+    "technical_id": "48144275-2dd2-47f3-b89c-d873d791d913"
+  },
+  "c1fb9c7b-6122-4027-a074-033ddc086cf1": {
+    "display_name": "Epic Xplorer",
+    "technical_id": "c1fb9c7b-6122-4027-a074-033ddc086cf1"
+  },
+  "7f457389-6d99-4a71-8882-c6d86b6b7320": {
+    "display_name": "Jiggy Visionary",
+    "technical_id": "7f457389-6d99-4a71-8882-c6d86b6b7320"
+  },
+  "21869b2a-9dc9-4a52-aca5-144e2860792e": {
+    "display_name": "Super Rider",
+    "technical_id": "21869b2a-9dc9-4a52-aca5-144e2860792e"
+  },
+  "b2f2b574-e5a7-49f0-a9c4-db6ffbbbdab8": {
+    "display_name": "Cloud Keeper",
+    "technical_id": "b2f2b574-e5a7-49f0-a9c4-db6ffbbbdab8"
+  },
+  "99552ccd-2872-44f6-9c92-cf87b69164b9": {
+    "display_name": "Nano Keeper",
+    "technical_id": "99552ccd-2872-44f6-9c92-cf87b69164b9"
+  },
+  "701adac4-c498-4923-b471-d205d84f9420": {
+    "display_name": "Xeno Legend",
+    "technical_id": "701adac4-c498-4923-b471-d205d84f9420"
+  },
+  "3e42db14-0b53-4cc5-9e35-7ae414e61e3a": {
+    "display_name": "Terra Zealot",
+    "technical_id": "3e42db14-0b53-4cc5-9e35-7ae414e61e3a"
+  },
+  "c1753661-bb9a-49d2-bc6c-4c2f6e459c51": {
+    "display_name": "Future Hacker",
+    "technical_id": "c1753661-bb9a-49d2-bc6c-4c2f6e459c51"
+  },
+  "9ab64061-1da7-4cdb-9293-ed3934205ceb": {
+    "display_name": "Web Zealot",
+    "technical_id": "9ab64061-1da7-4cdb-9293-ed3934205ceb"
+  },
+  "9f26f1f2-74ec-4673-8957-c16c5a0b21ab": {
+    "display_name": "Infinite Futurist",
+    "technical_id": "9f26f1f2-74ec-4673-8957-c16c5a0b21ab"
+  },
+  "3b42cb0b-8c80-4a98-9dd5-8def692e2ff9": {
+    "display_name": "Web Keeper",
+    "technical_id": "3b42cb0b-8c80-4a98-9dd5-8def692e2ff9"
+  },
+  "1c56fe37-f98e-4643-82e5-b9957bc6823d": {
+    "display_name": "Ultra Ninja",
+    "technical_id": "1c56fe37-f98e-4643-82e5-b9957bc6823d"
+  },
+  "e35f8aed-ba6b-4e78-8499-48d9e3448f76": {
+    "display_name": "Quantum Quester",
+    "technical_id": "e35f8aed-ba6b-4e78-8499-48d9e3448f76"
+  },
+  "53e1321a-a95b-4c7d-8bf3-35ec849692e4": {
+    "display_name": "Epic Tinkerer",
+    "technical_id": "53e1321a-a95b-4c7d-8bf3-35ec849692e4"
+  },
+  "a0dc06a4-d758-4d25-b48d-982d9621042d": {
+    "display_name": "Logic Engineer",
+    "technical_id": "a0dc06a4-d758-4d25-b48d-982d9621042d"
+  },
+  "3d74391b-be29-4e2c-8f7b-2d0fbd267493": {
+    "display_name": "Data Builder",
+    "technical_id": "3d74391b-be29-4e2c-8f7b-2d0fbd267493"
+  },
+  "9d6454d4-a510-4282-b416-beba9c95d5c4": {
+    "display_name": "Nano Engineer",
+    "technical_id": "9d6454d4-a510-4282-b416-beba9c95d5c4"
+  },
+  "55d70373-d151-4a89-8439-60973f90e866": {
+    "display_name": "Hyper Legend",
+    "technical_id": "55d70373-d151-4a89-8439-60973f90e866"
+  },
+  "233a0486-afd6-4148-837e-fae6732c62a3": {
+    "display_name": "Void Legend",
+    "technical_id": "233a0486-afd6-4148-837e-fae6732c62a3"
+  },
+  "0c5ed156-3884-4f5d-abed-e6d7def93889": {
+    "display_name": "Infinite Engineer",
+    "technical_id": "0c5ed156-3884-4f5d-abed-e6d7def93889"
+  },
+  "92341e53-e791-41ad-ac0f-347e60080554": {
+    "display_name": "Ultra Engineer",
+    "technical_id": "92341e53-e791-41ad-ac0f-347e60080554"
+  },
+  "0d08ed5e-3f76-4df5-95a7-dd08e3f309d8": {
+    "display_name": "Xeno Master",
+    "technical_id": "0d08ed5e-3f76-4df5-95a7-dd08e3f309d8"
+  },
+  "a301a730-b390-4b06-80f7-ae6d3ef54bb9": {
+    "display_name": "Kernel Guru",
+    "technical_id": "a301a730-b390-4b06-80f7-ae6d3ef54bb9"
+  },
+  "c3c07755-bc3a-4dbc-855e-d9fb79c8dca1": {
+    "display_name": "Rocket Rider",
+    "technical_id": "c3c07755-bc3a-4dbc-855e-d9fb79c8dca1"
+  },
+  "9d728d25-7347-49cd-b646-b81ac9279fe3": {
+    "display_name": "Kernel Wizard",
+    "technical_id": "9d728d25-7347-49cd-b646-b81ac9279fe3"
+  },
+  "a20df2a7-899a-40b3-8b87-15363635bcf7": {
+    "display_name": "Pixel Innovator",
+    "technical_id": "a20df2a7-899a-40b3-8b87-15363635bcf7"
+  },
+  "8d860705-a4ea-4b13-a4c4-0b1e64ea597e": {
+    "display_name": "Epic Futurist",
+    "technical_id": "8d860705-a4ea-4b13-a4c4-0b1e64ea597e"
+  },
+  "d85af7a4-3754-4c85-8688-5f558b9d21ef": {
+    "display_name": "Data Developer",
+    "technical_id": "d85af7a4-3754-4c85-8688-5f558b9d21ef"
+  },
+  "9d2c4d6b-8324-4a61-ae67-d9f8961a2b76": {
+    "display_name": "Infinite Builder",
+    "technical_id": "9d2c4d6b-8324-4a61-ae67-d9f8961a2b76"
+  },
+  "43f3f4cb-80b2-40bb-a7c3-570ff06824e6": {
+    "display_name": "Cloud Operator",
+    "technical_id": "43f3f4cb-80b2-40bb-a7c3-570ff06824e6"
+  },
+  "ca9508fb-ba32-45c2-ac9e-f46cfa1d7470": {
+    "display_name": "Web Rider",
+    "technical_id": "ca9508fb-ba32-45c2-ac9e-f46cfa1d7470"
+  },
+  "0da837f4-29bd-42b1-9736-ea7e6f82919d": {
+    "display_name": "Rocket Quester",
+    "technical_id": "0da837f4-29bd-42b1-9736-ea7e6f82919d"
+  },
+  "636e73c5-72eb-4e58-8e66-45b6e1c67c06": {
+    "display_name": "Rocket Operator",
+    "technical_id": "636e73c5-72eb-4e58-8e66-45b6e1c67c06"
+  },
+  "6b27054f-a71d-4b8a-86f2-dfc35cd5f655": {
+    "display_name": "Hyper Ninja",
+    "technical_id": "6b27054f-a71d-4b8a-86f2-dfc35cd5f655"
+  },
+  "cdf9faf6-c884-4181-8524-28379f7f7e24": {
+    "display_name": "Meta Xplorer",
+    "technical_id": "cdf9faf6-c884-4181-8524-28379f7f7e24"
+  },
+  "74f6348b-97e8-49fa-b602-d15d6b206eca": {
+    "display_name": "Giga Pioneer",
+    "technical_id": "74f6348b-97e8-49fa-b602-d15d6b206eca"
+  },
+  "be6f9859-5f4a-4d47-b0f9-892ed11a5f80": {
+    "display_name": "Quantum Scribe",
+    "technical_id": "be6f9859-5f4a-4d47-b0f9-892ed11a5f80"
+  },
+  "8b9934f9-29e5-4d10-adf1-574fddb843fd": {
+    "display_name": "Web Developer",
+    "technical_id": "8b9934f9-29e5-4d10-adf1-574fddb843fd"
+  },
+  "a012d53b-c1d5-4849-adf8-13f7ae597221": {
+    "display_name": "Nano Hacker",
+    "technical_id": "a012d53b-c1d5-4849-adf8-13f7ae597221"
+  },
+  "a809ab8e-2c46-4a1b-a38f-0313bdb7a107": {
+    "display_name": "Data Juggler",
+    "technical_id": "a809ab8e-2c46-4a1b-a38f-0313bdb7a107"
+  },
+  "26edd8fc-a68a-4351-b475-a186035c97d6": {
+    "display_name": "Meta Coder",
+    "technical_id": "26edd8fc-a68a-4351-b475-a186035c97d6"
+  },
+  "b23cfd23-f319-444a-88a2-68842ffeb818": {
+    "display_name": "Jiggy Developer",
+    "technical_id": "b23cfd23-f319-444a-88a2-68842ffeb818"
+  },
+  "cc237b5f-4e01-4371-8945-240b0ecca240": {
+    "display_name": "Terra Legend",
+    "technical_id": "cc237b5f-4e01-4371-8945-240b0ecca240"
+  },
+  "34c1f50e-debe-420e-856b-ac684c6dc8bc": {
+    "display_name": "Terra Wizard",
+    "technical_id": "34c1f50e-debe-420e-856b-ac684c6dc8bc"
+  },
+  "bd9731cb-c18c-497a-b89d-c728fbbddcb7": {
+    "display_name": "Epic Engineer",
+    "technical_id": "bd9731cb-c18c-497a-b89d-c728fbbddcb7"
+  },
+  "782007bb-52d7-4e22-a1b1-cc9c76b0f23c": {
+    "display_name": "Jiggy Master",
+    "technical_id": "782007bb-52d7-4e22-a1b1-cc9c76b0f23c"
+  },
+  "7c67ba82-635a-4f62-8cc5-c25931602cf3": {
+    "display_name": "Xeno Zealot",
+    "technical_id": "7c67ba82-635a-4f62-8cc5-c25931602cf3"
+  },
+  "82da2362-fc0a-4aa7-a8dd-73f3ab6bf52f": {
+    "display_name": "Xeno Builder",
+    "technical_id": "82da2362-fc0a-4aa7-a8dd-73f3ab6bf52f"
+  },
+  "27e6fde4-46dd-4946-add0-89d36ad5bdaa": {
+    "display_name": "Agile Xplorer",
+    "technical_id": "27e6fde4-46dd-4946-add0-89d36ad5bdaa"
+  },
+  "660f2c9c-5fb1-4ca2-bb1b-3957795463c9": {
+    "display_name": "Epic Rider",
+    "technical_id": "660f2c9c-5fb1-4ca2-bb1b-3957795463c9"
+  },
+  "c8868d72-dad3-4275-9f6e-163f7823c426": {
+    "display_name": "Pixel Master",
+    "technical_id": "c8868d72-dad3-4275-9f6e-163f7823c426"
+  },
+  "f5fc270f-cad4-4e34-8f49-5a341c0c2958": {
+    "display_name": "Meta Tinkerer",
+    "technical_id": "f5fc270f-cad4-4e34-8f49-5a341c0c2958"
+  },
+  "bced907e-68f8-4297-9a3b-0a70b8a840cc": {
+    "display_name": "Super Hacker",
+    "technical_id": "bced907e-68f8-4297-9a3b-0a70b8a840cc"
+  },
+  "8a5a54b2-16b6-4650-827d-178acd93222c": {
+    "display_name": "Web Futurist",
+    "technical_id": "8a5a54b2-16b6-4650-827d-178acd93222c"
+  },
+  "d9d8b85f-792d-4eee-b068-3c92dd4064c7": {
+    "display_name": "Cloud Legend",
+    "technical_id": "d9d8b85f-792d-4eee-b068-3c92dd4064c7"
+  },
+  "3b699bb7-a27b-45f5-83e5-0ab27b9e09c5": {
+    "display_name": "Void Quester",
+    "technical_id": "3b699bb7-a27b-45f5-83e5-0ab27b9e09c5"
+  },
+  "c47d6fe3-aa73-4e9b-974e-c6c7d5aa7699": {
+    "display_name": "Void Engineer",
+    "technical_id": "c47d6fe3-aa73-4e9b-974e-c6c7d5aa7699"
+  },
+  "2b740119-d266-4ddd-9e2e-f6d4cb8df4e8": {
+    "display_name": "Void Juggler",
+    "technical_id": "2b740119-d266-4ddd-9e2e-f6d4cb8df4e8"
+  },
+  "6bbd07a4-b23a-48c7-aa0a-ad358b0d7aa0": {
+    "display_name": "Logic Usurper",
+    "technical_id": "6bbd07a4-b23a-48c7-aa0a-ad358b0d7aa0"
+  },
+  "66b8209f-fed9-45ef-a627-1963ba1e341d": {
+    "display_name": "Future Ninja",
+    "technical_id": "66b8209f-fed9-45ef-a627-1963ba1e341d"
+  },
+  "8d666b9d-d3e9-46b3-b2b7-9ab69400025c": {
+    "display_name": "Agile Guru",
+    "technical_id": "8d666b9d-d3e9-46b3-b2b7-9ab69400025c"
+  },
+  "fafffe88-6b17-401b-a431-b7676c32c47d": {
+    "display_name": "Giga Keeper",
+    "technical_id": "fafffe88-6b17-401b-a431-b7676c32c47d"
+  },
+  "9eddfcc9-d49f-467c-9af7-1711c20da30a": {
+    "display_name": "Logic Xplorer",
+    "technical_id": "9eddfcc9-d49f-467c-9af7-1711c20da30a"
+  },
+  "1f86ad36-7030-4edc-9966-9f3a7e8edefa": {
+    "display_name": "Agile Usurper",
+    "technical_id": "1f86ad36-7030-4edc-9966-9f3a7e8edefa"
+  },
+  "c53f744f-9b04-4c80-8dd9-cd08e179cd5b": {
+    "display_name": "Super Zealot",
+    "technical_id": "c53f744f-9b04-4c80-8dd9-cd08e179cd5b"
+  },
+  "3b594d55-aa76-450d-84e5-cc1e12fa3aeb": {
+    "display_name": "Omega Builder",
+    "technical_id": "3b594d55-aa76-450d-84e5-cc1e12fa3aeb"
+  },
+  "8947a1ff-ef1b-4205-b40b-d97dffd1b3db": {
+    "display_name": "Web Hacker",
+    "technical_id": "8947a1ff-ef1b-4205-b40b-d97dffd1b3db"
+  },
+  "ee0994ca-ec29-43b6-8bbc-f43dc9b5b030": {
+    "display_name": "Infinite Ninja",
+    "technical_id": "ee0994ca-ec29-43b6-8bbc-f43dc9b5b030"
+  },
+  "ec68d434-7757-493c-ad82-5761a916d644": {
+    "display_name": "Jiggy Futurist",
+    "technical_id": "ec68d434-7757-493c-ad82-5761a916d644"
+  },
+  "f9809f0a-03a2-4bb8-902c-e1215962239e": {
+    "display_name": "Epic Zealot",
+    "technical_id": "f9809f0a-03a2-4bb8-902c-e1215962239e"
+  },
+  "4dc0f04a-4eca-4729-8a96-d225f78f8320": {
+    "display_name": "Binary Zealot",
+    "technical_id": "4dc0f04a-4eca-4729-8a96-d225f78f8320"
+  },
+  "1462eedc-afbb-482a-9c62-d27eb650d862": {
+    "display_name": "Super Tinkerer",
+    "technical_id": "1462eedc-afbb-482a-9c62-d27eb650d862"
+  },
+  "badaf10e-655e-4ea7-98fa-5b8d63262248": {
+    "display_name": "Super Usurper",
+    "technical_id": "badaf10e-655e-4ea7-98fa-5b8d63262248"
+  },
+  "f2304389-6eaf-41d3-ba99-542b38612ee6": {
+    "display_name": "Infinite Tinkerer",
+    "technical_id": "f2304389-6eaf-41d3-ba99-542b38612ee6"
+  },
+  "843051b4-9363-45e2-8322-f4c5bc9e344a": {
+    "display_name": "Quantum Futurist",
+    "technical_id": "843051b4-9363-45e2-8322-f4c5bc9e344a"
+  },
+  "b92f8158-2f29-4475-abde-0559c56d597b": {
+    "display_name": "Xeno Xplorer",
+    "technical_id": "b92f8158-2f29-4475-abde-0559c56d597b"
+  },
+  "d2f2f560-ced9-4817-a083-f438c465924a": {
+    "display_name": "Void Hacker",
+    "technical_id": "d2f2f560-ced9-4817-a083-f438c465924a"
+  },
+  "b92eed4b-e7da-4f99-b223-0fb086f6085a": {
+    "display_name": "Pixel Tinkerer",
+    "technical_id": "b92eed4b-e7da-4f99-b223-0fb086f6085a"
+  },
+  "27ce3dc6-26cb-4efe-a67f-d117b213360d": {
+    "display_name": "Cloud Coder",
+    "technical_id": "27ce3dc6-26cb-4efe-a67f-d117b213360d"
+  },
+  "2a5c3c77-60b5-4a73-8397-52342c6a6e59": {
+    "display_name": "Hyper Futurist",
+    "technical_id": "2a5c3c77-60b5-4a73-8397-52342c6a6e59"
+  },
+  "b62e2b76-1691-4532-ad55-2b5fa385d432": {
+    "display_name": "Logic Quester",
+    "technical_id": "b62e2b76-1691-4532-ad55-2b5fa385d432"
+  },
+  "f1364964-a749-4a42-b0ba-fbda22a2aa0e": {
+    "display_name": "Terra Keeper",
+    "technical_id": "f1364964-a749-4a42-b0ba-fbda22a2aa0e"
+  },
+  "8963a80f-1e26-4722-8ef8-7b2c31eda878": {
+    "display_name": "Meta Quester",
+    "technical_id": "8963a80f-1e26-4722-8ef8-7b2c31eda878"
+  },
+  "eedf0841-02a6-4d61-a400-49ea3a71a41c": {
+    "display_name": "Pixel Scribe",
+    "technical_id": "eedf0841-02a6-4d61-a400-49ea3a71a41c"
+  },
+  "3b2cc0c7-29ff-4509-aa0b-289d4422a2c0": {
+    "display_name": "Logic Legend",
+    "technical_id": "3b2cc0c7-29ff-4509-aa0b-289d4422a2c0"
+  },
+  "a16a5d5e-2e20-4d37-889a-4e7376837c6f": {
+    "display_name": "Nano Rider",
+    "technical_id": "a16a5d5e-2e20-4d37-889a-4e7376837c6f"
+  },
+  "abba2403-09a7-4c86-8e87-d19663d12208": {
+    "display_name": "Pixel Coder",
+    "technical_id": "abba2403-09a7-4c86-8e87-d19663d12208"
+  },
+  "06e573d1-5ffa-452f-89f5-45f2df7b96ad": {
+    "display_name": "Infinite Developer",
+    "technical_id": "06e573d1-5ffa-452f-89f5-45f2df7b96ad"
+  },
+  "05919640-fc56-4c50-ba3e-d540494e2a7c": {
+    "display_name": "Nano Innovator",
+    "technical_id": "05919640-fc56-4c50-ba3e-d540494e2a7c"
+  },
+  "c9e27180-3203-43bb-878a-ec28ce83ac0a": {
+    "display_name": "Hyper Engineer",
+    "technical_id": "c9e27180-3203-43bb-878a-ec28ce83ac0a"
+  },
+  "07818575-3f6a-4dfc-b2ef-c9389813f7a0": {
+    "display_name": "Pixel Engineer",
+    "technical_id": "07818575-3f6a-4dfc-b2ef-c9389813f7a0"
+  },
+  "8532400a-15d8-4486-b83e-a1cf6deb5e4e": {
+    "display_name": "Hyper Builder",
+    "technical_id": "8532400a-15d8-4486-b83e-a1cf6deb5e4e"
+  },
+  "7cfb686a-de46-4300-b50d-8d19447bc2e2": {
+    "display_name": "Agile Zealot",
+    "technical_id": "7cfb686a-de46-4300-b50d-8d19447bc2e2"
+  },
+  "92b1bed7-007e-4063-8f7c-0417d13ff95a": {
+    "display_name": "Yotta Keeper",
+    "technical_id": "92b1bed7-007e-4063-8f7c-0417d13ff95a"
+  },
+  "407f3ba2-1c6f-41cc-9c72-fa2fc76c6453": {
+    "display_name": "Jiggy Coder",
+    "technical_id": "407f3ba2-1c6f-41cc-9c72-fa2fc76c6453"
+  },
+  "d6d1e243-c967-4374-914e-b6cb51e15029": {
+    "display_name": "Nano Pioneer",
+    "technical_id": "d6d1e243-c967-4374-914e-b6cb51e15029"
+  },
+  "4002ac9b-b59a-4a41-bfb3-712932280f69": {
+    "display_name": "Yotta Wizard",
+    "technical_id": "4002ac9b-b59a-4a41-bfb3-712932280f69"
+  },
+  "0970e6d1-ac36-483b-ab31-0419f0304ead": {
+    "display_name": "Epic Keeper",
+    "technical_id": "0970e6d1-ac36-483b-ab31-0419f0304ead"
+  },
+  "22756fd3-081d-43cc-bae9-13097a238287": {
+    "display_name": "Quantum Xplorer",
+    "technical_id": "22756fd3-081d-43cc-bae9-13097a238287"
+  },
+  "ad9fd6c6-e00e-4d25-a6e1-16efaf783cdc": {
+    "display_name": "Jiggy Hacker",
+    "technical_id": "ad9fd6c6-e00e-4d25-a6e1-16efaf783cdc"
+  },
+  "ead41fed-42ec-4614-b178-ea5ffe487c48": {
+    "display_name": "Meta Keeper",
+    "technical_id": "ead41fed-42ec-4614-b178-ea5ffe487c48"
+  },
+  "a20aa65d-fa43-4d59-9dc0-ae24c05cf105": {
+    "display_name": "Meta Scribe",
+    "technical_id": "a20aa65d-fa43-4d59-9dc0-ae24c05cf105"
+  },
+  "43f70141-8b20-465f-87b5-2e11e1290cc1": {
+    "display_name": "Giga Operator",
+    "technical_id": "43f70141-8b20-465f-87b5-2e11e1290cc1"
+  },
+  "6d3da152-05af-4302-847c-093f72e45cac": {
+    "display_name": "Quantum Zealot",
+    "technical_id": "6d3da152-05af-4302-847c-093f72e45cac"
+  },
+  "f39d57c0-6ac4-4c8c-a168-7de495532e38": {
+    "display_name": "Binary Pioneer",
+    "technical_id": "f39d57c0-6ac4-4c8c-a168-7de495532e38"
+  },
+  "1ef1ac6e-bff1-4459-83c6-a4cec0a927c0": {
+    "display_name": "Data Futurist",
+    "technical_id": "1ef1ac6e-bff1-4459-83c6-a4cec0a927c0"
+  },
+  "75178630-13d6-44db-91f5-1370181841a6": {
+    "display_name": "Jiggy Engineer",
+    "technical_id": "75178630-13d6-44db-91f5-1370181841a6"
+  },
+  "bd5abd07-0351-49f7-b6f7-c817d3f91cde": {
+    "display_name": "Terra Coder",
+    "technical_id": "bd5abd07-0351-49f7-b6f7-c817d3f91cde"
+  },
+  "5ddd0d0a-db17-48f0-b721-9c4accb56ac7": {
+    "display_name": "Data Coder",
+    "technical_id": "5ddd0d0a-db17-48f0-b721-9c4accb56ac7"
+  },
+  "9ffd3b70-9ea7-449d-9ba5-d2818364a45c": {
+    "display_name": "Xeno Guru",
+    "technical_id": "9ffd3b70-9ea7-449d-9ba5-d2818364a45c"
+  },
+  "d17452e9-c617-4cc1-b3fb-b64ba63813f2": {
+    "display_name": "Future Quester",
+    "technical_id": "d17452e9-c617-4cc1-b3fb-b64ba63813f2"
+  },
+  "de216fdb-3035-4b4b-a3ae-a85c6ca0afc5": {
+    "display_name": "Web Master",
+    "technical_id": "de216fdb-3035-4b4b-a3ae-a85c6ca0afc5"
+  },
+  "3a8589ed-7038-4f8f-871a-5788ef8ed74c": {
+    "display_name": "Void Architect",
+    "technical_id": "3a8589ed-7038-4f8f-871a-5788ef8ed74c"
+  },
+  "29044fe4-1b14-40c3-a5a0-9b46f6ea5b62": {
+    "display_name": "Infinite Coder",
+    "technical_id": "29044fe4-1b14-40c3-a5a0-9b46f6ea5b62"
+  },
+  "25c72151-d5bd-4a6e-9e98-e862bf5c1436": {
+    "display_name": "Pixel Futurist",
+    "technical_id": "25c72151-d5bd-4a6e-9e98-e862bf5c1436"
+  },
+  "c9b11553-114d-4d2d-bb30-55b51924315e": {
+    "display_name": "Meta Futurist",
+    "technical_id": "c9b11553-114d-4d2d-bb30-55b51924315e"
+  },
+  "30001a17-e82b-4459-8307-f7ff68c34da6": {
+    "display_name": "Giga Master",
+    "technical_id": "30001a17-e82b-4459-8307-f7ff68c34da6"
+  },
+  "26398b92-4fb3-40c4-99d1-7062e8c643db": {
+    "display_name": "Infinite Innovator",
+    "technical_id": "26398b92-4fb3-40c4-99d1-7062e8c643db"
+  },
+  "0cea62db-70e7-4dc4-8aa5-d88584fd583e": {
+    "display_name": "Logic Zealot",
+    "technical_id": "0cea62db-70e7-4dc4-8aa5-d88584fd583e"
+  },
+  "d60e09ac-b024-40f9-ade2-71a8c5282591": {
+    "display_name": "Kernel Engineer",
+    "technical_id": "d60e09ac-b024-40f9-ade2-71a8c5282591"
+  },
+  "6fd890d9-e733-4765-b216-8337b4b5f324": {
+    "display_name": "Web Usurper",
+    "technical_id": "6fd890d9-e733-4765-b216-8337b4b5f324"
+  },
+  "4ba5a965-9ff5-469c-8f01-9bcc3c9d7cb7": {
+    "display_name": "Giga Usurper",
+    "technical_id": "4ba5a965-9ff5-469c-8f01-9bcc3c9d7cb7"
+  },
+  "29bcf73f-b703-41f0-b42f-9e6cd9282c74": {
+    "display_name": "Kernel Developer",
+    "technical_id": "29bcf73f-b703-41f0-b42f-9e6cd9282c74"
+  },
+  "4114e460-0817-4c03-b082-db0e233a5265": {
+    "display_name": "Pixel Keeper",
+    "technical_id": "4114e460-0817-4c03-b082-db0e233a5265"
+  },
+  "fb23a9c0-c9b8-4597-a96f-1345ed950bcb": {
+    "display_name": "Web Coder",
+    "technical_id": "fb23a9c0-c9b8-4597-a96f-1345ed950bcb"
+  },
+  "1cddeae8-b1bb-4a2d-97be-9a8b3652ad1f": {
+    "display_name": "Infinite Juggler",
+    "technical_id": "1cddeae8-b1bb-4a2d-97be-9a8b3652ad1f"
+  },
+  "e0720cbd-dc57-4fbb-b79a-1cebceefde52": {
+    "display_name": "Kernel Yielder",
+    "technical_id": "e0720cbd-dc57-4fbb-b79a-1cebceefde52"
+  },
+  "c1e2b27c-ada8-4224-b990-a060e871762f": {
+    "display_name": "Meta Usurper",
+    "technical_id": "c1e2b27c-ada8-4224-b990-a060e871762f"
+  },
+  "782c42cd-c3b1-47b2-9713-c4470ab11547": {
+    "display_name": "Xeno Quester",
+    "technical_id": "782c42cd-c3b1-47b2-9713-c4470ab11547"
+  },
+  "e81b867f-b3bd-4085-a93d-3329c62b9e95": {
+    "display_name": "Rocket Guru",
+    "technical_id": "e81b867f-b3bd-4085-a93d-3329c62b9e95"
+  },
+  "38f5d81b-c0b1-4301-8bae-16747bec5e09": {
+    "display_name": "Binary Developer",
+    "technical_id": "38f5d81b-c0b1-4301-8bae-16747bec5e09"
+  },
+  "e83055a2-eac2-4e29-860d-9eadbb6a5a91": {
+    "display_name": "Infinite Scribe",
+    "technical_id": "e83055a2-eac2-4e29-860d-9eadbb6a5a91"
+  },
+  "ac03e145-a849-4bb8-ab4c-2fb9c7dda1ab": {
+    "display_name": "Super Developer",
+    "technical_id": "ac03e145-a849-4bb8-ab4c-2fb9c7dda1ab"
+  },
+  "2b0ce3e1-f47a-4843-a27d-858bac4ecc1c": {
+    "display_name": "Omega Scribe",
+    "technical_id": "2b0ce3e1-f47a-4843-a27d-858bac4ecc1c"
+  },
+  "19e96bef-2fa5-4f32-95ec-5230fb23aba4": {
+    "display_name": "Logic Coder",
+    "technical_id": "19e96bef-2fa5-4f32-95ec-5230fb23aba4"
+  },
+  "d839693e-e211-4127-93d2-26c4a33ed09e": {
+    "display_name": "Ultra Tinkerer",
+    "technical_id": "d839693e-e211-4127-93d2-26c4a33ed09e"
+  },
+  "b511f230-a27b-4d45-9c24-9bd48f3dd633": {
+    "display_name": "Yotta Juggler",
+    "technical_id": "b511f230-a27b-4d45-9c24-9bd48f3dd633"
+  },
+  "1467d67b-9754-4bac-be59-4232eb568ff7": {
+    "display_name": "Ultra Wizard",
+    "technical_id": "1467d67b-9754-4bac-be59-4232eb568ff7"
+  },
+  "660a03e8-29f8-4016-b895-c8bc4a6db042": {
+    "display_name": "Omega Zealot",
+    "technical_id": "660a03e8-29f8-4016-b895-c8bc4a6db042"
+  },
+  "7d5b4400-ab90-4c26-9863-a253189ed2dc": {
+    "display_name": "Void Guru",
+    "technical_id": "7d5b4400-ab90-4c26-9863-a253189ed2dc"
+  },
+  "8b3ae12e-a408-46cb-af42-195eca3ab98c": {
+    "display_name": "Quantum Builder",
+    "technical_id": "8b3ae12e-a408-46cb-af42-195eca3ab98c"
+  },
+  "29891696-dd69-426d-9f18-5e2a5644d857": {
+    "display_name": "Epic Quester",
+    "technical_id": "29891696-dd69-426d-9f18-5e2a5644d857"
+  },
+  "5531cc85-e813-4b40-8fe4-27ef465ff756": {
+    "display_name": "Future Juggler",
+    "technical_id": "5531cc85-e813-4b40-8fe4-27ef465ff756"
+  },
+  "bd2565ec-ad98-41ec-a147-23a5eb72ab58": {
+    "display_name": "Void Developer",
+    "technical_id": "bd2565ec-ad98-41ec-a147-23a5eb72ab58"
+  },
+  "dba78a9b-154f-4907-be13-088c6e7daa66": {
+    "display_name": "Rocket Futurist",
+    "technical_id": "dba78a9b-154f-4907-be13-088c6e7daa66"
+  },
+  "c9ca7c84-b439-42df-85ef-cc5bd48577c7": {
+    "display_name": "Jiggy Guru",
+    "technical_id": "c9ca7c84-b439-42df-85ef-cc5bd48577c7"
+  },
+  "1774939c-5839-4f41-8153-70b809d8f2be": {
+    "display_name": "Kernel Xplorer",
+    "technical_id": "1774939c-5839-4f41-8153-70b809d8f2be"
+  },
+  "1d7ae7fe-b5ec-4811-a659-cca0d2ea6d05": {
+    "display_name": "Quantum Yielder",
+    "technical_id": "1d7ae7fe-b5ec-4811-a659-cca0d2ea6d05"
+  },
+  "b43de13d-72c4-4b34-82f2-7f06faf92f23": {
+    "display_name": "Xeno Usurper",
+    "technical_id": "b43de13d-72c4-4b34-82f2-7f06faf92f23"
+  },
+  "1266ded9-007e-4cef-9d15-db7744dceea0": {
+    "display_name": "Xeno Tinkerer",
+    "technical_id": "1266ded9-007e-4cef-9d15-db7744dceea0"
+  },
+  "1e95de0d-1229-49f8-838a-33f350bda28a": {
+    "display_name": "Jiggy Legend",
+    "technical_id": "1e95de0d-1229-49f8-838a-33f350bda28a"
+  },
+  "d268bf3a-344e-4d8e-b712-913d73203f56": {
+    "display_name": "Omega Juggler",
+    "technical_id": "d268bf3a-344e-4d8e-b712-913d73203f56"
+  },
+  "bfaeb98b-0acc-4f49-96ff-88e634b01c2e": {
+    "display_name": "Giga Hacker",
+    "technical_id": "bfaeb98b-0acc-4f49-96ff-88e634b01c2e"
+  },
+  "05439a8d-f7a7-49cf-bd25-08edf3f7c8f4": {
+    "display_name": "Ultra Visionary",
+    "technical_id": "05439a8d-f7a7-49cf-bd25-08edf3f7c8f4"
+  },
+  "2baa530f-7f61-4061-9790-358e0531c24c": {
+    "display_name": "Jiggy Tinkerer",
+    "technical_id": "2baa530f-7f61-4061-9790-358e0531c24c"
+  },
+  "3eaab29b-01d5-42a9-bc6e-6d05b1211402": {
+    "display_name": "Giga Innovator",
+    "technical_id": "3eaab29b-01d5-42a9-bc6e-6d05b1211402"
+  },
+  "88a44687-66fd-4e8c-a418-eb2df62074f8": {
+    "display_name": "Terra Tinkerer",
+    "technical_id": "88a44687-66fd-4e8c-a418-eb2df62074f8"
+  },
+  "d34ead00-6b5e-4e07-b6e5-31b30466e557": {
+    "display_name": "Kernel Zealot",
+    "technical_id": "d34ead00-6b5e-4e07-b6e5-31b30466e557"
+  },
+  "7f78eeee-6f6a-4ac7-8483-90ab6e34008c": {
+    "display_name": "Ultra Futurist",
+    "technical_id": "7f78eeee-6f6a-4ac7-8483-90ab6e34008c"
+  },
+  "b4697311-8003-44ac-ba1f-d856004d7d20": {
+    "display_name": "Super Wizard",
+    "technical_id": "b4697311-8003-44ac-ba1f-d856004d7d20"
+  },
+  "d59eae44-efb8-407b-b41d-f04925884abe": {
+    "display_name": "Binary Futurist",
+    "technical_id": "d59eae44-efb8-407b-b41d-f04925884abe"
+  },
+  "772b9ba3-99bb-440f-a6a3-aa854e269cf9": {
+    "display_name": "Zetta Developer",
+    "technical_id": "772b9ba3-99bb-440f-a6a3-aa854e269cf9"
+  },
+  "1bd2f8a0-9a76-442c-a457-a44b25343906": {
+    "display_name": "Void Master",
+    "technical_id": "1bd2f8a0-9a76-442c-a457-a44b25343906"
+  },
+  "c2530b76-23f1-401a-aad4-826d0e3e165f": {
+    "display_name": "Nano Usurper",
+    "technical_id": "c2530b76-23f1-401a-aad4-826d0e3e165f"
+  },
+  "ebb25310-2d1a-49f6-a8a2-732a870ce284": {
+    "display_name": "Kernel Pioneer",
+    "technical_id": "ebb25310-2d1a-49f6-a8a2-732a870ce284"
+  },
+  "14478583-a4c0-4f54-a610-2ac9eb435c1d": {
+    "display_name": "Xeno Juggler",
+    "technical_id": "14478583-a4c0-4f54-a610-2ac9eb435c1d"
+  },
+  "341bf6d5-91dc-49a2-b29a-48447d342dd2": {
+    "display_name": "Kernel Rider",
+    "technical_id": "341bf6d5-91dc-49a2-b29a-48447d342dd2"
+  },
+  "d4f561e1-ae0f-4235-a99b-28fffc09c4c2": {
+    "display_name": "Pixel Rider",
+    "technical_id": "d4f561e1-ae0f-4235-a99b-28fffc09c4c2"
+  },
+  "6e0d2e8f-741f-4ad8-93ce-dd8d519e5d35": {
+    "display_name": "Meta Engineer",
+    "technical_id": "6e0d2e8f-741f-4ad8-93ce-dd8d519e5d35"
+  },
+  "af41c8f1-ebc3-485b-acdd-f6e4eebe5263": {
+    "display_name": "Agile Futurist",
+    "technical_id": "af41c8f1-ebc3-485b-acdd-f6e4eebe5263"
+  },
+  "e8238892-04c0-4c84-9b2e-3f9c0c2cd32f": {
+    "display_name": "Data Tinkerer",
+    "technical_id": "e8238892-04c0-4c84-9b2e-3f9c0c2cd32f"
+  },
+  "59d5f1ab-5662-4845-9863-77ac263a45ac": {
+    "display_name": "Jiggy Pioneer",
+    "technical_id": "59d5f1ab-5662-4845-9863-77ac263a45ac"
+  },
+  "26a51268-dd83-449c-9fca-34d62fe9fd90": {
+    "display_name": "Omega Developer",
+    "technical_id": "26a51268-dd83-449c-9fca-34d62fe9fd90"
+  },
+  "f479edd9-1d8b-43ff-8a93-19b42dd7c2aa": {
+    "display_name": "Zetta Futurist",
+    "technical_id": "f479edd9-1d8b-43ff-8a93-19b42dd7c2aa"
+  },
+  "87a455c1-0cab-4521-9d61-e4b25f508e1b": {
+    "display_name": "Void Keeper",
+    "technical_id": "87a455c1-0cab-4521-9d61-e4b25f508e1b"
+  },
+  "aa70ebcd-34e5-419a-83b2-598865cae7aa": {
+    "display_name": "Logic Yielder",
+    "technical_id": "aa70ebcd-34e5-419a-83b2-598865cae7aa"
+  },
+  "aca71727-41b9-419a-9e5c-90bd0bd5b8f1": {
+    "display_name": "Rocket Engineer",
+    "technical_id": "aca71727-41b9-419a-9e5c-90bd0bd5b8f1"
+  },
+  "71b1a5cc-1500-416e-89b9-6083b80ec6bd": {
+    "display_name": "Yotta Pioneer",
+    "technical_id": "71b1a5cc-1500-416e-89b9-6083b80ec6bd"
+  },
+  "862eff7b-aba3-4617-b662-f1e01a155087": {
+    "display_name": "Giga Visionary",
+    "technical_id": "862eff7b-aba3-4617-b662-f1e01a155087"
+  },
+  "48805f24-3cf3-4e52-984b-35af2bf00ef7": {
+    "display_name": "Epic Pioneer",
+    "technical_id": "48805f24-3cf3-4e52-984b-35af2bf00ef7"
+  },
+  "8e2812e9-d295-48c5-838a-132e4641ed7c": {
+    "display_name": "Kernel Visionary",
+    "technical_id": "8e2812e9-d295-48c5-838a-132e4641ed7c"
+  },
+  "62c3784b-9755-441a-827f-b03ac4a32073": {
+    "display_name": "Yotta Rider",
+    "technical_id": "62c3784b-9755-441a-827f-b03ac4a32073"
+  },
+  "9963a5a1-ccd2-4d5d-b6f3-7e828c586cdb": {
+    "display_name": "Agile Hacker",
+    "technical_id": "9963a5a1-ccd2-4d5d-b6f3-7e828c586cdb"
+  },
+  "b711535c-7f19-48d8-8ce5-b1b584190c95": {
+    "display_name": "Giga Guru",
+    "technical_id": "b711535c-7f19-48d8-8ce5-b1b584190c95"
+  },
+  "8a10304f-ae2c-4585-9847-51f6b3b0d843": {
+    "display_name": "Pixel Juggler",
+    "technical_id": "8a10304f-ae2c-4585-9847-51f6b3b0d843"
+  },
+  "4495d800-5cc0-48f4-8ee0-b41963361cdd": {
+    "display_name": "Terra Juggler",
+    "technical_id": "4495d800-5cc0-48f4-8ee0-b41963361cdd"
+  },
+  "f5ef9912-166c-4a71-beb3-9eccec772fb9": {
+    "display_name": "Future Pioneer",
+    "technical_id": "f5ef9912-166c-4a71-beb3-9eccec772fb9"
+  },
+  "b5fed817-f417-4528-8495-1b119bc67542": {
+    "display_name": "Rocket Xplorer",
+    "technical_id": "b5fed817-f417-4528-8495-1b119bc67542"
+  },
+  "3544db24-b987-409e-9b80-987e618fc1bb": {
+    "display_name": "Pixel Quester",
+    "technical_id": "3544db24-b987-409e-9b80-987e618fc1bb"
+  },
+  "85df3cb7-7ceb-4e23-b8d8-1b666ed4ee34": {
+    "display_name": "Quantum Operator",
+    "technical_id": "85df3cb7-7ceb-4e23-b8d8-1b666ed4ee34"
+  },
+  "9658c795-7c12-431c-b15f-237c854bb2fc": {
+    "display_name": "Data Keeper",
+    "technical_id": "9658c795-7c12-431c-b15f-237c854bb2fc"
+  },
+  "4edb3ca9-29c1-439f-a944-028d1bf1faab": {
+    "display_name": "Binary Operator",
+    "technical_id": "4edb3ca9-29c1-439f-a944-028d1bf1faab"
+  },
+  "29cdcba3-b74c-4395-aef1-d19e6fa85e82": {
+    "display_name": "Rocket Ninja",
+    "technical_id": "29cdcba3-b74c-4395-aef1-d19e6fa85e82"
+  },
+  "e80fb404-5a89-4673-a7ae-dd2e1b9548a0": {
+    "display_name": "Terra Hacker",
+    "technical_id": "e80fb404-5a89-4673-a7ae-dd2e1b9548a0"
+  },
+  "6275bdc8-8ad1-482d-b6da-34e30acc0cea": {
+    "display_name": "Epic Master",
+    "technical_id": "6275bdc8-8ad1-482d-b6da-34e30acc0cea"
+  },
+  "c24568f2-a9c2-4e1c-89ff-c10876d1710d": {
+    "display_name": "Yotta Builder",
+    "technical_id": "c24568f2-a9c2-4e1c-89ff-c10876d1710d"
+  },
+  "d404533c-3077-4094-9d09-d600397ad405": {
+    "display_name": "Omega Innovator",
+    "technical_id": "d404533c-3077-4094-9d09-d600397ad405"
+  },
+  "d6baed59-92d6-4ec0-bb50-29adcb998193": {
+    "display_name": "Future Coder",
+    "technical_id": "d6baed59-92d6-4ec0-bb50-29adcb998193"
+  },
+  "fa7cee5f-7d06-4052-8468-9b8a5b7ca4ff": {
+    "display_name": "Nano Legend",
+    "technical_id": "fa7cee5f-7d06-4052-8468-9b8a5b7ca4ff"
+  },
+  "0186edfb-5614-4647-b742-e02f0c53debc": {
+    "display_name": "Omega Architect",
+    "technical_id": "0186edfb-5614-4647-b742-e02f0c53debc"
+  },
+  "fd81ae56-d735-4d6f-ae95-77acbe8835d8": {
+    "display_name": "Logic Juggler",
+    "technical_id": "fd81ae56-d735-4d6f-ae95-77acbe8835d8"
+  },
+  "42c126f2-f5d3-4ec7-9970-52935e52ac88": {
+    "display_name": "Agile Operator",
+    "technical_id": "42c126f2-f5d3-4ec7-9970-52935e52ac88"
+  },
+  "eb73a17e-c215-43e1-b653-579033f4de7b": {
+    "display_name": "Meta Juggler",
+    "technical_id": "eb73a17e-c215-43e1-b653-579033f4de7b"
+  },
+  "ecef5111-7741-4e9b-a24a-4d7ca13106ac": {
+    "display_name": "Rocket Juggler",
+    "technical_id": "ecef5111-7741-4e9b-a24a-4d7ca13106ac"
+  },
+  "dc17f362-769d-40ba-8bcb-17f60e070c6e": {
+    "display_name": "Zetta Usurper",
+    "technical_id": "dc17f362-769d-40ba-8bcb-17f60e070c6e"
+  },
+  "e246e8cf-fc88-4084-ae19-1b1d68c6a67d": {
+    "display_name": "Future Tinkerer",
+    "technical_id": "e246e8cf-fc88-4084-ae19-1b1d68c6a67d"
+  },
+  "af1f8a7a-1fda-4881-a5ae-80e4c91cdf27": {
+    "display_name": "Web Tinkerer",
+    "technical_id": "af1f8a7a-1fda-4881-a5ae-80e4c91cdf27"
+  },
+  "cd47ac84-cbbc-4154-935c-5ec715911e08": {
+    "display_name": "Pixel Architect",
+    "technical_id": "cd47ac84-cbbc-4154-935c-5ec715911e08"
+  },
+  "5c188de7-4f47-409e-992e-55051a5a42d4": {
+    "display_name": "Ultra Xplorer",
+    "technical_id": "5c188de7-4f47-409e-992e-55051a5a42d4"
+  },
+  "6520b0ed-762a-4fae-86cd-b37d94fb5c21": {
+    "display_name": "Pixel Operator",
+    "technical_id": "6520b0ed-762a-4fae-86cd-b37d94fb5c21"
+  },
+  "b58c43ac-28e8-49bd-bb6f-d9e468749522": {
+    "display_name": "Logic Futurist",
+    "technical_id": "b58c43ac-28e8-49bd-bb6f-d9e468749522"
+  },
+  "fbc2b884-2786-43db-bd97-46c2d1ffc7a2": {
+    "display_name": "Web Guru",
+    "technical_id": "fbc2b884-2786-43db-bd97-46c2d1ffc7a2"
+  },
+  "9dca3981-1693-4df6-b343-e437e322306b": {
+    "display_name": "Rocket Coder",
+    "technical_id": "9dca3981-1693-4df6-b343-e437e322306b"
+  },
+  "53f35905-2b95-40e2-8693-51036eba57e2": {
+    "display_name": "Kernel Ninja",
+    "technical_id": "53f35905-2b95-40e2-8693-51036eba57e2"
+  },
+  "2069a91f-2383-4893-b2ab-c73c0b8a4c24": {
+    "display_name": "Jiggy Yielder",
+    "technical_id": "2069a91f-2383-4893-b2ab-c73c0b8a4c24"
+  },
+  "3d1f6b0d-6c79-4ff9-a92f-5387c5dae4c2": {
+    "display_name": "Omega Keeper",
+    "technical_id": "3d1f6b0d-6c79-4ff9-a92f-5387c5dae4c2"
+  },
+  "8e4d8b00-55fd-4ce2-bb6d-5da8de1d3214": {
+    "display_name": "Binary Quester",
+    "technical_id": "8e4d8b00-55fd-4ce2-bb6d-5da8de1d3214"
+  },
+  "cd6ec977-1f64-4701-8c95-f23fccf257f8": {
+    "display_name": "Nano Wizard",
+    "technical_id": "cd6ec977-1f64-4701-8c95-f23fccf257f8"
+  },
+  "9301540d-926e-4169-9875-bddf5943eca9": {
+    "display_name": "Quantum Architect",
+    "technical_id": "9301540d-926e-4169-9875-bddf5943eca9"
+  },
+  "91121fea-e52c-4f94-89d6-8c0f307f32ed": {
+    "display_name": "Yotta Guru",
+    "technical_id": "91121fea-e52c-4f94-89d6-8c0f307f32ed"
+  },
+  "f411b4c3-a404-403c-8b6f-9f8f90b01e5b": {
+    "display_name": "Binary Legend",
+    "technical_id": "f411b4c3-a404-403c-8b6f-9f8f90b01e5b"
+  },
+  "11e0da53-971f-442a-ad80-ce53924e0abd": {
+    "display_name": "Epic Builder",
+    "technical_id": "11e0da53-971f-442a-ad80-ce53924e0abd"
+  },
+  "a1ba3bd8-292c-45e1-9fd4-e578d4ee9d4e": {
+    "display_name": "Xeno Architect",
+    "technical_id": "a1ba3bd8-292c-45e1-9fd4-e578d4ee9d4e"
+  },
+  "84d33472-f8ad-448d-a23c-35841b3a19f7": {
+    "display_name": "Meta Developer",
+    "technical_id": "84d33472-f8ad-448d-a23c-35841b3a19f7"
+  },
+  "a4553b57-55a3-4747-a4d1-5cacded04e0d": {
+    "display_name": "Agile Quester",
+    "technical_id": "a4553b57-55a3-4747-a4d1-5cacded04e0d"
+  },
+  "f3cbbf44-9ac2-4a0b-b8d8-44f33aa9ee62": {
+    "display_name": "Meta Guru",
+    "technical_id": "f3cbbf44-9ac2-4a0b-b8d8-44f33aa9ee62"
+  },
+  "6332dd77-e99d-4cac-a489-4902635faff6": {
+    "display_name": "Meta Hacker",
+    "technical_id": "6332dd77-e99d-4cac-a489-4902635faff6"
+  },
+  "8319e4d2-36aa-4a99-a691-51142d0039e3": {
+    "display_name": "Void Wizard",
+    "technical_id": "8319e4d2-36aa-4a99-a691-51142d0039e3"
+  },
+  "53e95aab-be12-46c5-908a-2118197b04bf": {
+    "display_name": "Binary Master",
+    "technical_id": "53e95aab-be12-46c5-908a-2118197b04bf"
+  },
+  "3caf246e-09c1-4628-b710-a67499d45dd6": {
+    "display_name": "Data Usurper",
+    "technical_id": "3caf246e-09c1-4628-b710-a67499d45dd6"
+  },
+  "541eb68d-1629-449f-98c8-073b0b5d0c56": {
+    "display_name": "Binary Juggler",
+    "technical_id": "541eb68d-1629-449f-98c8-073b0b5d0c56"
+  },
+  "b45b9345-5be3-4a82-be00-466b063d7448": {
+    "display_name": "Data Master",
+    "technical_id": "b45b9345-5be3-4a82-be00-466b063d7448"
+  },
+  "0a8f32a8-6fb7-4150-b23f-67678a30b159": {
+    "display_name": "Web Operator",
+    "technical_id": "0a8f32a8-6fb7-4150-b23f-67678a30b159"
+  },
+  "e9755785-f977-495c-a7af-f1e814b4b011": {
+    "display_name": "Cloud Hacker",
+    "technical_id": "e9755785-f977-495c-a7af-f1e814b4b011"
+  },
+  "42b868c6-9047-4a29-9e43-c6c3732998f6": {
+    "display_name": "Future Engineer",
+    "technical_id": "42b868c6-9047-4a29-9e43-c6c3732998f6"
+  },
+  "bbd638e5-e789-4c88-a4b6-798311636814": {
+    "display_name": "Nano Guru",
+    "technical_id": "bbd638e5-e789-4c88-a4b6-798311636814"
+  },
+  "0c9f7e63-775c-4bb4-9181-52407f997a20": {
+    "display_name": "Future Architect",
+    "technical_id": "0c9f7e63-775c-4bb4-9181-52407f997a20"
+  },
+  "6d3e709d-0078-45a6-a62c-5c8d3a112410": {
+    "display_name": "Yotta Master",
+    "technical_id": "6d3e709d-0078-45a6-a62c-5c8d3a112410"
+  },
+  "36d6a3a7-90db-418c-9675-d0b4b4681155": {
+    "display_name": "Kernel Usurper",
+    "technical_id": "36d6a3a7-90db-418c-9675-d0b4b4681155"
+  },
+  "0f4d5bd9-f89f-4166-b5fd-7aa4e368dc85": {
+    "display_name": "Logic Architect",
+    "technical_id": "0f4d5bd9-f89f-4166-b5fd-7aa4e368dc85"
+  },
+  "56059b92-32d0-4d39-b1be-5b361b22241c": {
+    "display_name": "Super Futurist",
+    "technical_id": "56059b92-32d0-4d39-b1be-5b361b22241c"
+  },
+  "1545bb39-ba56-4354-9322-677f446126c0": {
+    "display_name": "Yotta Zealot",
+    "technical_id": "1545bb39-ba56-4354-9322-677f446126c0"
+  },
+  "d2873bf1-65dd-4d84-934e-0d392fa04626": {
+    "display_name": "Web Engineer",
+    "technical_id": "d2873bf1-65dd-4d84-934e-0d392fa04626"
+  },
+  "c32c6bc1-334a-4f8b-8fb3-e2c1416da963": {
+    "display_name": "Giga Tinkerer",
+    "technical_id": "c32c6bc1-334a-4f8b-8fb3-e2c1416da963"
+  },
+  "f1f04d0a-319b-4532-bad3-7738e76b0201": {
+    "display_name": "Cloud Xplorer",
+    "technical_id": "f1f04d0a-319b-4532-bad3-7738e76b0201"
+  },
+  "82b24f32-27b3-4c9d-b594-131d02fdd6b0": {
+    "display_name": "Kernel Hacker",
+    "technical_id": "82b24f32-27b3-4c9d-b594-131d02fdd6b0"
+  },
+  "6fb50765-7794-4047-bda0-fa9cf12349e6": {
+    "display_name": "Terra Visionary",
+    "technical_id": "6fb50765-7794-4047-bda0-fa9cf12349e6"
+  },
+  "c95d60e9-6bdf-4f82-b1ad-f07b499954ad": {
+    "display_name": "Logic Innovator",
+    "technical_id": "c95d60e9-6bdf-4f82-b1ad-f07b499954ad"
+  },
+  "cb945082-6ede-4f6c-8da1-4695e32782d1": {
+    "display_name": "Super Guru",
+    "technical_id": "cb945082-6ede-4f6c-8da1-4695e32782d1"
+  },
+  "65dbf5a4-0897-4315-8144-7fd827f0e451": {
+    "display_name": "Giga Builder",
+    "technical_id": "65dbf5a4-0897-4315-8144-7fd827f0e451"
+  },
+  "74b015b7-4586-42fd-a1d5-ed58a2df3948": {
+    "display_name": "Future Operator",
+    "technical_id": "74b015b7-4586-42fd-a1d5-ed58a2df3948"
+  },
+  "395aa3da-ac86-432a-ae65-0e199ded0289": {
+    "display_name": "Cloud Master",
+    "technical_id": "395aa3da-ac86-432a-ae65-0e199ded0289"
+  },
+  "ab269824-9e2e-4b0c-a796-e31e916feaa9": {
+    "display_name": "Zetta Architect",
+    "technical_id": "ab269824-9e2e-4b0c-a796-e31e916feaa9"
+  },
+  "d86ffdd7-1b42-42cf-9d51-05e2f4f0db85": {
+    "display_name": "Epic Yielder",
+    "technical_id": "d86ffdd7-1b42-42cf-9d51-05e2f4f0db85"
+  },
+  "9b117266-6711-4a44-a5c3-8031a82890f9": {
+    "display_name": "Terra Guru",
+    "technical_id": "9b117266-6711-4a44-a5c3-8031a82890f9"
+  },
+  "b953ada0-b816-4def-9234-102df923ef39": {
+    "display_name": "Nano Zealot",
+    "technical_id": "b953ada0-b816-4def-9234-102df923ef39"
+  },
+  "c30d7f0c-4fac-4fbf-9b57-6dbcb05432a2": {
+    "display_name": "Web Builder",
+    "technical_id": "c30d7f0c-4fac-4fbf-9b57-6dbcb05432a2"
+  },
+  "8729963e-0e0d-4404-9366-6b87af457e8a": {
+    "display_name": "Terra Operator",
+    "technical_id": "8729963e-0e0d-4404-9366-6b87af457e8a"
+  },
+  "643055b0-7594-48f1-8210-199812e064f3": {
+    "display_name": "Epic Ninja",
+    "technical_id": "643055b0-7594-48f1-8210-199812e064f3"
   }
 }
