@@ -10,5 +10,1993 @@
   "66f4aaaa-864a-439f-be8c-c7fb092345fc": {
     "display_name": "Savvy Shoppe",
     "technical_id": "66f4aaaa-864a-439f-be8c-c7fb092345fc"
+  },
+  "67a5a801-cfae-4e17-a9d3-5c9ad817924d": {
+    "display_name": "Mystic Enterprises",
+    "technical_id": "67a5a801-cfae-4e17-a9d3-5c9ad817924d"
+  },
+  "394d8690-6201-4357-8d9b-8122fe6f2331": {
+    "display_name": "Midnight Emporium",
+    "technical_id": "394d8690-6201-4357-8d9b-8122fe6f2331"
+  },
+  "2fc47544-ea1c-4049-8d53-28f1668cdcb0": {
+    "display_name": "Golden Dynamics",
+    "technical_id": "2fc47544-ea1c-4049-8d53-28f1668cdcb0"
+  },
+  "c016fba3-735d-4b03-aaf5-16dc7d0dd3d7": {
+    "display_name": "Midnight Enterprises",
+    "technical_id": "c016fba3-735d-4b03-aaf5-16dc7d0dd3d7"
+  },
+  "cd9156f2-443f-42b8-950f-cc4fdbc51274": {
+    "display_name": "Crystal Innovations",
+    "technical_id": "cd9156f2-443f-42b8-950f-cc4fdbc51274"
+  },
+  "95817533-998e-4d95-a70f-cd06da8e9695": {
+    "display_name": "Azure Emporium",
+    "technical_id": "95817533-998e-4d95-a70f-cd06da8e9695"
+  },
+  "5742d01e-52df-4dd4-9ba6-25a17e3231f3": {
+    "display_name": "Azure Pinnacle",
+    "technical_id": "5742d01e-52df-4dd4-9ba6-25a17e3231f3"
+  },
+  "4832384a-afbb-4a67-8155-976c124acf78": {
+    "display_name": "Sunrise Dynamics",
+    "technical_id": "4832384a-afbb-4a67-8155-976c124acf78"
+  },
+  "9a42f737-f1ab-4344-b1bc-20119502a5c4": {
+    "display_name": "Whispering Emporium",
+    "technical_id": "9a42f737-f1ab-4344-b1bc-20119502a5c4"
+  },
+  "30c7be80-e47b-4165-938e-4032b88372e7": {
+    "display_name": "Golden Horizons",
+    "technical_id": "30c7be80-e47b-4165-938e-4032b88372e7"
+  },
+  "6e0f5ecc-687c-4137-be16-c3ca23aa4b7b": {
+    "display_name": "Crimson Collective",
+    "technical_id": "6e0f5ecc-687c-4137-be16-c3ca23aa4b7b"
+  },
+  "fbe15027-2ed5-4b6f-a2df-9d0e8d6cf7f7": {
+    "display_name": "Enchanted Emporium",
+    "technical_id": "fbe15027-2ed5-4b6f-a2df-9d0e8d6cf7f7"
+  },
+  "e1bc56aa-de9d-416e-b699-668d589aee3b": {
+    "display_name": "Enchanted Ventures",
+    "technical_id": "e1bc56aa-de9d-416e-b699-668d589aee3b"
+  },
+  "424c5de3-6ced-4249-b1e6-f46d6961a9cf": {
+    "display_name": "Mystic Group",
+    "technical_id": "424c5de3-6ced-4249-b1e6-f46d6961a9cf"
+  },
+  "e8cb1e01-5fca-4242-8724-ef08a901c22b": {
+    "display_name": "Enchanted Collective",
+    "technical_id": "e8cb1e01-5fca-4242-8724-ef08a901c22b"
+  },
+  "7056ca74-bcbd-4a27-b4c6-bb753438abc9": {
+    "display_name": "Cosmic Horizons",
+    "technical_id": "7056ca74-bcbd-4a27-b4c6-bb753438abc9"
+  },
+  "cdba3a93-2b7b-4f93-b66b-404842965e47": {
+    "display_name": "Crimson Innovations",
+    "technical_id": "cdba3a93-2b7b-4f93-b66b-404842965e47"
+  },
+  "280bbaec-a057-4505-bd10-96073dae56a2": {
+    "display_name": "Crimson Group",
+    "technical_id": "280bbaec-a057-4505-bd10-96073dae56a2"
+  },
+  "77da0c20-b18c-4e73-9dbf-4df55d6bc788": {
+    "display_name": "Crystal Horizons",
+    "technical_id": "77da0c20-b18c-4e73-9dbf-4df55d6bc788"
+  },
+  "fe8e54ab-d674-45b0-b466-4767342be1a0": {
+    "display_name": "Azure Dynamics",
+    "technical_id": "fe8e54ab-d674-45b0-b466-4767342be1a0"
+  },
+  "b9dbb114-69ab-406d-b198-885a4a3a6f2d": {
+    "display_name": "Azure Collective",
+    "technical_id": "b9dbb114-69ab-406d-b198-885a4a3a6f2d"
+  },
+  "5c98970c-9079-4001-bf1f-bac2968984a9": {
+    "display_name": "Azure Horizons",
+    "technical_id": "5c98970c-9079-4001-bf1f-bac2968984a9"
+  },
+  "2a0b8f92-1c49-4ded-8034-c1f67e0740d6": {
+    "display_name": "Whispering Solutions",
+    "technical_id": "2a0b8f92-1c49-4ded-8034-c1f67e0740d6"
+  },
+  "506e1c63-318c-4af8-a905-ca1609dc0057": {
+    "display_name": "Whispering Innovations",
+    "technical_id": "506e1c63-318c-4af8-a905-ca1609dc0057"
+  },
+  "437665bb-85f6-4f48-8ea0-7025ad3275d7": {
+    "display_name": "Cosmic Enterprises",
+    "technical_id": "437665bb-85f6-4f48-8ea0-7025ad3275d7"
+  },
+  "602020f9-9d44-41c6-95e8-73034c83e7cb": {
+    "display_name": "Sunrise Emporium",
+    "technical_id": "602020f9-9d44-41c6-95e8-73034c83e7cb"
+  },
+  "962a1463-dbdd-4083-8bd8-8db2b2b20f5e": {
+    "display_name": "Enchanted Dynamics",
+    "technical_id": "962a1463-dbdd-4083-8bd8-8db2b2b20f5e"
+  },
+  "64133dfa-8e78-4c72-99e4-57c4341cf68a": {
+    "display_name": "Midnight Horizons",
+    "technical_id": "64133dfa-8e78-4c72-99e4-57c4341cf68a"
+  },
+  "5724d4cd-fd3b-416b-84fd-7e02783bf7af": {
+    "display_name": "Golden Dynamics",
+    "technical_id": "5724d4cd-fd3b-416b-84fd-7e02783bf7af"
+  },
+  "f1264941-0d73-4c05-b453-68fc90043665": {
+    "display_name": "Cosmic Emporium",
+    "technical_id": "f1264941-0d73-4c05-b453-68fc90043665"
+  },
+  "99960e2a-c35a-4254-862e-cdde1e437ef7": {
+    "display_name": "Mystic Ventures",
+    "technical_id": "99960e2a-c35a-4254-862e-cdde1e437ef7"
+  },
+  "7bbf486b-f03a-40c2-b064-6a42d22d3a82": {
+    "display_name": "Cosmic Enterprises",
+    "technical_id": "7bbf486b-f03a-40c2-b064-6a42d22d3a82"
+  },
+  "0b74cc7f-fbc9-4280-823a-cd8e1a525767": {
+    "display_name": "Midnight Pinnacle",
+    "technical_id": "0b74cc7f-fbc9-4280-823a-cd8e1a525767"
+  },
+  "f00b3fe5-73f3-4591-a33e-bb24c13b7487": {
+    "display_name": "Crystal Pinnacle",
+    "technical_id": "f00b3fe5-73f3-4591-a33e-bb24c13b7487"
+  },
+  "2b1964f2-81ee-460a-80f3-fe2162212aee": {
+    "display_name": "Crimson Pinnacle",
+    "technical_id": "2b1964f2-81ee-460a-80f3-fe2162212aee"
+  },
+  "2d110447-6852-40b9-8b46-4ed076bb9fc3": {
+    "display_name": "Sunrise Ventures",
+    "technical_id": "2d110447-6852-40b9-8b46-4ed076bb9fc3"
+  },
+  "02016b62-b1cb-43fd-bc48-d4e4b55df0f6": {
+    "display_name": "Golden Enterprises",
+    "technical_id": "02016b62-b1cb-43fd-bc48-d4e4b55df0f6"
+  },
+  "7eae3f3e-0def-4869-b2ba-569af6859365": {
+    "display_name": "Crystal Emporium",
+    "technical_id": "7eae3f3e-0def-4869-b2ba-569af6859365"
+  },
+  "de17292e-afe7-4870-9442-de2a4e4c4490": {
+    "display_name": "Whispering Dynamics",
+    "technical_id": "de17292e-afe7-4870-9442-de2a4e4c4490"
+  },
+  "e43cd8e1-0199-4e8c-867d-aa0f1107749a": {
+    "display_name": "Midnight Dynamics",
+    "technical_id": "e43cd8e1-0199-4e8c-867d-aa0f1107749a"
+  },
+  "ea7c0f66-7857-406c-be15-2b3318bf99d4": {
+    "display_name": "Crystal Horizons",
+    "technical_id": "ea7c0f66-7857-406c-be15-2b3318bf99d4"
+  },
+  "506ce6f2-3f31-4541-a3b6-0f7c9df379a7": {
+    "display_name": "Crystal Horizons",
+    "technical_id": "506ce6f2-3f31-4541-a3b6-0f7c9df379a7"
+  },
+  "0e95ede8-674f-4dd6-bab4-13a4243355b1": {
+    "display_name": "Midnight Horizons",
+    "technical_id": "0e95ede8-674f-4dd6-bab4-13a4243355b1"
+  },
+  "16f3552e-db9c-43fc-9de8-f67a4ad6347e": {
+    "display_name": "Mystic Solutions",
+    "technical_id": "16f3552e-db9c-43fc-9de8-f67a4ad6347e"
+  },
+  "0aaa2058-09d9-4fcd-9c7d-d5d1f77a0ac0": {
+    "display_name": "Azure Collective",
+    "technical_id": "0aaa2058-09d9-4fcd-9c7d-d5d1f77a0ac0"
+  },
+  "fe15ddf2-f044-4fae-bc69-bdfe1ff6cb41": {
+    "display_name": "Cosmic Emporium",
+    "technical_id": "fe15ddf2-f044-4fae-bc69-bdfe1ff6cb41"
+  },
+  "16b662ab-56dc-485e-8f61-aad774e0796f": {
+    "display_name": "Golden Enterprises",
+    "technical_id": "16b662ab-56dc-485e-8f61-aad774e0796f"
+  },
+  "c3c65f34-8309-4838-8b09-b1f7ad944854": {
+    "display_name": "Crystal Enterprises",
+    "technical_id": "c3c65f34-8309-4838-8b09-b1f7ad944854"
+  },
+  "aa9ab4ef-5a54-437d-8a00-5b59d7a336aa": {
+    "display_name": "Sunrise Horizons",
+    "technical_id": "aa9ab4ef-5a54-437d-8a00-5b59d7a336aa"
+  },
+  "d5be5e45-79ea-4cf1-ace3-66f8a46b9a97": {
+    "display_name": "Cosmic Solutions",
+    "technical_id": "d5be5e45-79ea-4cf1-ace3-66f8a46b9a97"
+  },
+  "1816752f-82ca-4aaf-b16c-b11dd07b9761": {
+    "display_name": "Midnight Emporium",
+    "technical_id": "1816752f-82ca-4aaf-b16c-b11dd07b9761"
+  },
+  "ec62a8c9-ff17-427f-93b4-1c56b5aab8f8": {
+    "display_name": "Golden Solutions",
+    "technical_id": "ec62a8c9-ff17-427f-93b4-1c56b5aab8f8"
+  },
+  "cfc1a882-42e0-4fca-b06f-bebfebdee001": {
+    "display_name": "Enchanted Emporium",
+    "technical_id": "cfc1a882-42e0-4fca-b06f-bebfebdee001"
+  },
+  "a9bede52-c1b3-4eaa-9500-d3ccee152764": {
+    "display_name": "Crystal Solutions",
+    "technical_id": "a9bede52-c1b3-4eaa-9500-d3ccee152764"
+  },
+  "6b405a92-ce0d-4b45-b05a-c8cb23f51eff": {
+    "display_name": "Crimson Ventures",
+    "technical_id": "6b405a92-ce0d-4b45-b05a-c8cb23f51eff"
+  },
+  "7107aec2-e5dc-4d69-af66-07ad8453e554": {
+    "display_name": "Crimson Enterprises",
+    "technical_id": "7107aec2-e5dc-4d69-af66-07ad8453e554"
+  },
+  "8ec925db-56f3-4550-b20f-bb8f50629ab5": {
+    "display_name": "Azure Innovations",
+    "technical_id": "8ec925db-56f3-4550-b20f-bb8f50629ab5"
+  },
+  "7aed338e-908a-4327-80b8-9d8eeb12f03c": {
+    "display_name": "Sunrise Emporium",
+    "technical_id": "7aed338e-908a-4327-80b8-9d8eeb12f03c"
+  },
+  "f3b7129c-1148-422f-b3be-cab6abbfb85e": {
+    "display_name": "Azure Solutions",
+    "technical_id": "f3b7129c-1148-422f-b3be-cab6abbfb85e"
+  },
+  "4b947824-b642-4a07-8517-0c8cc42d8a2a": {
+    "display_name": "Azure Collective",
+    "technical_id": "4b947824-b642-4a07-8517-0c8cc42d8a2a"
+  },
+  "9a5658e0-78a3-4331-ae94-dac7261d0612": {
+    "display_name": "Sunrise Pinnacle",
+    "technical_id": "9a5658e0-78a3-4331-ae94-dac7261d0612"
+  },
+  "2cd4082a-00bd-4c5a-a2cf-6a8434e3a3b6": {
+    "display_name": "Sunrise Group",
+    "technical_id": "2cd4082a-00bd-4c5a-a2cf-6a8434e3a3b6"
+  },
+  "de5fa057-9f79-44cc-8bd4-3b19064d5838": {
+    "display_name": "Crimson Enterprises",
+    "technical_id": "de5fa057-9f79-44cc-8bd4-3b19064d5838"
+  },
+  "125ccd50-db3d-4a6a-a8b1-0dc7b2943ebb": {
+    "display_name": "Sunrise Emporium",
+    "technical_id": "125ccd50-db3d-4a6a-a8b1-0dc7b2943ebb"
+  },
+  "23bb8b08-54ee-4000-898c-23138ce04a93": {
+    "display_name": "Golden Ventures",
+    "technical_id": "23bb8b08-54ee-4000-898c-23138ce04a93"
+  },
+  "0fae7a52-db46-4137-8e12-828d1c860c22": {
+    "display_name": "Midnight Innovations",
+    "technical_id": "0fae7a52-db46-4137-8e12-828d1c860c22"
+  },
+  "34024551-9725-452f-a954-2e910c9d7d0b": {
+    "display_name": "Whispering Pinnacle",
+    "technical_id": "34024551-9725-452f-a954-2e910c9d7d0b"
+  },
+  "e07133b6-5369-4c07-ae62-6cddfd37d1e7": {
+    "display_name": "Crimson Collective",
+    "technical_id": "e07133b6-5369-4c07-ae62-6cddfd37d1e7"
+  },
+  "4897f7c0-13be-4509-a5f3-2c3d6910aaa5": {
+    "display_name": "Enchanted Collective",
+    "technical_id": "4897f7c0-13be-4509-a5f3-2c3d6910aaa5"
+  },
+  "d76622db-9c75-49ca-a7b2-da0065d74e70": {
+    "display_name": "Crimson Group",
+    "technical_id": "d76622db-9c75-49ca-a7b2-da0065d74e70"
+  },
+  "00e080b5-c60d-4bb4-b4b6-50774d28aa52": {
+    "display_name": "Crimson Enterprises",
+    "technical_id": "00e080b5-c60d-4bb4-b4b6-50774d28aa52"
+  },
+  "9e31fa38-a990-448b-8ef1-4070451ebec8": {
+    "display_name": "Crystal Innovations",
+    "technical_id": "9e31fa38-a990-448b-8ef1-4070451ebec8"
+  },
+  "14b537e6-0154-498b-9eb3-3ece03898831": {
+    "display_name": "Golden Innovations",
+    "technical_id": "14b537e6-0154-498b-9eb3-3ece03898831"
+  },
+  "c0724507-4fcc-474a-9169-f64e971ef307": {
+    "display_name": "Golden Collective",
+    "technical_id": "c0724507-4fcc-474a-9169-f64e971ef307"
+  },
+  "252e439d-50b4-44c5-b746-646d82d7a353": {
+    "display_name": "Crystal Horizons",
+    "technical_id": "252e439d-50b4-44c5-b746-646d82d7a353"
+  },
+  "97900aa6-891f-4f1a-85c9-c233a5fc46ab": {
+    "display_name": "Sunrise Pinnacle",
+    "technical_id": "97900aa6-891f-4f1a-85c9-c233a5fc46ab"
+  },
+  "4f709694-ab07-4ff5-b998-2df9250b081c": {
+    "display_name": "Midnight Solutions",
+    "technical_id": "4f709694-ab07-4ff5-b998-2df9250b081c"
+  },
+  "4aa6475b-70ce-4049-9452-5a003271be44": {
+    "display_name": "Cosmic Enterprises",
+    "technical_id": "4aa6475b-70ce-4049-9452-5a003271be44"
+  },
+  "e9a629a1-ada9-4313-8b64-98cc5bae152d": {
+    "display_name": "Golden Group",
+    "technical_id": "e9a629a1-ada9-4313-8b64-98cc5bae152d"
+  },
+  "e9eb73a8-687d-4489-b671-ca63fc533e94": {
+    "display_name": "Sunrise Solutions",
+    "technical_id": "e9eb73a8-687d-4489-b671-ca63fc533e94"
+  },
+  "238b85b3-b378-4a11-9015-afe162d91cdf": {
+    "display_name": "Enchanted Enterprises",
+    "technical_id": "238b85b3-b378-4a11-9015-afe162d91cdf"
+  },
+  "4bad43f5-b02f-45be-8a07-4edb56434b91": {
+    "display_name": "Crystal Solutions",
+    "technical_id": "4bad43f5-b02f-45be-8a07-4edb56434b91"
+  },
+  "4fc699be-9c9b-4184-8001-3da0a13b4217": {
+    "display_name": "Crystal Ventures",
+    "technical_id": "4fc699be-9c9b-4184-8001-3da0a13b4217"
+  },
+  "2abe2de4-14ea-4a68-b700-54c3b95e64de": {
+    "display_name": "Cosmic Collective",
+    "technical_id": "2abe2de4-14ea-4a68-b700-54c3b95e64de"
+  },
+  "9e1aac3c-6eb5-47f7-a9aa-f10689a22674": {
+    "display_name": "Cosmic Group",
+    "technical_id": "9e1aac3c-6eb5-47f7-a9aa-f10689a22674"
+  },
+  "8c78ccbf-0340-4a7d-b1c9-76975b6525d4": {
+    "display_name": "Crystal Pinnacle",
+    "technical_id": "8c78ccbf-0340-4a7d-b1c9-76975b6525d4"
+  },
+  "52743985-8564-4058-b132-6d6f323d78cf": {
+    "display_name": "Whispering Enterprises",
+    "technical_id": "52743985-8564-4058-b132-6d6f323d78cf"
+  },
+  "c638a359-0b87-499f-9add-9d4260a53fe8": {
+    "display_name": "Cosmic Solutions",
+    "technical_id": "c638a359-0b87-499f-9add-9d4260a53fe8"
+  },
+  "34de491f-2bed-4ac0-acef-464793052e9d": {
+    "display_name": "Sunrise Pinnacle",
+    "technical_id": "34de491f-2bed-4ac0-acef-464793052e9d"
+  },
+  "4c1325e1-b52f-4557-99a6-894ea2f31b79": {
+    "display_name": "Enchanted Group",
+    "technical_id": "4c1325e1-b52f-4557-99a6-894ea2f31b79"
+  },
+  "93a4af59-8c85-463b-8343-cfe81d2927df": {
+    "display_name": "Azure Pinnacle",
+    "technical_id": "93a4af59-8c85-463b-8343-cfe81d2927df"
+  },
+  "490d18d7-da9c-4201-9e2f-5483cde9d648": {
+    "display_name": "Enchanted Enterprises",
+    "technical_id": "490d18d7-da9c-4201-9e2f-5483cde9d648"
+  },
+  "932933d5-8942-4a23-879e-b20af448b22a": {
+    "display_name": "Golden Dynamics",
+    "technical_id": "932933d5-8942-4a23-879e-b20af448b22a"
+  },
+  "0bc30258-aef5-43f5-b9b5-a520fcdcab8e": {
+    "display_name": "Cosmic Enterprises",
+    "technical_id": "0bc30258-aef5-43f5-b9b5-a520fcdcab8e"
+  },
+  "19ae99e7-1f3e-440b-b355-12944cb33f32": {
+    "display_name": "Sunrise Horizons",
+    "technical_id": "19ae99e7-1f3e-440b-b355-12944cb33f32"
+  },
+  "846a826c-d05d-43e7-b12b-968116b1b203": {
+    "display_name": "Midnight Collective",
+    "technical_id": "846a826c-d05d-43e7-b12b-968116b1b203"
+  },
+  "4579a49f-130e-481c-a719-a4ace926b6ed": {
+    "display_name": "Azure Pinnacle",
+    "technical_id": "4579a49f-130e-481c-a719-a4ace926b6ed"
+  },
+  "2a9239d3-7f5f-4b8c-890f-d1746f8407a6": {
+    "display_name": "Sunrise Group",
+    "technical_id": "2a9239d3-7f5f-4b8c-890f-d1746f8407a6"
+  },
+  "e4abd1d3-93df-46bb-afc8-0a9d59deb6b2": {
+    "display_name": "Cosmic Ventures",
+    "technical_id": "e4abd1d3-93df-46bb-afc8-0a9d59deb6b2"
+  },
+  "4f5897ce-e7ed-4468-86a7-36822f41adc4": {
+    "display_name": "Mystic Ventures",
+    "technical_id": "4f5897ce-e7ed-4468-86a7-36822f41adc4"
+  },
+  "24ee1e37-788b-4839-bfd8-9ea20f06a893": {
+    "display_name": "Mystic Emporium",
+    "technical_id": "24ee1e37-788b-4839-bfd8-9ea20f06a893"
+  },
+  "a990673d-bb49-4b67-a284-df6c88330160": {
+    "display_name": "Azure Emporium",
+    "technical_id": "a990673d-bb49-4b67-a284-df6c88330160"
+  },
+  "02168845-9ef1-4cec-b6dd-774230360d60": {
+    "display_name": "Sunrise Solutions",
+    "technical_id": "02168845-9ef1-4cec-b6dd-774230360d60"
+  },
+  "c30a5922-2fd9-41d0-9589-40353c4c4af9": {
+    "display_name": "Crystal Dynamics",
+    "technical_id": "c30a5922-2fd9-41d0-9589-40353c4c4af9"
+  },
+  "f9db9460-9011-42e1-9a6d-c0e751a34e87": {
+    "display_name": "Whispering Enterprises",
+    "technical_id": "f9db9460-9011-42e1-9a6d-c0e751a34e87"
+  },
+  "4847b2e6-2a19-4c17-be01-8aadde7b6317": {
+    "display_name": "Golden Ventures",
+    "technical_id": "4847b2e6-2a19-4c17-be01-8aadde7b6317"
+  },
+  "bc8bfeea-cab4-4ec7-b6e2-39fab8b1dcb5": {
+    "display_name": "Cosmic Emporium",
+    "technical_id": "bc8bfeea-cab4-4ec7-b6e2-39fab8b1dcb5"
+  },
+  "565ebc1f-ea18-47ea-bd89-b3f3db22a1af": {
+    "display_name": "Sunrise Horizons",
+    "technical_id": "565ebc1f-ea18-47ea-bd89-b3f3db22a1af"
+  },
+  "8e0ada68-321a-41d4-b85c-70702a20a77f": {
+    "display_name": "Sunrise Emporium",
+    "technical_id": "8e0ada68-321a-41d4-b85c-70702a20a77f"
+  },
+  "420608c3-dfca-41ef-af46-24d07fba9f7c": {
+    "display_name": "Crystal Dynamics",
+    "technical_id": "420608c3-dfca-41ef-af46-24d07fba9f7c"
+  },
+  "99f3caf7-8aad-4425-ba91-79128520bd42": {
+    "display_name": "Cosmic Horizons",
+    "technical_id": "99f3caf7-8aad-4425-ba91-79128520bd42"
+  },
+  "125c4c5f-c528-452f-9a51-742ccdea33ef": {
+    "display_name": "Sunrise Horizons",
+    "technical_id": "125c4c5f-c528-452f-9a51-742ccdea33ef"
+  },
+  "58c807da-8df0-4c11-b85c-c4261f704020": {
+    "display_name": "Sunrise Innovations",
+    "technical_id": "58c807da-8df0-4c11-b85c-c4261f704020"
+  },
+  "9549a035-ea5f-4538-9394-3da3bd5f0293": {
+    "display_name": "Cosmic Emporium",
+    "technical_id": "9549a035-ea5f-4538-9394-3da3bd5f0293"
+  },
+  "824db727-2908-4cca-b9d5-7900419f9dd3": {
+    "display_name": "Cosmic Solutions",
+    "technical_id": "824db727-2908-4cca-b9d5-7900419f9dd3"
+  },
+  "1795156f-048c-43da-b03c-78bcc2f3f800": {
+    "display_name": "Enchanted Dynamics",
+    "technical_id": "1795156f-048c-43da-b03c-78bcc2f3f800"
+  },
+  "06d6d279-6c57-45ab-aa1d-a814c0d8eb94": {
+    "display_name": "Mystic Dynamics",
+    "technical_id": "06d6d279-6c57-45ab-aa1d-a814c0d8eb94"
+  },
+  "8a689217-3d9f-454d-a7e9-603bc5e8cb2c": {
+    "display_name": "Mystic Ventures",
+    "technical_id": "8a689217-3d9f-454d-a7e9-603bc5e8cb2c"
+  },
+  "ba5d05b2-d419-4f1a-a5dc-3a3b42d04eed": {
+    "display_name": "Whispering Horizons",
+    "technical_id": "ba5d05b2-d419-4f1a-a5dc-3a3b42d04eed"
+  },
+  "207a9560-6f33-4719-ac7d-3691328992cb": {
+    "display_name": "Sunrise Solutions",
+    "technical_id": "207a9560-6f33-4719-ac7d-3691328992cb"
+  },
+  "2baf07b6-d2f6-4e05-b522-06a1a74bb656": {
+    "display_name": "Azure Collective",
+    "technical_id": "2baf07b6-d2f6-4e05-b522-06a1a74bb656"
+  },
+  "16b04010-ebc4-439f-be6a-e18d3af9831d": {
+    "display_name": "Cosmic Collective",
+    "technical_id": "16b04010-ebc4-439f-be6a-e18d3af9831d"
+  },
+  "2f141cfc-33f0-4699-8b09-3aa731ee0572": {
+    "display_name": "Crystal Group",
+    "technical_id": "2f141cfc-33f0-4699-8b09-3aa731ee0572"
+  },
+  "24112187-205a-4eda-8696-d8d038fea941": {
+    "display_name": "Enchanted Innovations",
+    "technical_id": "24112187-205a-4eda-8696-d8d038fea941"
+  },
+  "d936757f-9997-4a61-968e-88c2a600a282": {
+    "display_name": "Crimson Group",
+    "technical_id": "d936757f-9997-4a61-968e-88c2a600a282"
+  },
+  "ad805e9a-e66a-4888-b8f4-96e76710adc3": {
+    "display_name": "Midnight Horizons",
+    "technical_id": "ad805e9a-e66a-4888-b8f4-96e76710adc3"
+  },
+  "1f472644-2f28-45ba-99e2-d8db8c51d525": {
+    "display_name": "Golden Group",
+    "technical_id": "1f472644-2f28-45ba-99e2-d8db8c51d525"
+  },
+  "83c7e32a-9f4c-44d3-b1c4-3cd7e6743b5f": {
+    "display_name": "Crimson Ventures",
+    "technical_id": "83c7e32a-9f4c-44d3-b1c4-3cd7e6743b5f"
+  },
+  "9bb5282d-726e-494e-8b03-a33428d639dd": {
+    "display_name": "Cosmic Ventures",
+    "technical_id": "9bb5282d-726e-494e-8b03-a33428d639dd"
+  },
+  "a4ca1ba2-778e-44a1-b4ed-68ee89941e71": {
+    "display_name": "Sunrise Emporium",
+    "technical_id": "a4ca1ba2-778e-44a1-b4ed-68ee89941e71"
+  },
+  "1a17b0a5-8ba2-487f-940b-040552466f2e": {
+    "display_name": "Sunrise Innovations",
+    "technical_id": "1a17b0a5-8ba2-487f-940b-040552466f2e"
+  },
+  "d3679c69-0ba0-4312-b77f-1b659343687e": {
+    "display_name": "Whispering Emporium",
+    "technical_id": "d3679c69-0ba0-4312-b77f-1b659343687e"
+  },
+  "d5788c19-d5d5-4c65-aa20-2157cdc2633e": {
+    "display_name": "Crystal Collective",
+    "technical_id": "d5788c19-d5d5-4c65-aa20-2157cdc2633e"
+  },
+  "3cab4d50-a396-4b55-a196-9811f2eb7a83": {
+    "display_name": "Enchanted Emporium",
+    "technical_id": "3cab4d50-a396-4b55-a196-9811f2eb7a83"
+  },
+  "cf8a040d-cc41-4ef9-a6c7-5c36f3721285": {
+    "display_name": "Whispering Dynamics",
+    "technical_id": "cf8a040d-cc41-4ef9-a6c7-5c36f3721285"
+  },
+  "d7509ce6-a9bc-4d7e-82b6-01ec7dc713f8": {
+    "display_name": "Midnight Group",
+    "technical_id": "d7509ce6-a9bc-4d7e-82b6-01ec7dc713f8"
+  },
+  "eb39404e-fa88-4c61-94ac-71fb2d614e0d": {
+    "display_name": "Crimson Horizons",
+    "technical_id": "eb39404e-fa88-4c61-94ac-71fb2d614e0d"
+  },
+  "c295c861-f6c3-4643-b456-dd8114e364dc": {
+    "display_name": "Golden Group",
+    "technical_id": "c295c861-f6c3-4643-b456-dd8114e364dc"
+  },
+  "c239f37a-3d10-4089-a461-76a50fa1feda": {
+    "display_name": "Golden Emporium",
+    "technical_id": "c239f37a-3d10-4089-a461-76a50fa1feda"
+  },
+  "4f109705-f07d-498d-8de6-1ad67e0c3788": {
+    "display_name": "Enchanted Enterprises",
+    "technical_id": "4f109705-f07d-498d-8de6-1ad67e0c3788"
+  },
+  "b9c7f3a4-0a45-4988-8047-60df7ba15282": {
+    "display_name": "Enchanted Enterprises",
+    "technical_id": "b9c7f3a4-0a45-4988-8047-60df7ba15282"
+  },
+  "5cad8092-6bde-4a13-a7e4-97b04e131ebd": {
+    "display_name": "Midnight Innovations",
+    "technical_id": "5cad8092-6bde-4a13-a7e4-97b04e131ebd"
+  },
+  "1438bb30-ec6a-48ce-91ef-10bd600b9dd8": {
+    "display_name": "Midnight Emporium",
+    "technical_id": "1438bb30-ec6a-48ce-91ef-10bd600b9dd8"
+  },
+  "40e2b83e-fcda-4edf-9cc4-188e31bea692": {
+    "display_name": "Cosmic Solutions",
+    "technical_id": "40e2b83e-fcda-4edf-9cc4-188e31bea692"
+  },
+  "57fe488f-5316-427f-b650-acd6459540e8": {
+    "display_name": "Crimson Collective",
+    "technical_id": "57fe488f-5316-427f-b650-acd6459540e8"
+  },
+  "4b099150-44a7-4849-9538-b7e50f69ed0a": {
+    "display_name": "Crimson Enterprises",
+    "technical_id": "4b099150-44a7-4849-9538-b7e50f69ed0a"
+  },
+  "89eb3d4e-aa74-4f37-86b8-c2147529914c": {
+    "display_name": "Midnight Solutions",
+    "technical_id": "89eb3d4e-aa74-4f37-86b8-c2147529914c"
+  },
+  "9d2df918-558e-4970-94f1-c2eb1152d331": {
+    "display_name": "Azure Solutions",
+    "technical_id": "9d2df918-558e-4970-94f1-c2eb1152d331"
+  },
+  "7791c1ac-ae8f-4d79-9271-a88986c254b6": {
+    "display_name": "Golden Dynamics",
+    "technical_id": "7791c1ac-ae8f-4d79-9271-a88986c254b6"
+  },
+  "da353d99-dbcc-43c0-a4a8-7a4a6e14a967": {
+    "display_name": "Midnight Dynamics",
+    "technical_id": "da353d99-dbcc-43c0-a4a8-7a4a6e14a967"
+  },
+  "1a3b6174-21c0-45b4-a100-a01b11fb0b69": {
+    "display_name": "Whispering Horizons",
+    "technical_id": "1a3b6174-21c0-45b4-a100-a01b11fb0b69"
+  },
+  "63cb5398-b4bb-4c2c-a029-8a0fe5d15db2": {
+    "display_name": "Whispering Ventures",
+    "technical_id": "63cb5398-b4bb-4c2c-a029-8a0fe5d15db2"
+  },
+  "06b34825-b64e-4a25-b966-eb0241ab5cb3": {
+    "display_name": "Midnight Horizons",
+    "technical_id": "06b34825-b64e-4a25-b966-eb0241ab5cb3"
+  },
+  "7275523c-15ef-4cd8-9073-dfc76adf53c2": {
+    "display_name": "Mystic Horizons",
+    "technical_id": "7275523c-15ef-4cd8-9073-dfc76adf53c2"
+  },
+  "73e29a18-c9ee-4a1b-822a-d7c86979fa2f": {
+    "display_name": "Crystal Dynamics",
+    "technical_id": "73e29a18-c9ee-4a1b-822a-d7c86979fa2f"
+  },
+  "c4e92dc5-bec1-4ebb-8e59-6c745ab54b06": {
+    "display_name": "Enchanted Solutions",
+    "technical_id": "c4e92dc5-bec1-4ebb-8e59-6c745ab54b06"
+  },
+  "79a5a728-b7e2-4926-935f-27b552e49b5d": {
+    "display_name": "Mystic Pinnacle",
+    "technical_id": "79a5a728-b7e2-4926-935f-27b552e49b5d"
+  },
+  "1309b85f-0a43-4f23-8a19-534756b88806": {
+    "display_name": "Azure Emporium",
+    "technical_id": "1309b85f-0a43-4f23-8a19-534756b88806"
+  },
+  "690be172-7a30-4a92-a867-4a3b7c4f2734": {
+    "display_name": "Crimson Group",
+    "technical_id": "690be172-7a30-4a92-a867-4a3b7c4f2734"
+  },
+  "a7ccb707-b393-429a-aac8-bcff409351fb": {
+    "display_name": "Golden Dynamics",
+    "technical_id": "a7ccb707-b393-429a-aac8-bcff409351fb"
+  },
+  "69dd462a-d50f-4893-9d93-72a66bab1489": {
+    "display_name": "Azure Enterprises",
+    "technical_id": "69dd462a-d50f-4893-9d93-72a66bab1489"
+  },
+  "49b97485-f8c8-4d27-9eac-265f16bfab2b": {
+    "display_name": "Whispering Collective",
+    "technical_id": "49b97485-f8c8-4d27-9eac-265f16bfab2b"
+  },
+  "883671be-2f8f-4109-b5ba-5d9f211810f4": {
+    "display_name": "Golden Ventures",
+    "technical_id": "883671be-2f8f-4109-b5ba-5d9f211810f4"
+  },
+  "4cb1bf23-4925-4160-b3aa-81ff48494fa8": {
+    "display_name": "Azure Dynamics",
+    "technical_id": "4cb1bf23-4925-4160-b3aa-81ff48494fa8"
+  },
+  "0c44ace8-7406-487c-b87a-11789d57021f": {
+    "display_name": "Crystal Ventures",
+    "technical_id": "0c44ace8-7406-487c-b87a-11789d57021f"
+  },
+  "3772c719-6004-40f4-9e41-192efc240584": {
+    "display_name": "Enchanted Innovations",
+    "technical_id": "3772c719-6004-40f4-9e41-192efc240584"
+  },
+  "d79cf559-9175-4410-bcd3-746def10d835": {
+    "display_name": "Azure Group",
+    "technical_id": "d79cf559-9175-4410-bcd3-746def10d835"
+  },
+  "0a53ef83-e3bc-4784-b6c4-652b50891e14": {
+    "display_name": "Enchanted Ventures",
+    "technical_id": "0a53ef83-e3bc-4784-b6c4-652b50891e14"
+  },
+  "567deb89-a26d-418f-a1cb-d9ca4d700dd7": {
+    "display_name": "Cosmic Group",
+    "technical_id": "567deb89-a26d-418f-a1cb-d9ca4d700dd7"
+  },
+  "c40b8049-5ac5-44b6-b249-e3af633bad97": {
+    "display_name": "Golden Enterprises",
+    "technical_id": "c40b8049-5ac5-44b6-b249-e3af633bad97"
+  },
+  "562a980c-0b5c-4dc9-a50b-8114c7206bf3": {
+    "display_name": "Cosmic Innovations",
+    "technical_id": "562a980c-0b5c-4dc9-a50b-8114c7206bf3"
+  },
+  "f787bac1-283b-4ecc-bc9d-d79e0415abb3": {
+    "display_name": "Whispering Enterprises",
+    "technical_id": "f787bac1-283b-4ecc-bc9d-d79e0415abb3"
+  },
+  "fbe06c1b-3995-4053-8413-d54bfc25cc38": {
+    "display_name": "Cosmic Innovations",
+    "technical_id": "fbe06c1b-3995-4053-8413-d54bfc25cc38"
+  },
+  "12e5b94f-197e-4d09-af68-951e56fb970a": {
+    "display_name": "Crimson Solutions",
+    "technical_id": "12e5b94f-197e-4d09-af68-951e56fb970a"
+  },
+  "d812bf02-0f99-482d-81e5-589dfe5a546c": {
+    "display_name": "Whispering Horizons",
+    "technical_id": "d812bf02-0f99-482d-81e5-589dfe5a546c"
+  },
+  "6275d5a7-133a-49c1-a96c-322aef75ea1a": {
+    "display_name": "Mystic Pinnacle",
+    "technical_id": "6275d5a7-133a-49c1-a96c-322aef75ea1a"
+  },
+  "2248553c-ff4c-4126-b386-0985e68614d2": {
+    "display_name": "Sunrise Solutions",
+    "technical_id": "2248553c-ff4c-4126-b386-0985e68614d2"
+  },
+  "1d7aebce-81f6-4a6d-8372-ecb87aec9425": {
+    "display_name": "Cosmic Pinnacle",
+    "technical_id": "1d7aebce-81f6-4a6d-8372-ecb87aec9425"
+  },
+  "8dfcb706-5596-4c18-af3e-0803904e3d72": {
+    "display_name": "Crimson Dynamics",
+    "technical_id": "8dfcb706-5596-4c18-af3e-0803904e3d72"
+  },
+  "01509948-da10-42d2-9715-4d7a4f93bba9": {
+    "display_name": "Sunrise Enterprises",
+    "technical_id": "01509948-da10-42d2-9715-4d7a4f93bba9"
+  },
+  "0080006c-6723-4c5e-9e0e-43fee2ac6f39": {
+    "display_name": "Midnight Dynamics",
+    "technical_id": "0080006c-6723-4c5e-9e0e-43fee2ac6f39"
+  },
+  "ff2b3af2-d394-4183-b0bc-df9beb9bf0ff": {
+    "display_name": "Whispering Dynamics",
+    "technical_id": "ff2b3af2-d394-4183-b0bc-df9beb9bf0ff"
+  },
+  "18669339-e8d2-4e2f-ac7c-967a5da46576": {
+    "display_name": "Golden Innovations",
+    "technical_id": "18669339-e8d2-4e2f-ac7c-967a5da46576"
+  },
+  "c082835b-ed20-40a1-bbc8-8cd59d2f701f": {
+    "display_name": "Sunrise Group",
+    "technical_id": "c082835b-ed20-40a1-bbc8-8cd59d2f701f"
+  },
+  "ec0c52f6-fb93-4b33-9dc2-76b9febdb76f": {
+    "display_name": "Cosmic Emporium",
+    "technical_id": "ec0c52f6-fb93-4b33-9dc2-76b9febdb76f"
+  },
+  "2087e87e-92c8-434e-81c3-1f0c02c2d9e2": {
+    "display_name": "Whispering Solutions",
+    "technical_id": "2087e87e-92c8-434e-81c3-1f0c02c2d9e2"
+  },
+  "82203a95-7599-4235-b010-3e1a94a8d3f1": {
+    "display_name": "Golden Enterprises",
+    "technical_id": "82203a95-7599-4235-b010-3e1a94a8d3f1"
+  },
+  "7503093c-b631-4993-b73d-3f7eb75a7573": {
+    "display_name": "Enchanted Innovations",
+    "technical_id": "7503093c-b631-4993-b73d-3f7eb75a7573"
+  },
+  "f7e6b6ea-3122-439c-8dee-860e68ae9d1c": {
+    "display_name": "Midnight Enterprises",
+    "technical_id": "f7e6b6ea-3122-439c-8dee-860e68ae9d1c"
+  },
+  "7c3f1c43-c91b-4ff2-afc4-637d4b23ea0f": {
+    "display_name": "Golden Collective",
+    "technical_id": "7c3f1c43-c91b-4ff2-afc4-637d4b23ea0f"
+  },
+  "a33df9a4-1e46-4a95-9d82-0261b80c5f7b": {
+    "display_name": "Mystic Innovations",
+    "technical_id": "a33df9a4-1e46-4a95-9d82-0261b80c5f7b"
+  },
+  "70a96b51-a866-49f1-900c-c7721dba7372": {
+    "display_name": "Whispering Collective",
+    "technical_id": "70a96b51-a866-49f1-900c-c7721dba7372"
+  },
+  "a346fc27-17b3-4d5e-9a27-155936bf31fd": {
+    "display_name": "Azure Collective",
+    "technical_id": "a346fc27-17b3-4d5e-9a27-155936bf31fd"
+  },
+  "9ede2519-728f-425d-be9d-bce0f9408a91": {
+    "display_name": "Crystal Solutions",
+    "technical_id": "9ede2519-728f-425d-be9d-bce0f9408a91"
+  },
+  "e8740c9b-b6b0-4f6e-aed6-493e542e1387": {
+    "display_name": "Enchanted Collective",
+    "technical_id": "e8740c9b-b6b0-4f6e-aed6-493e542e1387"
+  },
+  "9d56986b-39b8-4fb1-a8c2-65a3d9d01f5d": {
+    "display_name": "Midnight Enterprises",
+    "technical_id": "9d56986b-39b8-4fb1-a8c2-65a3d9d01f5d"
+  },
+  "efc2a285-726d-403a-a97a-2f0a50dfccbf": {
+    "display_name": "Crystal Ventures",
+    "technical_id": "efc2a285-726d-403a-a97a-2f0a50dfccbf"
+  },
+  "1f1b6936-cd98-46a3-9971-7cfc2843e9cc": {
+    "display_name": "Midnight Enterprises",
+    "technical_id": "1f1b6936-cd98-46a3-9971-7cfc2843e9cc"
+  },
+  "12e59014-2f73-48e3-9dbf-5e050ad1aec7": {
+    "display_name": "Whispering Innovations",
+    "technical_id": "12e59014-2f73-48e3-9dbf-5e050ad1aec7"
+  },
+  "0147c4f5-0d62-4cd0-b230-d860073a1978": {
+    "display_name": "Sunrise Innovations",
+    "technical_id": "0147c4f5-0d62-4cd0-b230-d860073a1978"
+  },
+  "b727e396-88e5-4d6d-b0d0-a94d137f8bc7": {
+    "display_name": "Mystic Emporium",
+    "technical_id": "b727e396-88e5-4d6d-b0d0-a94d137f8bc7"
+  },
+  "c90b3e5b-f6d6-4e55-bebd-9d935d5143fc": {
+    "display_name": "Sunrise Emporium",
+    "technical_id": "c90b3e5b-f6d6-4e55-bebd-9d935d5143fc"
+  },
+  "be94de15-c239-442b-95ad-8ca5281c1299": {
+    "display_name": "Midnight Horizons",
+    "technical_id": "be94de15-c239-442b-95ad-8ca5281c1299"
+  },
+  "dd797f22-c34b-4eba-adf7-5335abf85c81": {
+    "display_name": "Crimson Emporium",
+    "technical_id": "dd797f22-c34b-4eba-adf7-5335abf85c81"
+  },
+  "172906de-1fe0-4e0d-9e10-d48d02cb9d95": {
+    "display_name": "Mystic Group",
+    "technical_id": "172906de-1fe0-4e0d-9e10-d48d02cb9d95"
+  },
+  "b90ecb27-fbd4-4c44-b193-8d636f359ee8": {
+    "display_name": "Crystal Ventures",
+    "technical_id": "b90ecb27-fbd4-4c44-b193-8d636f359ee8"
+  },
+  "d9f74234-f66b-474f-b31c-4023ddc8c3e6": {
+    "display_name": "Crimson Pinnacle",
+    "technical_id": "d9f74234-f66b-474f-b31c-4023ddc8c3e6"
+  },
+  "7117cf1b-c4db-4a69-8b89-63b568af8b7a": {
+    "display_name": "Enchanted Solutions",
+    "technical_id": "7117cf1b-c4db-4a69-8b89-63b568af8b7a"
+  },
+  "580199af-1381-4494-9c9a-877bf1f7e124": {
+    "display_name": "Crystal Horizons",
+    "technical_id": "580199af-1381-4494-9c9a-877bf1f7e124"
+  },
+  "e7cf5a9b-b441-437a-8aae-e8347f9dac65": {
+    "display_name": "Mystic Emporium",
+    "technical_id": "e7cf5a9b-b441-437a-8aae-e8347f9dac65"
+  },
+  "bd42680c-d81d-44d1-9b67-aefdd62aeb33": {
+    "display_name": "Golden Ventures",
+    "technical_id": "bd42680c-d81d-44d1-9b67-aefdd62aeb33"
+  },
+  "19128eb8-a6f3-4b43-bcdb-d034ae966ab3": {
+    "display_name": "Crystal Pinnacle",
+    "technical_id": "19128eb8-a6f3-4b43-bcdb-d034ae966ab3"
+  },
+  "e0912c5f-834f-4ff2-9a33-63330d2f139b": {
+    "display_name": "Crystal Ventures",
+    "technical_id": "e0912c5f-834f-4ff2-9a33-63330d2f139b"
+  },
+  "ce6d22c0-2bde-4381-8ca5-4cf56c0e0db7": {
+    "display_name": "Enchanted Ventures",
+    "technical_id": "ce6d22c0-2bde-4381-8ca5-4cf56c0e0db7"
+  },
+  "6292df05-ed62-4f9c-b7a1-a9aec0b2342c": {
+    "display_name": "Crimson Horizons",
+    "technical_id": "6292df05-ed62-4f9c-b7a1-a9aec0b2342c"
+  },
+  "5a702f62-207f-4fcd-b240-236d4ff6c9e1": {
+    "display_name": "Crimson Dynamics",
+    "technical_id": "5a702f62-207f-4fcd-b240-236d4ff6c9e1"
+  },
+  "1cdfcab8-5cf1-42bf-9a76-96f767937c49": {
+    "display_name": "Sunrise Pinnacle",
+    "technical_id": "1cdfcab8-5cf1-42bf-9a76-96f767937c49"
+  },
+  "49424c46-78bf-4c59-a07a-0cd569c66a30": {
+    "display_name": "Cosmic Enterprises",
+    "technical_id": "49424c46-78bf-4c59-a07a-0cd569c66a30"
+  },
+  "cc2a980d-1b90-44b2-aa0f-da2e06f029f9": {
+    "display_name": "Mystic Group",
+    "technical_id": "cc2a980d-1b90-44b2-aa0f-da2e06f029f9"
+  },
+  "51c3d323-e59d-4861-9160-52381a09534f": {
+    "display_name": "Azure Enterprises",
+    "technical_id": "51c3d323-e59d-4861-9160-52381a09534f"
+  },
+  "d88e5ea1-23d9-431e-9a7e-ec9592049e29": {
+    "display_name": "Golden Pinnacle",
+    "technical_id": "d88e5ea1-23d9-431e-9a7e-ec9592049e29"
+  },
+  "876fff9b-6e88-434d-a1b2-d61f4a481096": {
+    "display_name": "Crimson Enterprises",
+    "technical_id": "876fff9b-6e88-434d-a1b2-d61f4a481096"
+  },
+  "62818e08-6437-45ee-83cc-dfecd8e8a0f7": {
+    "display_name": "Midnight Ventures",
+    "technical_id": "62818e08-6437-45ee-83cc-dfecd8e8a0f7"
+  },
+  "d11ce7b9-1987-4367-8120-9aac33c6f747": {
+    "display_name": "Midnight Solutions",
+    "technical_id": "d11ce7b9-1987-4367-8120-9aac33c6f747"
+  },
+  "46839b6e-15b5-436a-ac3f-68feaf214587": {
+    "display_name": "Golden Emporium",
+    "technical_id": "46839b6e-15b5-436a-ac3f-68feaf214587"
+  },
+  "10406faf-659c-4e66-b8f8-80bd894878f9": {
+    "display_name": "Mystic Dynamics",
+    "technical_id": "10406faf-659c-4e66-b8f8-80bd894878f9"
+  },
+  "8cfc9af1-11df-49b1-9fd9-010368044bf4": {
+    "display_name": "Cosmic Enterprises",
+    "technical_id": "8cfc9af1-11df-49b1-9fd9-010368044bf4"
+  },
+  "a9a1c364-24d4-4ea9-a93d-8f4aae419356": {
+    "display_name": "Mystic Innovations",
+    "technical_id": "a9a1c364-24d4-4ea9-a93d-8f4aae419356"
+  },
+  "fdddb97b-161b-4726-8127-4c8733faffab": {
+    "display_name": "Whispering Innovations",
+    "technical_id": "fdddb97b-161b-4726-8127-4c8733faffab"
+  },
+  "8577bb71-bd74-45a0-adba-0134cb2791f7": {
+    "display_name": "Cosmic Group",
+    "technical_id": "8577bb71-bd74-45a0-adba-0134cb2791f7"
+  },
+  "6ed37cb2-1dc2-45de-90a9-59f44b403817": {
+    "display_name": "Azure Dynamics",
+    "technical_id": "6ed37cb2-1dc2-45de-90a9-59f44b403817"
+  },
+  "b8997c0b-62e4-4332-a393-cf03f66d67ce": {
+    "display_name": "Cosmic Collective",
+    "technical_id": "b8997c0b-62e4-4332-a393-cf03f66d67ce"
+  },
+  "5c11bcc5-22e5-493e-acf8-94693f8fe8b1": {
+    "display_name": "Golden Innovations",
+    "technical_id": "5c11bcc5-22e5-493e-acf8-94693f8fe8b1"
+  },
+  "c38a824a-d0e6-4fa1-aadc-e389809b3068": {
+    "display_name": "Whispering Solutions",
+    "technical_id": "c38a824a-d0e6-4fa1-aadc-e389809b3068"
+  },
+  "07c9cda0-172b-4057-80c9-9d09aafc6ee4": {
+    "display_name": "Whispering Solutions",
+    "technical_id": "07c9cda0-172b-4057-80c9-9d09aafc6ee4"
+  },
+  "6a0f20b6-0e49-4626-b64d-2b1c7512d927": {
+    "display_name": "Mystic Solutions",
+    "technical_id": "6a0f20b6-0e49-4626-b64d-2b1c7512d927"
+  },
+  "24192668-1d3a-4d58-9ab2-4a849e34e47a": {
+    "display_name": "Mystic Group",
+    "technical_id": "24192668-1d3a-4d58-9ab2-4a849e34e47a"
+  },
+  "bc4d6f5c-edee-4d6d-8c2b-a50396df068d": {
+    "display_name": "Whispering Dynamics",
+    "technical_id": "bc4d6f5c-edee-4d6d-8c2b-a50396df068d"
+  },
+  "15db9a5f-93b3-4d4c-a8ca-70d7cc3adc9c": {
+    "display_name": "Azure Horizons",
+    "technical_id": "15db9a5f-93b3-4d4c-a8ca-70d7cc3adc9c"
+  },
+  "0a37cc68-173b-42db-a9ca-54f2b7d87e93": {
+    "display_name": "Crystal Group",
+    "technical_id": "0a37cc68-173b-42db-a9ca-54f2b7d87e93"
+  },
+  "1f53efdb-7a49-4334-b199-bb0f5fdc3617": {
+    "display_name": "Enchanted Innovations",
+    "technical_id": "1f53efdb-7a49-4334-b199-bb0f5fdc3617"
+  },
+  "273eea04-7c1b-4ef4-8d6f-890a28e06d5c": {
+    "display_name": "Golden Pinnacle",
+    "technical_id": "273eea04-7c1b-4ef4-8d6f-890a28e06d5c"
+  },
+  "ebc397ec-ec2b-4714-bb96-a85b209889f5": {
+    "display_name": "Mystic Emporium",
+    "technical_id": "ebc397ec-ec2b-4714-bb96-a85b209889f5"
+  },
+  "c74d2495-5c78-4215-abba-64aeb36fccd4": {
+    "display_name": "Azure Pinnacle",
+    "technical_id": "c74d2495-5c78-4215-abba-64aeb36fccd4"
+  },
+  "8f32711f-947a-4da6-82dd-c5f8a937198e": {
+    "display_name": "Cosmic Horizons",
+    "technical_id": "8f32711f-947a-4da6-82dd-c5f8a937198e"
+  },
+  "644bf46b-716f-4965-ac81-453bad919f69": {
+    "display_name": "Cosmic Enterprises",
+    "technical_id": "644bf46b-716f-4965-ac81-453bad919f69"
+  },
+  "b8b98bba-d1b2-4848-a4af-5fc49e3e5acc": {
+    "display_name": "Mystic Collective",
+    "technical_id": "b8b98bba-d1b2-4848-a4af-5fc49e3e5acc"
+  },
+  "6fca9013-9a50-4531-90b5-57b86dfe9f8f": {
+    "display_name": "Mystic Dynamics",
+    "technical_id": "6fca9013-9a50-4531-90b5-57b86dfe9f8f"
+  },
+  "1c2ccd03-25c1-4c29-a7d6-5eda50e3e1c1": {
+    "display_name": "Whispering Horizons",
+    "technical_id": "1c2ccd03-25c1-4c29-a7d6-5eda50e3e1c1"
+  },
+  "3cb048ee-bcf9-42fa-b819-c1fbe0af1f69": {
+    "display_name": "Sunrise Pinnacle",
+    "technical_id": "3cb048ee-bcf9-42fa-b819-c1fbe0af1f69"
+  },
+  "c2d5ac42-4c9f-42fa-9d9f-89ba08b4d6e9": {
+    "display_name": "Midnight Pinnacle",
+    "technical_id": "c2d5ac42-4c9f-42fa-9d9f-89ba08b4d6e9"
+  },
+  "a6a8e2ba-704a-42cc-87c0-017135c81385": {
+    "display_name": "Enchanted Solutions",
+    "technical_id": "a6a8e2ba-704a-42cc-87c0-017135c81385"
+  },
+  "fdd65414-bb88-46fa-902a-29e44edbf04a": {
+    "display_name": "Sunrise Emporium",
+    "technical_id": "fdd65414-bb88-46fa-902a-29e44edbf04a"
+  },
+  "44cf4619-8e74-4b95-b027-57825273027a": {
+    "display_name": "Sunrise Collective",
+    "technical_id": "44cf4619-8e74-4b95-b027-57825273027a"
+  },
+  "a9fd7f36-5728-44fe-b999-e470794387a7": {
+    "display_name": "Mystic Enterprises",
+    "technical_id": "a9fd7f36-5728-44fe-b999-e470794387a7"
+  },
+  "75e86b6f-52a2-427f-93d7-490b12ef6aaf": {
+    "display_name": "Cosmic Horizons",
+    "technical_id": "75e86b6f-52a2-427f-93d7-490b12ef6aaf"
+  },
+  "b002fd2a-0a51-48da-a1e2-12d2e93f6fc6": {
+    "display_name": "Azure Enterprises",
+    "technical_id": "b002fd2a-0a51-48da-a1e2-12d2e93f6fc6"
+  },
+  "6cf70964-3bb6-44a5-b314-10476aea18d0": {
+    "display_name": "Crystal Group",
+    "technical_id": "6cf70964-3bb6-44a5-b314-10476aea18d0"
+  },
+  "01375d74-d304-4647-8aed-59dfc2efe9fe": {
+    "display_name": "Mystic Solutions",
+    "technical_id": "01375d74-d304-4647-8aed-59dfc2efe9fe"
+  },
+  "547b5365-7ef8-4c44-b3b6-4b41332c4929": {
+    "display_name": "Golden Dynamics",
+    "technical_id": "547b5365-7ef8-4c44-b3b6-4b41332c4929"
+  },
+  "db3cfa25-fc18-4d83-ac48-4b10473de1cf": {
+    "display_name": "Mystic Group",
+    "technical_id": "db3cfa25-fc18-4d83-ac48-4b10473de1cf"
+  },
+  "281a2803-3329-4d6d-b11a-0f44dce405fc": {
+    "display_name": "Crimson Group",
+    "technical_id": "281a2803-3329-4d6d-b11a-0f44dce405fc"
+  },
+  "d56fd4cf-6a8b-4fe1-90e7-eb14180c0f4a": {
+    "display_name": "Sunrise Collective",
+    "technical_id": "d56fd4cf-6a8b-4fe1-90e7-eb14180c0f4a"
+  },
+  "254a78d4-d96a-4244-9ad8-d797b5263e8b": {
+    "display_name": "Golden Pinnacle",
+    "technical_id": "254a78d4-d96a-4244-9ad8-d797b5263e8b"
+  },
+  "292c5b3b-7a82-461e-9fa3-558a89472f50": {
+    "display_name": "Mystic Horizons",
+    "technical_id": "292c5b3b-7a82-461e-9fa3-558a89472f50"
+  },
+  "4ac4ff7f-4f10-4b50-b1a3-88379deeabdc": {
+    "display_name": "Azure Dynamics",
+    "technical_id": "4ac4ff7f-4f10-4b50-b1a3-88379deeabdc"
+  },
+  "760d408c-8c4e-45cb-b387-8e93adcd6900": {
+    "display_name": "Crimson Collective",
+    "technical_id": "760d408c-8c4e-45cb-b387-8e93adcd6900"
+  },
+  "a92c3921-783c-4a71-8e97-6cdb3ee09572": {
+    "display_name": "Crimson Ventures",
+    "technical_id": "a92c3921-783c-4a71-8e97-6cdb3ee09572"
+  },
+  "f63977ed-8122-4433-bbad-fc5ca112112c": {
+    "display_name": "Golden Solutions",
+    "technical_id": "f63977ed-8122-4433-bbad-fc5ca112112c"
+  },
+  "d1e4af52-418d-4491-8260-c9e71fd2cdfe": {
+    "display_name": "Mystic Collective",
+    "technical_id": "d1e4af52-418d-4491-8260-c9e71fd2cdfe"
+  },
+  "331c8aff-0916-4387-9cd0-cafdbc91709f": {
+    "display_name": "Enchanted Pinnacle",
+    "technical_id": "331c8aff-0916-4387-9cd0-cafdbc91709f"
+  },
+  "ccc94dc7-3567-49cc-bae9-a9636d427f4a": {
+    "display_name": "Midnight Emporium",
+    "technical_id": "ccc94dc7-3567-49cc-bae9-a9636d427f4a"
+  },
+  "b29483dc-92a1-4ccc-96d8-ef87d8fec992": {
+    "display_name": "Golden Group",
+    "technical_id": "b29483dc-92a1-4ccc-96d8-ef87d8fec992"
+  },
+  "f038a6e7-ea09-4ca0-b56c-525f3712d663": {
+    "display_name": "Sunrise Enterprises",
+    "technical_id": "f038a6e7-ea09-4ca0-b56c-525f3712d663"
+  },
+  "b4f874b5-5734-4f5a-8e98-b70b7411f178": {
+    "display_name": "Golden Innovations",
+    "technical_id": "b4f874b5-5734-4f5a-8e98-b70b7411f178"
+  },
+  "21252019-c704-4ac0-9951-a5ef744464a4": {
+    "display_name": "Cosmic Pinnacle",
+    "technical_id": "21252019-c704-4ac0-9951-a5ef744464a4"
+  },
+  "249b5ee3-95ab-4199-905d-ef8a2e78b8b1": {
+    "display_name": "Crimson Collective",
+    "technical_id": "249b5ee3-95ab-4199-905d-ef8a2e78b8b1"
+  },
+  "fd2d8ac1-68e9-45c0-95e8-9fc6b104855c": {
+    "display_name": "Whispering Pinnacle",
+    "technical_id": "fd2d8ac1-68e9-45c0-95e8-9fc6b104855c"
+  },
+  "d2744af7-35a4-4fe6-86d5-01f355afc9b5": {
+    "display_name": "Whispering Group",
+    "technical_id": "d2744af7-35a4-4fe6-86d5-01f355afc9b5"
+  },
+  "33889a6c-cc93-4e77-80e7-c41bba1e2fda": {
+    "display_name": "Mystic Collective",
+    "technical_id": "33889a6c-cc93-4e77-80e7-c41bba1e2fda"
+  },
+  "fea12832-df63-446d-9571-73c34570f4b5": {
+    "display_name": "Enchanted Horizons",
+    "technical_id": "fea12832-df63-446d-9571-73c34570f4b5"
+  },
+  "9891f64c-477d-48ac-b1e0-a01fbea2b55d": {
+    "display_name": "Cosmic Horizons",
+    "technical_id": "9891f64c-477d-48ac-b1e0-a01fbea2b55d"
+  },
+  "9c7c9bcb-dd39-40bc-b65a-dcf14ebc44db": {
+    "display_name": "Whispering Collective",
+    "technical_id": "9c7c9bcb-dd39-40bc-b65a-dcf14ebc44db"
+  },
+  "744781ed-bf00-42d4-8868-26c1e04f4c17": {
+    "display_name": "Crystal Horizons",
+    "technical_id": "744781ed-bf00-42d4-8868-26c1e04f4c17"
+  },
+  "d00c669b-6a83-4c07-98fc-34a4805afbee": {
+    "display_name": "Whispering Collective",
+    "technical_id": "d00c669b-6a83-4c07-98fc-34a4805afbee"
+  },
+  "c923bf38-26cf-4d45-be0a-c7a217981e76": {
+    "display_name": "Mystic Horizons",
+    "technical_id": "c923bf38-26cf-4d45-be0a-c7a217981e76"
+  },
+  "c7ae1a3b-88c3-48b2-8908-f53d5050fc3b": {
+    "display_name": "Cosmic Innovations",
+    "technical_id": "c7ae1a3b-88c3-48b2-8908-f53d5050fc3b"
+  },
+  "eb4c17de-6d66-4083-a2de-c18bd6353833": {
+    "display_name": "Golden Ventures",
+    "technical_id": "eb4c17de-6d66-4083-a2de-c18bd6353833"
+  },
+  "cab9f2da-7858-4d26-9b02-fac26204dd49": {
+    "display_name": "Whispering Pinnacle",
+    "technical_id": "cab9f2da-7858-4d26-9b02-fac26204dd49"
+  },
+  "beef4a1f-2d63-4e1c-be9a-463ac802c5c8": {
+    "display_name": "Cosmic Emporium",
+    "technical_id": "beef4a1f-2d63-4e1c-be9a-463ac802c5c8"
+  },
+  "c4d3e428-fdd5-402b-b35b-812e91593b18": {
+    "display_name": "Golden Group",
+    "technical_id": "c4d3e428-fdd5-402b-b35b-812e91593b18"
+  },
+  "e09f66e0-68df-42b8-a646-3ea012bf2b95": {
+    "display_name": "Mystic Pinnacle",
+    "technical_id": "e09f66e0-68df-42b8-a646-3ea012bf2b95"
+  },
+  "371b4b2a-4ec1-4f9e-a1c4-cb30eefff5ed": {
+    "display_name": "Sunrise Solutions",
+    "technical_id": "371b4b2a-4ec1-4f9e-a1c4-cb30eefff5ed"
+  },
+  "4942ea0e-5f0d-4ee1-8093-346fe6ea9444": {
+    "display_name": "Midnight Pinnacle",
+    "technical_id": "4942ea0e-5f0d-4ee1-8093-346fe6ea9444"
+  },
+  "e251484e-100b-4364-8497-f117a777ede8": {
+    "display_name": "Crystal Dynamics",
+    "technical_id": "e251484e-100b-4364-8497-f117a777ede8"
+  },
+  "9b19663b-222f-4944-81fc-6b4e62a59bb6": {
+    "display_name": "Sunrise Horizons",
+    "technical_id": "9b19663b-222f-4944-81fc-6b4e62a59bb6"
+  },
+  "e77ac003-7a2b-4277-b697-03083c923a3a": {
+    "display_name": "Azure Ventures",
+    "technical_id": "e77ac003-7a2b-4277-b697-03083c923a3a"
+  },
+  "27332aa7-826e-4f86-8874-f01f6ce72197": {
+    "display_name": "Cosmic Innovations",
+    "technical_id": "27332aa7-826e-4f86-8874-f01f6ce72197"
+  },
+  "6c6fac24-e5a6-45c9-8093-335b3c57878c": {
+    "display_name": "Enchanted Innovations",
+    "technical_id": "6c6fac24-e5a6-45c9-8093-335b3c57878c"
+  },
+  "973d485e-8c4b-4a96-b166-1478e3fb57cd": {
+    "display_name": "Whispering Group",
+    "technical_id": "973d485e-8c4b-4a96-b166-1478e3fb57cd"
+  },
+  "4494678b-2f6e-4754-85b5-e9cd9e189b60": {
+    "display_name": "Cosmic Enterprises",
+    "technical_id": "4494678b-2f6e-4754-85b5-e9cd9e189b60"
+  },
+  "141034fc-aae1-43f6-a2fd-f7c555031d1a": {
+    "display_name": "Midnight Pinnacle",
+    "technical_id": "141034fc-aae1-43f6-a2fd-f7c555031d1a"
+  },
+  "8d3726dd-c63a-4a8f-9ced-447263d8a40f": {
+    "display_name": "Enchanted Collective",
+    "technical_id": "8d3726dd-c63a-4a8f-9ced-447263d8a40f"
+  },
+  "85086cec-e2e5-4811-9052-ebd172708e08": {
+    "display_name": "Crystal Emporium",
+    "technical_id": "85086cec-e2e5-4811-9052-ebd172708e08"
+  },
+  "f64e3a04-837c-436e-abe9-20606322c4e3": {
+    "display_name": "Crimson Solutions",
+    "technical_id": "f64e3a04-837c-436e-abe9-20606322c4e3"
+  },
+  "ac22a854-cd0e-48d0-8b42-cb8edc5090d8": {
+    "display_name": "Golden Horizons",
+    "technical_id": "ac22a854-cd0e-48d0-8b42-cb8edc5090d8"
+  },
+  "492e17b0-74f0-4367-8591-fd7334665b6b": {
+    "display_name": "Sunrise Horizons",
+    "technical_id": "492e17b0-74f0-4367-8591-fd7334665b6b"
+  },
+  "0b1533bd-1b73-42e3-94ca-1b5550a29527": {
+    "display_name": "Cosmic Group",
+    "technical_id": "0b1533bd-1b73-42e3-94ca-1b5550a29527"
+  },
+  "da8f0e57-8975-4627-ae33-df142772f41a": {
+    "display_name": "Golden Ventures",
+    "technical_id": "da8f0e57-8975-4627-ae33-df142772f41a"
+  },
+  "f7108230-72de-47f4-a9fe-0a29b3fa29f4": {
+    "display_name": "Crimson Innovations",
+    "technical_id": "f7108230-72de-47f4-a9fe-0a29b3fa29f4"
+  },
+  "835c7c56-1b3e-4a03-bbee-48340757ba36": {
+    "display_name": "Midnight Emporium",
+    "technical_id": "835c7c56-1b3e-4a03-bbee-48340757ba36"
+  },
+  "059684be-3b4f-4aed-9779-57bcd48604e0": {
+    "display_name": "Cosmic Solutions",
+    "technical_id": "059684be-3b4f-4aed-9779-57bcd48604e0"
+  },
+  "16ef1000-f81a-435c-8480-a582829738ea": {
+    "display_name": "Whispering Innovations",
+    "technical_id": "16ef1000-f81a-435c-8480-a582829738ea"
+  },
+  "3e3fecc9-ebcc-4623-97f1-61fb5003c2bb": {
+    "display_name": "Mystic Emporium",
+    "technical_id": "3e3fecc9-ebcc-4623-97f1-61fb5003c2bb"
+  },
+  "d837087b-af28-4eb0-b950-1032bc7a1b32": {
+    "display_name": "Crystal Enterprises",
+    "technical_id": "d837087b-af28-4eb0-b950-1032bc7a1b32"
+  },
+  "402c3e4d-26ce-4d6f-9b4d-27095e806a79": {
+    "display_name": "Mystic Group",
+    "technical_id": "402c3e4d-26ce-4d6f-9b4d-27095e806a79"
+  },
+  "8b2ef16a-03d6-455e-a90b-5c1e2923dd42": {
+    "display_name": "Midnight Horizons",
+    "technical_id": "8b2ef16a-03d6-455e-a90b-5c1e2923dd42"
+  },
+  "a77d3565-3909-41f1-bab1-5276b202861d": {
+    "display_name": "Mystic Collective",
+    "technical_id": "a77d3565-3909-41f1-bab1-5276b202861d"
+  },
+  "73bfac18-1841-4964-8423-f672fa887fc4": {
+    "display_name": "Whispering Group",
+    "technical_id": "73bfac18-1841-4964-8423-f672fa887fc4"
+  },
+  "600ed4c8-a5b3-4692-992f-3bdf5f9a5b1a": {
+    "display_name": "Sunrise Group",
+    "technical_id": "600ed4c8-a5b3-4692-992f-3bdf5f9a5b1a"
+  },
+  "1e1b9a59-c456-4f18-9b74-d3832150c5fb": {
+    "display_name": "Midnight Solutions",
+    "technical_id": "1e1b9a59-c456-4f18-9b74-d3832150c5fb"
+  },
+  "c4e22861-0754-4f18-b5b6-eda9427ba350": {
+    "display_name": "Crystal Ventures",
+    "technical_id": "c4e22861-0754-4f18-b5b6-eda9427ba350"
+  },
+  "12553a6a-22ca-4f10-8b3c-fe9fa9670c8e": {
+    "display_name": "Whispering Solutions",
+    "technical_id": "12553a6a-22ca-4f10-8b3c-fe9fa9670c8e"
+  },
+  "46d0d346-9cfe-4fb6-bfe6-3a81bf02cdfc": {
+    "display_name": "Mystic Innovations",
+    "technical_id": "46d0d346-9cfe-4fb6-bfe6-3a81bf02cdfc"
+  },
+  "0dacf81d-22de-4809-b208-8d48e134b744": {
+    "display_name": "Crimson Solutions",
+    "technical_id": "0dacf81d-22de-4809-b208-8d48e134b744"
+  },
+  "588704bb-2239-49b5-b57f-246e88740536": {
+    "display_name": "Enchanted Dynamics",
+    "technical_id": "588704bb-2239-49b5-b57f-246e88740536"
+  },
+  "e9dfd073-5be1-44f9-b04f-c510d3ff3de7": {
+    "display_name": "Crystal Solutions",
+    "technical_id": "e9dfd073-5be1-44f9-b04f-c510d3ff3de7"
+  },
+  "23f9c11d-baa3-481c-bfe8-b50fefb93d33": {
+    "display_name": "Mystic Horizons",
+    "technical_id": "23f9c11d-baa3-481c-bfe8-b50fefb93d33"
+  },
+  "c00f7eba-3665-4c94-b8a5-fbc45aaf503c": {
+    "display_name": "Mystic Pinnacle",
+    "technical_id": "c00f7eba-3665-4c94-b8a5-fbc45aaf503c"
+  },
+  "baa83c7b-fdb5-443c-910b-9c647bff7c89": {
+    "display_name": "Whispering Ventures",
+    "technical_id": "baa83c7b-fdb5-443c-910b-9c647bff7c89"
+  },
+  "ad35f63d-aa5f-4c49-9622-c7b8de503409": {
+    "display_name": "Sunrise Innovations",
+    "technical_id": "ad35f63d-aa5f-4c49-9622-c7b8de503409"
+  },
+  "3843f5ae-be65-42e8-adb7-93d8d40e24d9": {
+    "display_name": "Crystal Solutions",
+    "technical_id": "3843f5ae-be65-42e8-adb7-93d8d40e24d9"
+  },
+  "19c2c552-94fe-4e67-b10a-7dff4966ea2f": {
+    "display_name": "Azure Ventures",
+    "technical_id": "19c2c552-94fe-4e67-b10a-7dff4966ea2f"
+  },
+  "2bd6c881-32cf-4720-813c-072267e82452": {
+    "display_name": "Midnight Enterprises",
+    "technical_id": "2bd6c881-32cf-4720-813c-072267e82452"
+  },
+  "e517a33b-3c22-424f-8070-9613e5a8ed50": {
+    "display_name": "Whispering Horizons",
+    "technical_id": "e517a33b-3c22-424f-8070-9613e5a8ed50"
+  },
+  "123f102d-f967-407c-993d-49f60e1acc4e": {
+    "display_name": "Mystic Pinnacle",
+    "technical_id": "123f102d-f967-407c-993d-49f60e1acc4e"
+  },
+  "bbb893e0-6b22-4df2-8185-c47bb85d89eb": {
+    "display_name": "Azure Enterprises",
+    "technical_id": "bbb893e0-6b22-4df2-8185-c47bb85d89eb"
+  },
+  "168bfde6-664b-42b9-859f-6233ce1eb30e": {
+    "display_name": "Mystic Ventures",
+    "technical_id": "168bfde6-664b-42b9-859f-6233ce1eb30e"
+  },
+  "facb2af1-32f8-4021-b3c4-0e387d007373": {
+    "display_name": "Azure Innovations",
+    "technical_id": "facb2af1-32f8-4021-b3c4-0e387d007373"
+  },
+  "050caa5a-f141-4585-b5fb-e3ba26cb15ec": {
+    "display_name": "Cosmic Enterprises",
+    "technical_id": "050caa5a-f141-4585-b5fb-e3ba26cb15ec"
+  },
+  "7fa34ec9-621f-4baf-8098-ba8b4da03ba4": {
+    "display_name": "Crimson Ventures",
+    "technical_id": "7fa34ec9-621f-4baf-8098-ba8b4da03ba4"
+  },
+  "41a18b79-097b-4ac9-b5be-df44e77453cb": {
+    "display_name": "Crystal Group",
+    "technical_id": "41a18b79-097b-4ac9-b5be-df44e77453cb"
+  },
+  "0a95c4be-8d0d-4915-9105-1717a97b0ba7": {
+    "display_name": "Sunrise Emporium",
+    "technical_id": "0a95c4be-8d0d-4915-9105-1717a97b0ba7"
+  },
+  "b7c55bd8-8ae8-4c82-a82d-eecfd6918212": {
+    "display_name": "Whispering Collective",
+    "technical_id": "b7c55bd8-8ae8-4c82-a82d-eecfd6918212"
+  },
+  "4097fff0-d8c2-4455-8940-ee7e836b575a": {
+    "display_name": "Sunrise Innovations",
+    "technical_id": "4097fff0-d8c2-4455-8940-ee7e836b575a"
+  },
+  "78cc32c8-e4d3-4334-a011-15adb5e3a9b5": {
+    "display_name": "Crystal Innovations",
+    "technical_id": "78cc32c8-e4d3-4334-a011-15adb5e3a9b5"
+  },
+  "906f4c71-2439-4b32-9804-973fc0b70379": {
+    "display_name": "Sunrise Group",
+    "technical_id": "906f4c71-2439-4b32-9804-973fc0b70379"
+  },
+  "7f08a57c-e4da-45ad-858b-176fb818d26d": {
+    "display_name": "Sunrise Solutions",
+    "technical_id": "7f08a57c-e4da-45ad-858b-176fb818d26d"
+  },
+  "d3e4ff9f-4074-426b-9569-be911e8b9dfd": {
+    "display_name": "Whispering Solutions",
+    "technical_id": "d3e4ff9f-4074-426b-9569-be911e8b9dfd"
+  },
+  "6a9b2b61-b93d-496f-b6c5-3cb91dcc0e3c": {
+    "display_name": "Cosmic Innovations",
+    "technical_id": "6a9b2b61-b93d-496f-b6c5-3cb91dcc0e3c"
+  },
+  "64eb699f-2d34-4b98-9b3f-f73913374c18": {
+    "display_name": "Mystic Collective",
+    "technical_id": "64eb699f-2d34-4b98-9b3f-f73913374c18"
+  },
+  "9369fcdc-6760-410f-ba58-ea93ecb07798": {
+    "display_name": "Midnight Collective",
+    "technical_id": "9369fcdc-6760-410f-ba58-ea93ecb07798"
+  },
+  "bdd3de8b-d98a-4d5d-8059-d17d3cd260fc": {
+    "display_name": "Enchanted Horizons",
+    "technical_id": "bdd3de8b-d98a-4d5d-8059-d17d3cd260fc"
+  },
+  "18573432-85d4-4384-a5e5-59015260fcbf": {
+    "display_name": "Midnight Emporium",
+    "technical_id": "18573432-85d4-4384-a5e5-59015260fcbf"
+  },
+  "06693db5-5245-4076-af69-6bb2e9f67a66": {
+    "display_name": "Midnight Solutions",
+    "technical_id": "06693db5-5245-4076-af69-6bb2e9f67a66"
+  },
+  "928efa59-9f60-44d1-8236-e6a0332b27e5": {
+    "display_name": "Enchanted Collective",
+    "technical_id": "928efa59-9f60-44d1-8236-e6a0332b27e5"
+  },
+  "c524aafc-f5b5-48e7-8813-c883384a30cb": {
+    "display_name": "Crimson Solutions",
+    "technical_id": "c524aafc-f5b5-48e7-8813-c883384a30cb"
+  },
+  "c2c1be65-c374-4856-af56-93faecbd9963": {
+    "display_name": "Enchanted Pinnacle",
+    "technical_id": "c2c1be65-c374-4856-af56-93faecbd9963"
+  },
+  "94facfd2-cda4-4c21-bf3f-b2400fdc4ca8": {
+    "display_name": "Crimson Enterprises",
+    "technical_id": "94facfd2-cda4-4c21-bf3f-b2400fdc4ca8"
+  },
+  "f654216d-6553-4353-bbc7-b7cd27534561": {
+    "display_name": "Golden Horizons",
+    "technical_id": "f654216d-6553-4353-bbc7-b7cd27534561"
+  },
+  "821a7f3c-5796-4d1c-9131-acba5de7c822": {
+    "display_name": "Cosmic Emporium",
+    "technical_id": "821a7f3c-5796-4d1c-9131-acba5de7c822"
+  },
+  "e3998c01-b113-4bca-bf0c-0d708a5aa7b3": {
+    "display_name": "Azure Horizons",
+    "technical_id": "e3998c01-b113-4bca-bf0c-0d708a5aa7b3"
+  },
+  "df359957-d06c-42de-9749-1aef34e455c4": {
+    "display_name": "Cosmic Ventures",
+    "technical_id": "df359957-d06c-42de-9749-1aef34e455c4"
+  },
+  "4fc9bf1c-4739-4f7b-84ce-f67e3511595c": {
+    "display_name": "Whispering Emporium",
+    "technical_id": "4fc9bf1c-4739-4f7b-84ce-f67e3511595c"
+  },
+  "ef0ceccd-5226-4b84-a7f8-8fe856ffdad7": {
+    "display_name": "Midnight Enterprises",
+    "technical_id": "ef0ceccd-5226-4b84-a7f8-8fe856ffdad7"
+  },
+  "5dff6dfe-7217-4b37-8f89-fdf9dc5f36e9": {
+    "display_name": "Crystal Group",
+    "technical_id": "5dff6dfe-7217-4b37-8f89-fdf9dc5f36e9"
+  },
+  "fc8dd70b-84bd-48bf-87e9-f4d491e52f6d": {
+    "display_name": "Sunrise Pinnacle",
+    "technical_id": "fc8dd70b-84bd-48bf-87e9-f4d491e52f6d"
+  },
+  "d52a57f3-9793-4e14-9c53-cd0e5230ce07": {
+    "display_name": "Crimson Innovations",
+    "technical_id": "d52a57f3-9793-4e14-9c53-cd0e5230ce07"
+  },
+  "62abc76c-afa0-4e76-a521-ebfe8168e651": {
+    "display_name": "Azure Ventures",
+    "technical_id": "62abc76c-afa0-4e76-a521-ebfe8168e651"
+  },
+  "756bb72d-e529-488c-a1bc-63dd4b1212b4": {
+    "display_name": "Crimson Innovations",
+    "technical_id": "756bb72d-e529-488c-a1bc-63dd4b1212b4"
+  },
+  "b6ef31b1-f2b7-42cb-8f1a-63b209105097": {
+    "display_name": "Mystic Emporium",
+    "technical_id": "b6ef31b1-f2b7-42cb-8f1a-63b209105097"
+  },
+  "d0b7ba5d-fdd0-4cd1-8c1e-6bfaca60c9f2": {
+    "display_name": "Golden Group",
+    "technical_id": "d0b7ba5d-fdd0-4cd1-8c1e-6bfaca60c9f2"
+  },
+  "2e62b92d-b6eb-4c5e-81b6-f4c9b5946e32": {
+    "display_name": "Enchanted Enterprises",
+    "technical_id": "2e62b92d-b6eb-4c5e-81b6-f4c9b5946e32"
+  },
+  "1f9c8c00-079a-4f6a-a6cd-c9c0c05bc4a7": {
+    "display_name": "Midnight Dynamics",
+    "technical_id": "1f9c8c00-079a-4f6a-a6cd-c9c0c05bc4a7"
+  },
+  "d0b1d41d-6ed4-4b1f-a272-8277154a893a": {
+    "display_name": "Crimson Innovations",
+    "technical_id": "d0b1d41d-6ed4-4b1f-a272-8277154a893a"
+  },
+  "4bab7196-1859-49f7-a743-a4e38d7e8924": {
+    "display_name": "Cosmic Ventures",
+    "technical_id": "4bab7196-1859-49f7-a743-a4e38d7e8924"
+  },
+  "375d7472-604a-4ecd-82d6-a59a27cd2f42": {
+    "display_name": "Crystal Emporium",
+    "technical_id": "375d7472-604a-4ecd-82d6-a59a27cd2f42"
+  },
+  "c9788af6-7697-4d5b-9596-3335e768311c": {
+    "display_name": "Azure Enterprises",
+    "technical_id": "c9788af6-7697-4d5b-9596-3335e768311c"
+  },
+  "e86a8aa3-cb98-4abd-93a1-d7385b2dacfe": {
+    "display_name": "Midnight Dynamics",
+    "technical_id": "e86a8aa3-cb98-4abd-93a1-d7385b2dacfe"
+  },
+  "932245c1-c0ee-49c2-93e6-b3edb2ce3647": {
+    "display_name": "Mystic Ventures",
+    "technical_id": "932245c1-c0ee-49c2-93e6-b3edb2ce3647"
+  },
+  "6e7e4ff9-d6e7-45b5-b5f7-7a84f0d5d280": {
+    "display_name": "Whispering Emporium",
+    "technical_id": "6e7e4ff9-d6e7-45b5-b5f7-7a84f0d5d280"
+  },
+  "cbfc4d1a-d7c6-444c-be99-c4d8301adbbb": {
+    "display_name": "Mystic Ventures",
+    "technical_id": "cbfc4d1a-d7c6-444c-be99-c4d8301adbbb"
+  },
+  "f928d15f-9660-450b-b012-3e248de78b43": {
+    "display_name": "Enchanted Solutions",
+    "technical_id": "f928d15f-9660-450b-b012-3e248de78b43"
+  },
+  "72589a0e-3779-4918-8955-8efd91a13adb": {
+    "display_name": "Enchanted Collective",
+    "technical_id": "72589a0e-3779-4918-8955-8efd91a13adb"
+  },
+  "58e2438c-4690-49cd-906d-50b922d03355": {
+    "display_name": "Enchanted Innovations",
+    "technical_id": "58e2438c-4690-49cd-906d-50b922d03355"
+  },
+  "2e12b876-9a49-4e2f-9aa9-54978f5a8dc2": {
+    "display_name": "Azure Collective",
+    "technical_id": "2e12b876-9a49-4e2f-9aa9-54978f5a8dc2"
+  },
+  "b9b41aad-d93b-40a2-8f93-dbe6cc333728": {
+    "display_name": "Enchanted Horizons",
+    "technical_id": "b9b41aad-d93b-40a2-8f93-dbe6cc333728"
+  },
+  "a6f41e5d-26f4-488c-9aa8-8d0230c16c3f": {
+    "display_name": "Midnight Enterprises",
+    "technical_id": "a6f41e5d-26f4-488c-9aa8-8d0230c16c3f"
+  },
+  "0a34c299-5fad-47e6-9aea-fb2b1f64cfde": {
+    "display_name": "Azure Pinnacle",
+    "technical_id": "0a34c299-5fad-47e6-9aea-fb2b1f64cfde"
+  },
+  "b5d1b6cd-3fa4-4c36-a9af-d543cf1ae372": {
+    "display_name": "Cosmic Dynamics",
+    "technical_id": "b5d1b6cd-3fa4-4c36-a9af-d543cf1ae372"
+  },
+  "9c949fb9-b6ce-4cdc-b3b8-5a6f7f8a0185": {
+    "display_name": "Sunrise Dynamics",
+    "technical_id": "9c949fb9-b6ce-4cdc-b3b8-5a6f7f8a0185"
+  },
+  "7ab30f46-65b2-43db-9806-4f4973836388": {
+    "display_name": "Golden Emporium",
+    "technical_id": "7ab30f46-65b2-43db-9806-4f4973836388"
+  },
+  "d157572c-bd84-42a7-a5e5-b855c609c33a": {
+    "display_name": "Midnight Dynamics",
+    "technical_id": "d157572c-bd84-42a7-a5e5-b855c609c33a"
+  },
+  "38116c35-89a8-4c49-b433-e692bbaf00b5": {
+    "display_name": "Mystic Pinnacle",
+    "technical_id": "38116c35-89a8-4c49-b433-e692bbaf00b5"
+  },
+  "4bd03225-d2c2-4838-9e6e-1b2a0a804479": {
+    "display_name": "Crimson Innovations",
+    "technical_id": "4bd03225-d2c2-4838-9e6e-1b2a0a804479"
+  },
+  "3352ce8f-b28d-4074-8992-b2a437828748": {
+    "display_name": "Midnight Group",
+    "technical_id": "3352ce8f-b28d-4074-8992-b2a437828748"
+  },
+  "cfe7e860-c75d-4f34-9ead-ac8a0fb21587": {
+    "display_name": "Whispering Pinnacle",
+    "technical_id": "cfe7e860-c75d-4f34-9ead-ac8a0fb21587"
+  },
+  "9c71b495-a78f-4bf7-9179-db2abb442ec4": {
+    "display_name": "Midnight Pinnacle",
+    "technical_id": "9c71b495-a78f-4bf7-9179-db2abb442ec4"
+  },
+  "20545737-fb25-480c-8982-6c6b49d87d49": {
+    "display_name": "Midnight Innovations",
+    "technical_id": "20545737-fb25-480c-8982-6c6b49d87d49"
+  },
+  "8a326da5-e642-4517-90f3-e7320e4e097b": {
+    "display_name": "Whispering Pinnacle",
+    "technical_id": "8a326da5-e642-4517-90f3-e7320e4e097b"
+  },
+  "319147a7-2808-45b5-b784-fbd3c8c43c0c": {
+    "display_name": "Crystal Dynamics",
+    "technical_id": "319147a7-2808-45b5-b784-fbd3c8c43c0c"
+  },
+  "a7992a58-dab1-4ca5-bd99-5d1b7f18b23c": {
+    "display_name": "Cosmic Enterprises",
+    "technical_id": "a7992a58-dab1-4ca5-bd99-5d1b7f18b23c"
+  },
+  "9419b5df-0e7d-45ec-bf3a-34004b87a64f": {
+    "display_name": "Mystic Enterprises",
+    "technical_id": "9419b5df-0e7d-45ec-bf3a-34004b87a64f"
+  },
+  "095c01f0-c68f-4d22-a15c-1822364a5b76": {
+    "display_name": "Enchanted Solutions",
+    "technical_id": "095c01f0-c68f-4d22-a15c-1822364a5b76"
+  },
+  "e79d2697-4d00-4ea0-b5d6-00a535219dd2": {
+    "display_name": "Crimson Horizons",
+    "technical_id": "e79d2697-4d00-4ea0-b5d6-00a535219dd2"
+  },
+  "cdd897af-81a9-4fb4-ac33-d1334a7a9d38": {
+    "display_name": "Mystic Pinnacle",
+    "technical_id": "cdd897af-81a9-4fb4-ac33-d1334a7a9d38"
+  },
+  "ccef452f-3926-460f-b3c1-fac9b1c7d16c": {
+    "display_name": "Crimson Horizons",
+    "technical_id": "ccef452f-3926-460f-b3c1-fac9b1c7d16c"
+  },
+  "df1116d1-de1d-4ac8-85e5-f551e4017a74": {
+    "display_name": "Enchanted Enterprises",
+    "technical_id": "df1116d1-de1d-4ac8-85e5-f551e4017a74"
+  },
+  "b291b187-1736-4fac-bd53-0c2d3c262296": {
+    "display_name": "Golden Dynamics",
+    "technical_id": "b291b187-1736-4fac-bd53-0c2d3c262296"
+  },
+  "ea88274d-bd68-4c47-8a52-18ebdac4dacf": {
+    "display_name": "Cosmic Innovations",
+    "technical_id": "ea88274d-bd68-4c47-8a52-18ebdac4dacf"
+  },
+  "cdf7d81b-0f36-4cbd-896a-4b2578cc463f": {
+    "display_name": "Golden Horizons",
+    "technical_id": "cdf7d81b-0f36-4cbd-896a-4b2578cc463f"
+  },
+  "6a5260a9-8d0c-4040-b69e-252ff6144601": {
+    "display_name": "Cosmic Dynamics",
+    "technical_id": "6a5260a9-8d0c-4040-b69e-252ff6144601"
+  },
+  "3238aab8-6a6b-4b9e-996f-ef4cc32c957e": {
+    "display_name": "Azure Innovations",
+    "technical_id": "3238aab8-6a6b-4b9e-996f-ef4cc32c957e"
+  },
+  "343d3e7b-132f-43de-93c8-1f516757a3ec": {
+    "display_name": "Sunrise Collective",
+    "technical_id": "343d3e7b-132f-43de-93c8-1f516757a3ec"
+  },
+  "571d9d9c-6cb2-4c98-84d0-8fab4ba904ff": {
+    "display_name": "Sunrise Pinnacle",
+    "technical_id": "571d9d9c-6cb2-4c98-84d0-8fab4ba904ff"
+  },
+  "669348aa-f2f5-4c2d-9cba-27855227dd09": {
+    "display_name": "Mystic Pinnacle",
+    "technical_id": "669348aa-f2f5-4c2d-9cba-27855227dd09"
+  },
+  "48260099-4445-4252-bb12-8eb5bab1c78f": {
+    "display_name": "Azure Pinnacle",
+    "technical_id": "48260099-4445-4252-bb12-8eb5bab1c78f"
+  },
+  "9df9f906-2dd4-4634-886f-ec011e464b02": {
+    "display_name": "Azure Ventures",
+    "technical_id": "9df9f906-2dd4-4634-886f-ec011e464b02"
+  },
+  "78d52cee-5248-40c7-b124-27d548ee6ce8": {
+    "display_name": "Cosmic Dynamics",
+    "technical_id": "78d52cee-5248-40c7-b124-27d548ee6ce8"
+  },
+  "8c30d632-8251-4a31-ac5c-784c847c83a5": {
+    "display_name": "Whispering Emporium",
+    "technical_id": "8c30d632-8251-4a31-ac5c-784c847c83a5"
+  },
+  "95b07663-6395-4aec-8da8-718c792c8589": {
+    "display_name": "Golden Emporium",
+    "technical_id": "95b07663-6395-4aec-8da8-718c792c8589"
+  },
+  "a10ed0ed-f0c3-4135-a2db-c304c14281cc": {
+    "display_name": "Azure Innovations",
+    "technical_id": "a10ed0ed-f0c3-4135-a2db-c304c14281cc"
+  },
+  "24b0f1b7-8824-4fdb-b14e-5c8efcfe8373": {
+    "display_name": "Sunrise Group",
+    "technical_id": "24b0f1b7-8824-4fdb-b14e-5c8efcfe8373"
+  },
+  "05ede764-6bc8-4063-b43d-ad2a12e9c1cf": {
+    "display_name": "Midnight Solutions",
+    "technical_id": "05ede764-6bc8-4063-b43d-ad2a12e9c1cf"
+  },
+  "522666a8-f93a-4f4b-8e03-6bb31a836e47": {
+    "display_name": "Whispering Innovations",
+    "technical_id": "522666a8-f93a-4f4b-8e03-6bb31a836e47"
+  },
+  "d8325e2d-c87c-43c8-9a1e-643b99d5dc09": {
+    "display_name": "Cosmic Innovations",
+    "technical_id": "d8325e2d-c87c-43c8-9a1e-643b99d5dc09"
+  },
+  "95e9f0ba-d5a5-4532-ae37-d4f7aed85937": {
+    "display_name": "Whispering Group",
+    "technical_id": "95e9f0ba-d5a5-4532-ae37-d4f7aed85937"
+  },
+  "3cdc57a0-c42e-4332-9c11-3f3ee7eae930": {
+    "display_name": "Crystal Enterprises",
+    "technical_id": "3cdc57a0-c42e-4332-9c11-3f3ee7eae930"
+  },
+  "7f813361-69d3-4c1c-abf2-e58b50356a89": {
+    "display_name": "Azure Group",
+    "technical_id": "7f813361-69d3-4c1c-abf2-e58b50356a89"
+  },
+  "02985156-21af-45ca-b15c-473fad8e3ea8": {
+    "display_name": "Crystal Ventures",
+    "technical_id": "02985156-21af-45ca-b15c-473fad8e3ea8"
+  },
+  "4e2240ca-0e50-4f78-a4aa-9d57631540e0": {
+    "display_name": "Sunrise Ventures",
+    "technical_id": "4e2240ca-0e50-4f78-a4aa-9d57631540e0"
+  },
+  "4f609139-f5a2-4e8c-a2f4-a41f71210291": {
+    "display_name": "Sunrise Collective",
+    "technical_id": "4f609139-f5a2-4e8c-a2f4-a41f71210291"
+  },
+  "0a33e204-4084-430b-8849-a4c963c68ba5": {
+    "display_name": "Crimson Enterprises",
+    "technical_id": "0a33e204-4084-430b-8849-a4c963c68ba5"
+  },
+  "c94697f5-65bb-4d6a-bc9a-4237ac44add1": {
+    "display_name": "Enchanted Innovations",
+    "technical_id": "c94697f5-65bb-4d6a-bc9a-4237ac44add1"
+  },
+  "bf6a1cfd-c6c9-4c4f-af75-1949a78131b7": {
+    "display_name": "Sunrise Group",
+    "technical_id": "bf6a1cfd-c6c9-4c4f-af75-1949a78131b7"
+  },
+  "84b1e525-a4db-48a4-aca6-bb0bc7d89f5a": {
+    "display_name": "Mystic Horizons",
+    "technical_id": "84b1e525-a4db-48a4-aca6-bb0bc7d89f5a"
+  },
+  "66109658-d85e-4c21-b86e-f3abb9b0b09f": {
+    "display_name": "Crimson Dynamics",
+    "technical_id": "66109658-d85e-4c21-b86e-f3abb9b0b09f"
+  },
+  "29476e89-e7d2-435b-8280-336e234c3646": {
+    "display_name": "Enchanted Horizons",
+    "technical_id": "29476e89-e7d2-435b-8280-336e234c3646"
+  },
+  "b92f369f-b4ea-43ec-a1b7-342475e7cd6f": {
+    "display_name": "Mystic Ventures",
+    "technical_id": "b92f369f-b4ea-43ec-a1b7-342475e7cd6f"
+  },
+  "19f8d1de-ddc5-4cce-8a00-894ebbb68115": {
+    "display_name": "Azure Solutions",
+    "technical_id": "19f8d1de-ddc5-4cce-8a00-894ebbb68115"
+  },
+  "7e544d9f-e74a-4489-bdb4-77df55b0cba4": {
+    "display_name": "Golden Horizons",
+    "technical_id": "7e544d9f-e74a-4489-bdb4-77df55b0cba4"
+  },
+  "20555099-a5e2-4f96-ad98-001dbd2ee193": {
+    "display_name": "Golden Pinnacle",
+    "technical_id": "20555099-a5e2-4f96-ad98-001dbd2ee193"
+  },
+  "be9a5590-e210-4712-9f6f-3aa1b5d8a333": {
+    "display_name": "Golden Ventures",
+    "technical_id": "be9a5590-e210-4712-9f6f-3aa1b5d8a333"
+  },
+  "910f4161-b5ad-44ec-866f-a88817a2768a": {
+    "display_name": "Enchanted Dynamics",
+    "technical_id": "910f4161-b5ad-44ec-866f-a88817a2768a"
+  },
+  "4ca21aa3-ae82-4136-8df0-b938240e9528": {
+    "display_name": "Crystal Ventures",
+    "technical_id": "4ca21aa3-ae82-4136-8df0-b938240e9528"
+  },
+  "1123180d-ce08-4323-9e9e-7a6f480a6768": {
+    "display_name": "Azure Dynamics",
+    "technical_id": "1123180d-ce08-4323-9e9e-7a6f480a6768"
+  },
+  "99f4b9bc-fe40-4fae-bfc0-bab56c0a594a": {
+    "display_name": "Whispering Ventures",
+    "technical_id": "99f4b9bc-fe40-4fae-bfc0-bab56c0a594a"
+  },
+  "1c55c4c4-2393-491c-8c30-472ad390e551": {
+    "display_name": "Cosmic Pinnacle",
+    "technical_id": "1c55c4c4-2393-491c-8c30-472ad390e551"
+  },
+  "42c1ac89-2b88-417e-8a3f-cf673abe8cf3": {
+    "display_name": "Cosmic Horizons",
+    "technical_id": "42c1ac89-2b88-417e-8a3f-cf673abe8cf3"
+  },
+  "deb72aa7-ea08-435b-bed7-496c7cf54ae3": {
+    "display_name": "Midnight Ventures",
+    "technical_id": "deb72aa7-ea08-435b-bed7-496c7cf54ae3"
+  },
+  "d0abefe4-beac-41f4-b160-4590e8bd80b5": {
+    "display_name": "Golden Solutions",
+    "technical_id": "d0abefe4-beac-41f4-b160-4590e8bd80b5"
+  },
+  "8b5d2995-76f9-47de-a386-73788400635c": {
+    "display_name": "Crimson Dynamics",
+    "technical_id": "8b5d2995-76f9-47de-a386-73788400635c"
+  },
+  "41d53c4f-1be5-4179-adbb-07188252844b": {
+    "display_name": "Crystal Emporium",
+    "technical_id": "41d53c4f-1be5-4179-adbb-07188252844b"
+  },
+  "ff6d0b50-9dda-4ff1-add2-039f3d9104c8": {
+    "display_name": "Azure Innovations",
+    "technical_id": "ff6d0b50-9dda-4ff1-add2-039f3d9104c8"
+  },
+  "494feaef-4ae5-49da-8577-c6b56c0835f6": {
+    "display_name": "Crystal Innovations",
+    "technical_id": "494feaef-4ae5-49da-8577-c6b56c0835f6"
+  },
+  "7b9680ff-3f73-4e83-ba4e-8447da7fb4f2": {
+    "display_name": "Whispering Dynamics",
+    "technical_id": "7b9680ff-3f73-4e83-ba4e-8447da7fb4f2"
+  },
+  "94624689-9137-4b7e-969a-6f73c661141b": {
+    "display_name": "Mystic Solutions",
+    "technical_id": "94624689-9137-4b7e-969a-6f73c661141b"
+  },
+  "87cb8a12-f3df-4202-be8d-71fb0442f691": {
+    "display_name": "Crimson Innovations",
+    "technical_id": "87cb8a12-f3df-4202-be8d-71fb0442f691"
+  },
+  "45d7dfd7-873b-429a-9151-1ab884943083": {
+    "display_name": "Crystal Ventures",
+    "technical_id": "45d7dfd7-873b-429a-9151-1ab884943083"
+  },
+  "4d08ec3a-fb78-4ac4-9de5-229ac15b4d85": {
+    "display_name": "Midnight Group",
+    "technical_id": "4d08ec3a-fb78-4ac4-9de5-229ac15b4d85"
+  },
+  "e5661bee-a950-4a52-bbe2-94974cef3c71": {
+    "display_name": "Whispering Group",
+    "technical_id": "e5661bee-a950-4a52-bbe2-94974cef3c71"
+  },
+  "12ef38f2-ca71-4fc0-9917-df6097e4a61e": {
+    "display_name": "Enchanted Pinnacle",
+    "technical_id": "12ef38f2-ca71-4fc0-9917-df6097e4a61e"
+  },
+  "55b69894-d96b-423a-9f48-7ce7e30ffa6b": {
+    "display_name": "Golden Dynamics",
+    "technical_id": "55b69894-d96b-423a-9f48-7ce7e30ffa6b"
+  },
+  "36315d7d-0881-4742-8eff-1f45de83d290": {
+    "display_name": "Azure Solutions",
+    "technical_id": "36315d7d-0881-4742-8eff-1f45de83d290"
+  },
+  "03dbb1e1-c192-4906-b3b6-ad6cadf2d55e": {
+    "display_name": "Crimson Ventures",
+    "technical_id": "03dbb1e1-c192-4906-b3b6-ad6cadf2d55e"
+  },
+  "97d83b6a-2e0f-4380-9cf6-bac1016de170": {
+    "display_name": "Whispering Enterprises",
+    "technical_id": "97d83b6a-2e0f-4380-9cf6-bac1016de170"
+  },
+  "c3be7ac1-4ead-41ff-835f-7cf11f8da22d": {
+    "display_name": "Mystic Solutions",
+    "technical_id": "c3be7ac1-4ead-41ff-835f-7cf11f8da22d"
+  },
+  "e0c1b2f6-5c09-4b28-b902-e12d1718e2ca": {
+    "display_name": "Azure Dynamics",
+    "technical_id": "e0c1b2f6-5c09-4b28-b902-e12d1718e2ca"
+  },
+  "4a4aaf0b-f04d-4651-bf0d-f99005723bf4": {
+    "display_name": "Crimson Emporium",
+    "technical_id": "4a4aaf0b-f04d-4651-bf0d-f99005723bf4"
+  },
+  "be8163bf-66e9-4daf-b5ed-a1e14e0fa795": {
+    "display_name": "Whispering Solutions",
+    "technical_id": "be8163bf-66e9-4daf-b5ed-a1e14e0fa795"
+  },
+  "8b2b6070-ad7f-4ad6-8b32-79098b9fedcd": {
+    "display_name": "Enchanted Ventures",
+    "technical_id": "8b2b6070-ad7f-4ad6-8b32-79098b9fedcd"
+  },
+  "4670cf56-e40d-4702-b047-db9173a7d30a": {
+    "display_name": "Midnight Innovations",
+    "technical_id": "4670cf56-e40d-4702-b047-db9173a7d30a"
+  },
+  "bf63efdd-664d-421c-bc39-a32a61902ce3": {
+    "display_name": "Mystic Innovations",
+    "technical_id": "bf63efdd-664d-421c-bc39-a32a61902ce3"
+  },
+  "b4a2318b-f20d-4a17-9477-77d44c2b0f3c": {
+    "display_name": "Crimson Emporium",
+    "technical_id": "b4a2318b-f20d-4a17-9477-77d44c2b0f3c"
+  },
+  "484d596a-f1db-424a-a007-2222fffda152": {
+    "display_name": "Azure Innovations",
+    "technical_id": "484d596a-f1db-424a-a007-2222fffda152"
+  },
+  "249d9278-cb60-427e-88b0-5f572084bfa6": {
+    "display_name": "Azure Dynamics",
+    "technical_id": "249d9278-cb60-427e-88b0-5f572084bfa6"
+  },
+  "f898d52c-9379-40f9-b9c9-af5b8a011836": {
+    "display_name": "Sunrise Emporium",
+    "technical_id": "f898d52c-9379-40f9-b9c9-af5b8a011836"
+  },
+  "ec4c8a2b-d3df-4f48-a760-00894c3e5566": {
+    "display_name": "Crimson Ventures",
+    "technical_id": "ec4c8a2b-d3df-4f48-a760-00894c3e5566"
+  },
+  "145cecb1-b206-4c9d-85db-0f5638ae7933": {
+    "display_name": "Cosmic Emporium",
+    "technical_id": "145cecb1-b206-4c9d-85db-0f5638ae7933"
+  },
+  "24a633f9-a02d-444d-8e44-babffe69bda8": {
+    "display_name": "Enchanted Horizons",
+    "technical_id": "24a633f9-a02d-444d-8e44-babffe69bda8"
+  },
+  "eac4909d-fb8e-4077-98ed-c13d6a93c22f": {
+    "display_name": "Azure Ventures",
+    "technical_id": "eac4909d-fb8e-4077-98ed-c13d6a93c22f"
+  },
+  "083bd623-bbd0-4dba-bd1b-1c1172ff3af7": {
+    "display_name": "Enchanted Horizons",
+    "technical_id": "083bd623-bbd0-4dba-bd1b-1c1172ff3af7"
+  },
+  "c74bd9e5-2c36-4a2d-8de1-51c5f757b81e": {
+    "display_name": "Sunrise Enterprises",
+    "technical_id": "c74bd9e5-2c36-4a2d-8de1-51c5f757b81e"
+  },
+  "9615de36-fe22-462e-8b72-13fe83521463": {
+    "display_name": "Mystic Group",
+    "technical_id": "9615de36-fe22-462e-8b72-13fe83521463"
+  },
+  "d2592ef9-d1cd-408b-8221-3042b5884bb8": {
+    "display_name": "Sunrise Solutions",
+    "technical_id": "d2592ef9-d1cd-408b-8221-3042b5884bb8"
+  },
+  "03d52d5b-ea57-4ccc-906b-2fa0e095a263": {
+    "display_name": "Mystic Enterprises",
+    "technical_id": "03d52d5b-ea57-4ccc-906b-2fa0e095a263"
+  },
+  "52df2d2a-eda4-4cea-9eb7-9fa4b153b36a": {
+    "display_name": "Crystal Horizons",
+    "technical_id": "52df2d2a-eda4-4cea-9eb7-9fa4b153b36a"
+  },
+  "85ff4877-a083-491e-9d09-f209d07c0ed5": {
+    "display_name": "Crimson Ventures",
+    "technical_id": "85ff4877-a083-491e-9d09-f209d07c0ed5"
+  },
+  "b4d585bb-de91-43ef-9699-43b28105584a": {
+    "display_name": "Cosmic Emporium",
+    "technical_id": "b4d585bb-de91-43ef-9699-43b28105584a"
+  },
+  "62e4fdd9-2be7-469a-96d6-074d11efbfd5": {
+    "display_name": "Whispering Emporium",
+    "technical_id": "62e4fdd9-2be7-469a-96d6-074d11efbfd5"
+  },
+  "0e36e4d9-0795-4faa-a4db-a7b712d7ee2a": {
+    "display_name": "Mystic Group",
+    "technical_id": "0e36e4d9-0795-4faa-a4db-a7b712d7ee2a"
+  },
+  "d7ed88d5-0946-4b60-b581-a3c14d26df4d": {
+    "display_name": "Crystal Solutions",
+    "technical_id": "d7ed88d5-0946-4b60-b581-a3c14d26df4d"
+  },
+  "6c76a618-58ee-49b6-ac15-620a57daca5a": {
+    "display_name": "Sunrise Collective",
+    "technical_id": "6c76a618-58ee-49b6-ac15-620a57daca5a"
+  },
+  "63a7abab-d073-4e08-97e8-96f929d125c6": {
+    "display_name": "Azure Collective",
+    "technical_id": "63a7abab-d073-4e08-97e8-96f929d125c6"
+  },
+  "12bcec3d-d849-4632-808c-0406cea87643": {
+    "display_name": "Crystal Collective",
+    "technical_id": "12bcec3d-d849-4632-808c-0406cea87643"
+  },
+  "84f9c74c-7209-4278-aa3f-62e06867fe41": {
+    "display_name": "Midnight Enterprises",
+    "technical_id": "84f9c74c-7209-4278-aa3f-62e06867fe41"
+  },
+  "eb11766f-b154-4a69-8151-1f461b01c60c": {
+    "display_name": "Cosmic Dynamics",
+    "technical_id": "eb11766f-b154-4a69-8151-1f461b01c60c"
   }
 }
