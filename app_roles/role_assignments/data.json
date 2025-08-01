@@ -1,17 +1,7 @@
 {
-  "INTERNAL_ARTICLE_REVIEWER": {
-    "humans": {
-      "5ba2cdf4-9fb1-11ee-a951-02f259015d0a": {}
-    }
-  },
   "INTERNAL_SUPER_ADMIN": {
     "humans": {
       "2b098164-2777-11ee-9d3a-02f259015d0a": {}
-    }
-  },
-  "INTERNAL_SUPPORT": {
-    "humans": {
-      "9d4701dd-b8d6-11ee-a951-02f259015d0a": {}
     }
   }
 }
