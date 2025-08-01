@@ -2,5 +2,601 @@
   "library.books.read": {
     "display_name": "Library Books (Read)",
     "technical_id": "library.books.read"
+  },
+  "refunds.logs.items.read": {
+    "display_name": "Refunds Logs Items Read",
+    "technical_id": "refunds.logs.items.read"
+  },
+  "orders.images.status.write": {
+    "display_name": "Orders Images Status Write",
+    "technical_id": "orders.images.status.write"
+  },
+  "promotions.details.items.analytics.read": {
+    "display_name": "Promotions Details Items Analytics Read",
+    "technical_id": "promotions.details.items.analytics.read"
+  },
+  "inventory.permissions.permissions.read": {
+    "display_name": "Inventory Permissions Permissions Read",
+    "technical_id": "inventory.permissions.permissions.read"
+  },
+  "invoices.logs.events.notifications.read": {
+    "display_name": "Invoices Logs Events Notifications Read",
+    "technical_id": "invoices.logs.events.notifications.read"
+  },
+  "reviews.settings.access.read": {
+    "display_name": "Reviews Settings Access Read",
+    "technical_id": "reviews.settings.access.read"
+  },
+  "shipments.alerts.alerts.events.write": {
+    "display_name": "Shipments Alerts Alerts Events Write",
+    "technical_id": "shipments.alerts.alerts.events.write"
+  },
+  "users.summary.settings.status.write": {
+    "display_name": "Users Summary Settings Status Write",
+    "technical_id": "users.summary.settings.status.write"
+  },
+  "customers.notifications.details.settings.write": {
+    "display_name": "Customers Notifications Details Settings Write",
+    "technical_id": "customers.notifications.details.settings.write"
+  },
+  "shipments.history.permissions.write": {
+    "display_name": "Shipments History Permissions Write",
+    "technical_id": "shipments.history.permissions.write"
+  },
+  "users.items.write": {
+    "display_name": "Users Items Write",
+    "technical_id": "users.items.write"
+  },
+  "refunds.notifications.items.read": {
+    "display_name": "Refunds Notifications Items Read",
+    "technical_id": "refunds.notifications.items.read"
+  },
+  "warehouses.notes.permissions.permissions.write": {
+    "display_name": "Warehouses Notes Permissions Permissions Write",
+    "technical_id": "warehouses.notes.permissions.permissions.write"
+  },
+  "refunds.alerts.write": {
+    "display_name": "Refunds Alerts Write",
+    "technical_id": "refunds.alerts.write"
+  },
+  "warehouses.status.notes.summary.read": {
+    "display_name": "Warehouses Status Notes Summary Read",
+    "technical_id": "warehouses.status.notes.summary.read"
+  },
+  "shipments.status.permissions.events.write": {
+    "display_name": "Shipments Status Permissions Events Write",
+    "technical_id": "shipments.status.permissions.events.write"
+  },
+  "inventory.analytics.write": {
+    "display_name": "Inventory Analytics Write",
+    "technical_id": "inventory.analytics.write"
+  },
+  "shipments.access.write": {
+    "display_name": "Shipments Access Write",
+    "technical_id": "shipments.access.write"
+  },
+  "locations.notes.history.read": {
+    "display_name": "Locations Notes History Read",
+    "technical_id": "locations.notes.history.read"
+  },
+  "reviews.details.status.events.write": {
+    "display_name": "Reviews Details Status Events Write",
+    "technical_id": "reviews.details.status.events.write"
+  },
+  "refunds.access.read": {
+    "display_name": "Refunds Access Read",
+    "technical_id": "refunds.access.read"
+  },
+  "reports.alerts.events.items.read": {
+    "display_name": "Reports Alerts Events Items Read",
+    "technical_id": "reports.alerts.events.items.read"
+  },
+  "products.notifications.settings.read": {
+    "display_name": "Products Notifications Settings Read",
+    "technical_id": "products.notifications.settings.read"
+  },
+  "promotions.events.alerts.write": {
+    "display_name": "Promotions Events Alerts Write",
+    "technical_id": "promotions.events.alerts.write"
+  },
+  "products.metadata.notifications.write": {
+    "display_name": "Products Metadata Notifications Write",
+    "technical_id": "products.metadata.notifications.write"
+  },
+  "users.details.read": {
+    "display_name": "Users Details Read",
+    "technical_id": "users.details.read"
+  },
+  "invoices.permissions.settings.write": {
+    "display_name": "Invoices Permissions Settings Write",
+    "technical_id": "invoices.permissions.settings.write"
+  },
+  "ratings.images.status.write": {
+    "display_name": "Ratings Images Status Write",
+    "technical_id": "ratings.images.status.write"
+  },
+  "products.metadata.alerts.items.write": {
+    "display_name": "Products Metadata Alerts Items Write",
+    "technical_id": "products.metadata.alerts.items.write"
+  },
+  "invoices.settings.history.read": {
+    "display_name": "Invoices Settings History Read",
+    "technical_id": "invoices.settings.history.read"
+  },
+  "inventory.notifications.write": {
+    "display_name": "Inventory Notifications Write",
+    "technical_id": "inventory.notifications.write"
+  },
+  "inventory.notifications.permissions.images.write": {
+    "display_name": "Inventory Notifications Permissions Images Write",
+    "technical_id": "inventory.notifications.permissions.images.write"
+  },
+  "reviews.access.write": {
+    "display_name": "Reviews Access Write",
+    "technical_id": "reviews.access.write"
+  },
+  "reports.logs.notifications.write": {
+    "display_name": "Reports Logs Notifications Write",
+    "technical_id": "reports.logs.notifications.write"
+  },
+  "warehouses.settings.images.write": {
+    "display_name": "Warehouses Settings Images Write",
+    "technical_id": "warehouses.settings.images.write"
+  },
+  "discounts.permissions.logs.write": {
+    "display_name": "Discounts Permissions Logs Write",
+    "technical_id": "discounts.permissions.logs.write"
+  },
+  "warehouses.items.read": {
+    "display_name": "Warehouses Items Read",
+    "technical_id": "warehouses.items.read"
+  },
+  "warehouses.alerts.metadata.notifications.write": {
+    "display_name": "Warehouses Alerts Metadata Notifications Write",
+    "technical_id": "warehouses.alerts.metadata.notifications.write"
+  },
+  "products.details.read": {
+    "display_name": "Products Details Read",
+    "technical_id": "products.details.read"
+  },
+  "discounts.notifications.read": {
+    "display_name": "Discounts Notifications Read",
+    "technical_id": "discounts.notifications.read"
+  },
+  "inventory.events.alerts.events.read": {
+    "display_name": "Inventory Events Alerts Events Read",
+    "technical_id": "inventory.events.alerts.events.read"
+  },
+  "discounts.logs.events.notes.read": {
+    "display_name": "Discounts Logs Events Notes Read",
+    "technical_id": "discounts.logs.events.notes.read"
+  },
+  "reviews.summary.read": {
+    "display_name": "Reviews Summary Read",
+    "technical_id": "reviews.summary.read"
+  },
+  "customers.access.logs.alerts.write": {
+    "display_name": "Customers Access Logs Alerts Write",
+    "technical_id": "customers.access.logs.alerts.write"
+  },
+  "products.status.write": {
+    "display_name": "Products Status Write",
+    "technical_id": "products.status.write"
+  },
+  "orders.analytics.metadata.notes.write": {
+    "display_name": "Orders Analytics Metadata Notes Write",
+    "technical_id": "orders.analytics.metadata.notes.write"
+  },
+  "discounts.logs.status.write": {
+    "display_name": "Discounts Logs Status Write",
+    "technical_id": "discounts.logs.status.write"
+  },
+  "shipments.alerts.permissions.write": {
+    "display_name": "Shipments Alerts Permissions Write",
+    "technical_id": "shipments.alerts.permissions.write"
+  },
+  "ratings.details.items.notes.write": {
+    "display_name": "Ratings Details Items Notes Write",
+    "technical_id": "ratings.details.items.notes.write"
+  },
+  "reports.logs.analytics.write": {
+    "display_name": "Reports Logs Analytics Write",
+    "technical_id": "reports.logs.analytics.write"
+  },
+  "promotions.details.access.status.read": {
+    "display_name": "Promotions Details Access Status Read",
+    "technical_id": "promotions.details.access.status.read"
+  },
+  "locations.notifications.metadata.images.write": {
+    "display_name": "Locations Notifications Metadata Images Write",
+    "technical_id": "locations.notifications.metadata.images.write"
+  },
+  "orders.images.analytics.permissions.read": {
+    "display_name": "Orders Images Analytics Permissions Read",
+    "technical_id": "orders.images.analytics.permissions.read"
+  },
+  "inventory.metadata.summary.analytics.read": {
+    "display_name": "Inventory Metadata Summary Analytics Read",
+    "technical_id": "inventory.metadata.summary.analytics.read"
+  },
+  "users.summary.permissions.logs.read": {
+    "display_name": "Users Summary Permissions Logs Read",
+    "technical_id": "users.summary.permissions.logs.read"
+  },
+  "customers.items.notes.write": {
+    "display_name": "Customers Items Notes Write",
+    "technical_id": "customers.items.notes.write"
+  },
+  "orders.analytics.status.events.write": {
+    "display_name": "Orders Analytics Status Events Write",
+    "technical_id": "orders.analytics.status.events.write"
+  },
+  "shipments.history.access.write": {
+    "display_name": "Shipments History Access Write",
+    "technical_id": "shipments.history.access.write"
+  },
+  "returns.access.write": {
+    "display_name": "Returns Access Write",
+    "technical_id": "returns.access.write"
+  },
+  "discounts.images.events.write": {
+    "display_name": "Discounts Images Events Write",
+    "technical_id": "discounts.images.events.write"
+  },
+  "orders.notifications.logs.read": {
+    "display_name": "Orders Notifications Logs Read",
+    "technical_id": "orders.notifications.logs.read"
+  },
+  "promotions.status.logs.settings.write": {
+    "display_name": "Promotions Status Logs Settings Write",
+    "technical_id": "promotions.status.logs.settings.write"
+  },
+  "invoices.settings.items.summary.read": {
+    "display_name": "Invoices Settings Items Summary Read",
+    "technical_id": "invoices.settings.items.summary.read"
+  },
+  "orders.settings.write": {
+    "display_name": "Orders Settings Write",
+    "technical_id": "orders.settings.write"
+  },
+  "reviews.details.images.write": {
+    "display_name": "Reviews Details Images Write",
+    "technical_id": "reviews.details.images.write"
+  },
+  "warehouses.metadata.metadata.metadata.write": {
+    "display_name": "Warehouses Metadata Metadata Metadata Write",
+    "technical_id": "warehouses.metadata.metadata.metadata.write"
+  },
+  "invoices.logs.events.write": {
+    "display_name": "Invoices Logs Events Write",
+    "technical_id": "invoices.logs.events.write"
+  },
+  "customers.access.write": {
+    "display_name": "Customers Access Write",
+    "technical_id": "customers.access.write"
+  },
+  "discounts.access.read": {
+    "display_name": "Discounts Access Read",
+    "technical_id": "discounts.access.read"
+  },
+  "inventory.permissions.notifications.read": {
+    "display_name": "Inventory Permissions Notifications Read",
+    "technical_id": "inventory.permissions.notifications.read"
+  },
+  "locations.events.write": {
+    "display_name": "Locations Events Write",
+    "technical_id": "locations.events.write"
+  },
+  "reports.alerts.read": {
+    "display_name": "Reports Alerts Read",
+    "technical_id": "reports.alerts.read"
+  },
+  "returns.status.write": {
+    "display_name": "Returns Status Write",
+    "technical_id": "returns.status.write"
+  },
+  "inventory.alerts.access.status.write": {
+    "display_name": "Inventory Alerts Access Status Write",
+    "technical_id": "inventory.alerts.access.status.write"
+  },
+  "refunds.analytics.permissions.settings.write": {
+    "display_name": "Refunds Analytics Permissions Settings Write",
+    "technical_id": "refunds.analytics.permissions.settings.write"
+  },
+  "customers.summary.logs.read": {
+    "display_name": "Customers Summary Logs Read",
+    "technical_id": "customers.summary.logs.read"
+  },
+  "locations.history.read": {
+    "display_name": "Locations History Read",
+    "technical_id": "locations.history.read"
+  },
+  "products.alerts.items.read": {
+    "display_name": "Products Alerts Items Read",
+    "technical_id": "products.alerts.items.read"
+  },
+  "users.items.notifications.write": {
+    "display_name": "Users Items Notifications Write",
+    "technical_id": "users.items.notifications.write"
+  },
+  "inventory.status.read": {
+    "display_name": "Inventory Status Read",
+    "technical_id": "inventory.status.read"
+  },
+  "promotions.notes.notes.history.read": {
+    "display_name": "Promotions Notes Notes History Read",
+    "technical_id": "promotions.notes.notes.history.read"
+  },
+  "customers.images.events.read": {
+    "display_name": "Customers Images Events Read",
+    "technical_id": "customers.images.events.read"
+  },
+  "reviews.details.details.analytics.write": {
+    "display_name": "Reviews Details Details Analytics Write",
+    "technical_id": "reviews.details.details.analytics.write"
+  },
+  "reports.status.images.images.write": {
+    "display_name": "Reports Status Images Images Write",
+    "technical_id": "reports.status.images.images.write"
+  },
+  "shipments.permissions.write": {
+    "display_name": "Shipments Permissions Write",
+    "technical_id": "shipments.permissions.write"
+  },
+  "shipments.details.events.events.write": {
+    "display_name": "Shipments Details Events Events Write",
+    "technical_id": "shipments.details.events.events.write"
+  },
+  "returns.events.metadata.write": {
+    "display_name": "Returns Events Metadata Write",
+    "technical_id": "returns.events.metadata.write"
+  },
+  "inventory.history.status.write": {
+    "display_name": "Inventory History Status Write",
+    "technical_id": "inventory.history.status.write"
+  },
+  "warehouses.permissions.read": {
+    "display_name": "Warehouses Permissions Read",
+    "technical_id": "warehouses.permissions.read"
+  },
+  "users.permissions.images.summary.write": {
+    "display_name": "Users Permissions Images Summary Write",
+    "technical_id": "users.permissions.images.summary.write"
+  },
+  "inventory.settings.details.write": {
+    "display_name": "Inventory Settings Details Write",
+    "technical_id": "inventory.settings.details.write"
+  },
+  "reviews.metadata.read": {
+    "display_name": "Reviews Metadata Read",
+    "technical_id": "reviews.metadata.read"
+  },
+  "promotions.access.items.read": {
+    "display_name": "Promotions Access Items Read",
+    "technical_id": "promotions.access.items.read"
+  },
+  "users.analytics.settings.notifications.read": {
+    "display_name": "Users Analytics Settings Notifications Read",
+    "technical_id": "users.analytics.settings.notifications.read"
+  },
+  "inventory.notifications.read": {
+    "display_name": "Inventory Notifications Read",
+    "technical_id": "inventory.notifications.read"
+  },
+  "reports.alerts.details.notes.write": {
+    "display_name": "Reports Alerts Details Notes Write",
+    "technical_id": "reports.alerts.details.notes.write"
+  },
+  "ratings.alerts.alerts.items.read": {
+    "display_name": "Ratings Alerts Alerts Items Read",
+    "technical_id": "ratings.alerts.alerts.items.read"
+  },
+  "refunds.items.read": {
+    "display_name": "Refunds Items Read",
+    "technical_id": "refunds.items.read"
+  },
+  "ratings.metadata.alerts.settings.read": {
+    "display_name": "Ratings Metadata Alerts Settings Read",
+    "technical_id": "ratings.metadata.alerts.settings.read"
+  },
+  "ratings.alerts.read": {
+    "display_name": "Ratings Alerts Read",
+    "technical_id": "ratings.alerts.read"
+  },
+  "refunds.items.analytics.write": {
+    "display_name": "Refunds Items Analytics Write",
+    "technical_id": "refunds.items.analytics.write"
+  },
+  "warehouses.alerts.write": {
+    "display_name": "Warehouses Alerts Write",
+    "technical_id": "warehouses.alerts.write"
+  },
+  "reviews.status.logs.notes.read": {
+    "display_name": "Reviews Status Logs Notes Read",
+    "technical_id": "reviews.status.logs.notes.read"
+  },
+  "returns.status.summary.read": {
+    "display_name": "Returns Status Summary Read",
+    "technical_id": "returns.status.summary.read"
+  },
+  "locations.status.write": {
+    "display_name": "Locations Status Write",
+    "technical_id": "locations.status.write"
+  },
+  "products.items.access.write": {
+    "display_name": "Products Items Access Write",
+    "technical_id": "products.items.access.write"
+  },
+  "warehouses.settings.status.notes.read": {
+    "display_name": "Warehouses Settings Status Notes Read",
+    "technical_id": "warehouses.settings.status.notes.read"
+  },
+  "locations.notes.permissions.status.write": {
+    "display_name": "Locations Notes Permissions Status Write",
+    "technical_id": "locations.notes.permissions.status.write"
+  },
+  "warehouses.alerts.alerts.analytics.write": {
+    "display_name": "Warehouses Alerts Alerts Analytics Write",
+    "technical_id": "warehouses.alerts.alerts.analytics.write"
+  },
+  "promotions.settings.write": {
+    "display_name": "Promotions Settings Write",
+    "technical_id": "promotions.settings.write"
+  },
+  "discounts.settings.write": {
+    "display_name": "Discounts Settings Write",
+    "technical_id": "discounts.settings.write"
+  },
+  "locations.events.access.write": {
+    "display_name": "Locations Events Access Write",
+    "technical_id": "locations.events.access.write"
+  },
+  "warehouses.summary.write": {
+    "display_name": "Warehouses Summary Write",
+    "technical_id": "warehouses.summary.write"
+  },
+  "reviews.logs.images.read": {
+    "display_name": "Reviews Logs Images Read",
+    "technical_id": "reviews.logs.images.read"
+  },
+  "invoices.status.history.summary.write": {
+    "display_name": "Invoices Status History Summary Write",
+    "technical_id": "invoices.status.history.summary.write"
+  },
+  "warehouses.images.access.write": {
+    "display_name": "Warehouses Images Access Write",
+    "technical_id": "warehouses.images.access.write"
+  },
+  "promotions.metadata.images.settings.read": {
+    "display_name": "Promotions Metadata Images Settings Read",
+    "technical_id": "promotions.metadata.images.settings.read"
+  },
+  "users.access.notes.write": {
+    "display_name": "Users Access Notes Write",
+    "technical_id": "users.access.notes.write"
+  },
+  "reviews.analytics.read": {
+    "display_name": "Reviews Analytics Read",
+    "technical_id": "reviews.analytics.read"
+  },
+  "reviews.status.details.access.read": {
+    "display_name": "Reviews Status Details Access Read",
+    "technical_id": "reviews.status.details.access.read"
+  },
+  "returns.logs.summary.notes.read": {
+    "display_name": "Returns Logs Summary Notes Read",
+    "technical_id": "returns.logs.summary.notes.read"
+  },
+  "reports.notes.access.write": {
+    "display_name": "Reports Notes Access Write",
+    "technical_id": "reports.notes.access.write"
+  },
+  "returns.alerts.write": {
+    "display_name": "Returns Alerts Write",
+    "technical_id": "returns.alerts.write"
+  },
+  "reports.alerts.write": {
+    "display_name": "Reports Alerts Write",
+    "technical_id": "reports.alerts.write"
+  },
+  "invoices.permissions.alerts.read": {
+    "display_name": "Invoices Permissions Alerts Read",
+    "technical_id": "invoices.permissions.alerts.read"
+  },
+  "orders.details.notes.read": {
+    "display_name": "Orders Details Notes Read",
+    "technical_id": "orders.details.notes.read"
+  },
+  "locations.settings.details.status.write": {
+    "display_name": "Locations Settings Details Status Write",
+    "technical_id": "locations.settings.details.status.write"
+  },
+  "ratings.alerts.write": {
+    "display_name": "Ratings Alerts Write",
+    "technical_id": "ratings.alerts.write"
+  },
+  "orders.details.read": {
+    "display_name": "Orders Details Read",
+    "technical_id": "orders.details.read"
+  },
+  "reports.summary.permissions.write": {
+    "display_name": "Reports Summary Permissions Write",
+    "technical_id": "reports.summary.permissions.write"
+  },
+  "customers.notifications.details.summary.read": {
+    "display_name": "Customers Notifications Details Summary Read",
+    "technical_id": "customers.notifications.details.summary.read"
+  },
+  "discounts.history.events.logs.write": {
+    "display_name": "Discounts History Events Logs Write",
+    "technical_id": "discounts.history.events.logs.write"
+  },
+  "users.history.write": {
+    "display_name": "Users History Write",
+    "technical_id": "users.history.write"
+  },
+  "returns.items.write": {
+    "display_name": "Returns Items Write",
+    "technical_id": "returns.items.write"
+  },
+  "returns.events.write": {
+    "display_name": "Returns Events Write",
+    "technical_id": "returns.events.write"
+  },
+  "customers.history.read": {
+    "display_name": "Customers History Read",
+    "technical_id": "customers.history.read"
+  },
+  "shipments.status.alerts.logs.read": {
+    "display_name": "Shipments Status Alerts Logs Read",
+    "technical_id": "shipments.status.alerts.logs.read"
+  },
+  "locations.notes.write": {
+    "display_name": "Locations Notes Write",
+    "technical_id": "locations.notes.write"
+  },
+  "reviews.items.logs.metadata.write": {
+    "display_name": "Reviews Items Logs Metadata Write",
+    "technical_id": "reviews.items.logs.metadata.write"
+  },
+  "reports.metadata.notifications.analytics.write": {
+    "display_name": "Reports Metadata Notifications Analytics Write",
+    "technical_id": "reports.metadata.notifications.analytics.write"
+  },
+  "orders.history.history.analytics.read": {
+    "display_name": "Orders History History Analytics Read",
+    "technical_id": "orders.history.history.analytics.read"
+  },
+  "ratings.details.permissions.write": {
+    "display_name": "Ratings Details Permissions Write",
+    "technical_id": "ratings.details.permissions.write"
+  },
+  "promotions.logs.write": {
+    "display_name": "Promotions Logs Write",
+    "technical_id": "promotions.logs.write"
+  },
+  "reviews.notes.permissions.write": {
+    "display_name": "Reviews Notes Permissions Write",
+    "technical_id": "reviews.notes.permissions.write"
+  },
+  "reports.permissions.write": {
+    "display_name": "Reports Permissions Write",
+    "technical_id": "reports.permissions.write"
+  },
+  "inventory.alerts.status.details.write": {
+    "display_name": "Inventory Alerts Status Details Write",
+    "technical_id": "inventory.alerts.status.details.write"
+  },
+  "invoices.items.read": {
+    "display_name": "Invoices Items Read",
+    "technical_id": "invoices.items.read"
+  },
+  "customers.summary.history.write": {
+    "display_name": "Customers Summary History Write",
+    "technical_id": "customers.summary.history.write"
+  },
+  "discounts.logs.alerts.analytics.read": {
+    "display_name": "Discounts Logs Alerts Analytics Read",
+    "technical_id": "discounts.logs.alerts.analytics.read"
   }
 }
